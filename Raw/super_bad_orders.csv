@@ -1,0 +1,3011 @@
+order_id,customer_id,order_date,status,total_items,payment_method,shipping_city
+N/A,C00223,2024-12-01T13:19:50,cancelled,1,null,Noida
+O0000002,32-13-2025,invalid,###BAD###,3,netbanking,Mumbai
+,C00273,2025-03-14T02:34:30,null,2,upi,###BAD###
+null,nan,,not_a_date,1,@@@,Kolkata
+ ,C00756,null,9999-99-99,nan,netbanking,null
+O0000006,not_a_date,2024-10-01T10:10:40,delivered,1,card,Chennai
+O0000007,C00493,@@@,delivered,1,netbanking,Delhi
+###BAD###,C00242,,null,2,card,Hyderabad
+123abc,C00809,nan,cancelled,1,cod,Bengaluru
+O0000010,@@@,2023-07-03T07:10:31,delivered,2,N/A,Mumbai
+O0000011,nan, ,delivered,NULL,card,null
+O0000012,C00500,2024-04-21T10:35:50,,3,upi,Noida
+O0000013,C00751,123abc,delivered,invalid,9999-99-99,not_a_date
+O0000014,,2023-03-22T15:45:28,delivered,1,,invalid
+O0000015,C00581, ,delivered,1,upi,null
+9999-99-99,C00071,2023-11-14T14:18:52,9999-99-99,1,upi,Noida
+,nan,2025-11-02T12:46:11,nan,1,32-13-2025,Kolkata
+nan,32-13-2025,2023-05-10T21:34:52,delivered,1,N/A,Bengaluru
+O0000019,C00628,2024-08-02T10:26:41,null,1,card,Delhi
+O0000020,N/A,9999-99-99,delivered,1,32-13-2025,9999-99-99
+9999-99-99,###BAD###,invalid,delivered,1,###BAD###,Chennai
+@@@,C00051,2025-01-20T07:38:45,delivered,1,netbanking,
+O0000023,###BAD###, ,null,1,@@@,Pune
+###BAD###,C00814,2023-04-30T19:17:33,delivered,1,not_a_date,Chennai
+O0000025,123abc,2024-03-18T16:06:06,delivered,1,cod, 
+O0000026,C00198,2024-05-24T18:40:11,N/A,2,cod,NULL
+O0000027,null,2025-01-03T21:29:44,delivered,nan,card,N/A
+O0000028,9999-99-99,2024-01-05T17:25:32,delivered,NULL,nan,Noida
+O0000029,C00956,2024-12-22T10:35:20,processing,1,nan,9999-99-99
+O0000030,C00846,null,delivered,32-13-2025,N/A,Chennai
+N/A,32-13-2025,N/A,delivered,1,upi,9999-99-99
+N/A,C00531,invalid,shipped,1,32-13-2025,9999-99-99
+O0000033,C00023,32-13-2025,nan,1,not_a_date,Delhi
+invalid,C00039,NULL,delivered,2,invalid,NULL
+@@@,C00263,2024-09-07T02:36:25,delivered,@@@,netbanking,Delhi
+,C00741,,9999-99-99,2,card,Chennai
+###BAD###,C00039,32-13-2025,,N/A,upi,not_a_date
+@@@,C00901,2025-06-08T13:59:55,delivered,###BAD###,netbanking,@@@
+ ,9999-99-99,2025-02-22T01:19:33,delivered,NULL,netbanking,Pune
+NULL,C00515,2024-03-28T04:03:43,@@@,1,###BAD###,nan
+9999-99-99,###BAD###,nan,delivered,1,NULL,Bengaluru
+null,C00136,NULL,delivered,123abc,N/A,Chennai
+null,C00088,2025-03-27T16:27:49,delivered,###BAD###,netbanking,Noida
+O0000044,C00573,2024-02-10T15:25:41,delivered,2,netbanking,null
+O0000045,NULL,invalid,processing,123abc,@@@,Delhi
+9999-99-99,C00688,2025-04-27T13:23:22,delivered,32-13-2025,upi,Mumbai
+O0000047,invalid,###BAD###,32-13-2025,nan,cod,123abc
+O0000048,invalid,N/A,delivered,null,card,Delhi
+not_a_date,C00758,nan,delivered,1,upi,Mumbai
+O0000050,C00352,2023-08-16T09:28:30,@@@,1,netbanking,Kolkata
+O0000051,C00209,2024-06-13T17:30:39,delivered,3,,32-13-2025
+O0000052,not_a_date,2023-03-31T08:10:03, ,123abc,upi,Mumbai
+O0000053,,NULL, ,2,@@@,123abc
+O0000054,not_a_date,2024-08-22T20:24:14,shipped,2,card,Pune
+invalid,C00497,2023-06-30T05:12:32,nan,1,card,Mumbai
+O0000056,###BAD###,2024-09-16T10:31:25,NULL,2,###BAD###,32-13-2025
+N/A,C00701,@@@,delivered,1,not_a_date,###BAD###
+32-13-2025,not_a_date,2024-06-11T12:56:52,shipped, ,upi,Kolkata
+O0000059,C00156,2024-11-30T12:42:08,delivered,1,cod,123abc
+O0000060,C00428,2024-05-07T18:09:27,shipped, ,upi,Noida
+O0000061,C00556,2023-09-27T06:41:08,delivered,not_a_date,,Bengaluru
+not_a_date,C00317,###BAD###,delivered,1,netbanking,@@@
+,C00070,null,processing,2,null,Pune
+O0000064,C00902,@@@,delivered,1,upi,Bengaluru
+null,C00798,2024-01-20T03:08:11,delivered,32-13-2025,upi, 
+9999-99-99,###BAD###,2024-04-20T07:43:01,delivered,not_a_date,invalid,Bengaluru
+O0000067,C00515,9999-99-99,delivered,1,NULL,invalid
+O0000068,C00486,2023-10-09T05:12:14,9999-99-99,###BAD###,32-13-2025,nan
+O0000069,C00974,@@@,nan,1,netbanking,Delhi
+O0000070,C00182,@@@,NULL,invalid,cod,123abc
+O0000071,@@@,2025-04-09T01:38:47,returned,2,upi,@@@
+###BAD###,nan,2023-03-20T16:06:28,###BAD###,1,card,Kolkata
+O0000073,C00532,nan,###BAD###,1,invalid,Kolkata
+O0000074,not_a_date,2025-06-19T12:56:19,cancelled,NULL,upi,Noida
+O0000075,9999-99-99,invalid,nan,2,netbanking,Noida
+O0000076,N/A,2025-07-14T02:46:32,delivered,2,not_a_date,nan
+O0000077,C00424,2024-10-24T14:01:11,32-13-2025,2,netbanking,invalid
+O0000078,C00093,###BAD###,processing,null,netbanking,Delhi
+NULL,C00094,2023-08-22T22:28:40,delivered,1,cod,Bengaluru
+O0000080,nan,2025-02-18T01:49:10,processing,not_a_date,@@@,Bengaluru
+O0000081,N/A,2023-10-24T05:49:45,null, ,upi,Chennai
+N/A,not_a_date,2025-07-02T09:40:11,null,1, ,N/A
+O0000083,invalid,2024-06-02T00:29:31, ,1,card,Noida
+invalid,C00244,32-13-2025,invalid,1,cod,32-13-2025
+O0000085,NULL,2023-01-14T07:56:35,N/A,123abc,null,invalid
+null,123abc,2023-10-31T01:41:22,delivered,not_a_date,123abc,invalid
+null,C00340,2023-06-29T01:06:26,shipped,2,netbanking,nan
+O0000088,N/A,2023-12-30T14:47:37,delivered,1,card,Delhi
+O0000089,C00787,2024-09-04T10:23:57,invalid,NULL,not_a_date,Hyderabad
+O0000090,C00864,2023-05-13T09:30:08,###BAD###,1,9999-99-99,Pune
+,C00540,nan,delivered,1,card,Delhi
+O0000092,C00586,123abc,delivered,2,upi,nan
+,not_a_date,NULL,nan,2, ,Bengaluru
+O0000094,C00630,NULL,@@@,NULL,###BAD###,Kolkata
+null,C00726,,delivered,2,card,32-13-2025
+O0000096,C00819,2025-04-29T13:02:21,delivered,nan,not_a_date,NULL
+O0000097,C00656,9999-99-99,cancelled,1,upi,Chennai
+O0000098,C00519,2024-10-25T00:07:43,delivered,not_a_date,cod,Mumbai
+O0000099,C00853,2023-12-26T06:21:53,delivered,32-13-2025,cod,Noida
+null,null,2023-03-14T20:08:30,delivered,not_a_date,32-13-2025,Pune
+O0000101,C00474,123abc,delivered,1,not_a_date,Mumbai
+O0000102,@@@,2024-11-10T11:04:09,delivered,1,card,9999-99-99
+null, ,not_a_date,delivered,nan,card,Chennai
+O0000104,invalid,2024-10-06T22:02:17,delivered,1,N/A,Kolkata
+O0000105,123abc, ,delivered,null,card,@@@
+not_a_date,invalid,2023-03-18T06:58:05,9999-99-99,@@@,N/A,Noida
+O0000107,N/A,2025-10-21T04:12:21,invalid,1,not_a_date,Pune
+O0000108,C00147,2023-07-21T16:43:08,nan,2,card,###BAD###
+ ,123abc,2023-08-26T00:19:59,delivered,@@@,not_a_date,invalid
+invalid,C00479,2023-04-05T03:33:49,delivered,1,upi,###BAD###
+O0000111,C00592,2024-10-01T20:57:13,@@@,1,netbanking,Chennai
+O0000112,123abc,9999-99-99,delivered,1,netbanking,Chennai
+ ,C00118,2023-02-01T19:35:32,,2,upi,Pune
+32-13-2025,C00278,2023-10-17T22:51:18,not_a_date,not_a_date,invalid,
+O0000115,N/A,2024-11-24T17:28:03,delivered,1,,null
+ ,C00109, ,delivered,2,cod,123abc
+O0000117,nan,2024-11-11T06:45:48,delivered,null,card,invalid
+@@@,###BAD###,2023-09-27T02:52:51,nan,1,cod,Delhi
+invalid,C00467,2024-09-27T21:41:45,cancelled,2,cod,Kolkata
+O0000120,C00971,2024-04-03T04:55:57,delivered,1,32-13-2025,@@@
+O0000121,C00188,2024-11-07T10:29:31,9999-99-99,@@@,cod,###BAD###
+not_a_date,C00360,2025-09-07T14:54:10,delivered,2,upi,null
+O0000123,NULL,2023-07-30T12:52:45,@@@,invalid,upi,null
+O0000124,C00812,123abc,not_a_date,1,N/A,N/A
+O0000125,C00562,9999-99-99, , ,invalid,not_a_date
+ ,###BAD###,2024-12-01T17:44:15,delivered,,card,invalid
+O0000127,C00118,2025-08-06T10:35:06,32-13-2025,2,null,Chennai
+,null,2025-04-11T02:38:06,null,2,cod,Pune
+N/A,C00507,###BAD###,delivered,1,card,NULL
+O0000130,C00677,2023-11-02T14:34:18,delivered,123abc,cod,Kolkata
+nan,invalid,32-13-2025,processing,null,upi,Hyderabad
+O0000132,C00736,N/A,,not_a_date,cod,Bengaluru
+O0000133, ,@@@,delivered,1,card, 
+###BAD###,C00721,2025-01-05T03:55:18,not_a_date,1,NULL,Hyderabad
+O0000135,C00720,N/A,###BAD###,invalid,cod,null
+123abc,nan,2024-03-08T21:11:30,delivered,,32-13-2025,nan
+O0000137,C00861,2025-05-04T04:18:55,delivered,1,netbanking,@@@
+O0000138,C00074,2023-02-02T04:46:56,not_a_date,2,cod,Bengaluru
+O0000139,C00087,@@@,processing,9999-99-99,cod,Bengaluru
+O0000140,invalid,2025-05-18T17:52:28,32-13-2025,3,netbanking,Bengaluru
+not_a_date,C00435,null,@@@,9999-99-99,32-13-2025,Hyderabad
+O0000142,NULL,2025-01-21T01:02:36,delivered,1,nan,Delhi
+O0000143,123abc,2025-09-13T22:05:09,@@@,123abc,upi,Noida
+O0000144,C00530,2023-06-10T16:56:39,delivered,1,cod,Delhi
+O0000145,C00701,###BAD###,delivered,1,###BAD###,123abc
+null,C00465,2025-08-18T18:46:21,nan,NULL,upi,123abc
+O0000147,C00172,N/A,delivered,1,not_a_date,Mumbai
+O0000148,C00645,2025-08-27T18:10:36,delivered,1,upi,123abc
+ ,C00294,2025-09-19T02:08:32,delivered,1,upi,@@@
+O0000150,C00136,2024-07-29T08:54:16,@@@,null,123abc,Bengaluru
+,C00932,2023-11-06T21:28:23,###BAD###,2,,Kolkata
+O0000152,C00497,2024-01-06T16:55:02,delivered,1,card,Bengaluru
+###BAD###,C00610,32-13-2025,NULL,1,NULL,Noida
+O0000154,C00744,9999-99-99,processing,1,null,
+O0000155,@@@,NULL,not_a_date,3, ,Noida
+N/A,C00765,N/A,delivered,1,@@@,Bengaluru
+ ,nan,123abc,cancelled,nan,cod,not_a_date
+O0000158,not_a_date,2023-03-26T03:58:34,delivered,not_a_date,cod,invalid
+invalid,C00344,2024-07-07T08:51:06,###BAD###,1,cod,Noida
+not_a_date,C00792,32-13-2025,nan,nan,not_a_date,Bengaluru
+O0000161,C00321,2023-01-22T21:00:53,delivered,1,cod,123abc
+O0000162,9999-99-99, ,nan,@@@,upi,Chennai
+123abc,C00198,2023-03-11T00:39:05,delivered, ,@@@,Delhi
+O0000164,C00726,2023-09-03T02:54:38, ,1,netbanking,Delhi
+O0000165,C00713,2024-01-13T08:18:29,delivered,1,nan,NULL
+O0000166,32-13-2025,2024-07-20T13:44:57,invalid,2,upi,Chennai
+O0000167,C00166,2023-06-01T08:49:03,@@@,1,upi,Mumbai
+123abc,C00265,nan,@@@,9999-99-99,null,
+O0000169,9999-99-99,NULL,123abc,1,123abc,Delhi
+O0000170,N/A,N/A,null,1,card,Chennai
+9999-99-99,C00796,2025-07-02T00:57:31,invalid,1,card,@@@
+O0000172,C00681,N/A,delivered,N/A,cod,Mumbai
+,C00528,invalid,processing,@@@,card,nan
+O0000174,C00004,2025-02-26T22:52:49,delivered,1,upi,Pune
+O0000175,C00699,2024-09-12T12:03:40,shipped,null,@@@,@@@
+###BAD###,32-13-2025,2024-11-27T02:53:29,123abc,1,9999-99-99,Kolkata
+O0000177,C00181,2023-03-22T12:42:12,delivered,1,cod,Delhi
+,null,invalid,delivered,1,netbanking,Bengaluru
+O0000179,C00037,2024-01-31T00:46:37,, ,invalid,32-13-2025
+O0000180,C00812,N/A,returned,123abc,card,Mumbai
+not_a_date,C00348,2023-04-25T10:50:46,not_a_date,N/A,not_a_date,invalid
+O0000182,not_a_date,,delivered,1,netbanking,Delhi
+9999-99-99,N/A,123abc,,2,card,Kolkata
+,N/A,,,NULL,not_a_date,###BAD###
+NULL, ,2023-12-16T18:04:52,,null,card,###BAD###
+O0000186,C00610,2024-03-27T02:51:12,delivered,1,cod,Pune
+N/A,C00124,2023-10-09T10:53:50,delivered,2,invalid,123abc
+N/A,C00344,2023-05-10T03:17:09,9999-99-99,1,123abc,Pune
+O0000189,C00567,2023-12-04T14:15:59,NULL,1,123abc,Delhi
+O0000190,C00811,2025-02-09T05:01:56,delivered,nan,card,Mumbai
+O0000191,C00184, ,processing,123abc,NULL,Noida
+O0000192,C00709,###BAD###,delivered,null,123abc,Hyderabad
+O0000193,C00245,2023-12-24T19:44:02,32-13-2025,32-13-2025,cod,###BAD###
+O0000194,C00643,2024-09-08T11:26:00,N/A,1,netbanking,Delhi
+O0000195,C00543,N/A,cancelled,1,32-13-2025,Noida
+O0000196,invalid,2024-03-02T08:03:12,delivered,N/A,netbanking,not_a_date
+O0000197,C00510,2023-12-28T05:42:59,delivered,2,upi,not_a_date
+O0000198,C00215,2025-06-09T08:21:39,9999-99-99,2,cod,32-13-2025
+O0000199,C00107,2023-04-18T17:11:10,cancelled,2,cod,Delhi
+O0000200,,9999-99-99,9999-99-99,2,cod,Kolkata
+ ,C00766,###BAD###,9999-99-99,123abc,null,Kolkata
+O0000202,C00756,2025-04-24T06:24:57,delivered,32-13-2025,cod,Noida
+O0000203,C00056,2025-06-11T04:13:59,@@@,,netbanking,Hyderabad
+NULL,9999-99-99,nan,@@@,9999-99-99,upi,NULL
+O0000205,C00344,@@@,delivered,NULL,netbanking,Delhi
+O0000206,N/A,2025-08-11T14:26:10,cancelled,null,@@@,Chennai
+O0000207,###BAD###,N/A,N/A,1,9999-99-99,Delhi
+O0000208,C00422,2025-09-28T06:37:30,processing,1,upi,not_a_date
+32-13-2025,C00748,invalid,delivered,not_a_date,cod,Kolkata
+O0000210,C00914,2023-11-02T18:57:00,delivered,1,card,Mumbai
+O0000211,C00482,nan,delivered,null,card,Noida
+123abc,###BAD###, ,delivered,1,cod,Kolkata
+O0000213,C00136,2025-01-04T09:15:41,shipped,1,card,Noida
+###BAD###,C00686,invalid,###BAD###,null,card,Noida
+invalid,,2023-10-11T22:25:11,NULL,2,upi,Noida
+,C00721,invalid,processing,null,invalid,Mumbai
+123abc,N/A,2025-05-22T08:44:39,delivered,1,netbanking,###BAD###
+O0000218,C00636,2024-11-18T23:59:03,delivered,2,null,###BAD###
+O0000219,C00114,2025-02-23T11:29:39,delivered,1,upi,invalid
+O0000220, ,2023-05-18T17:45:49,123abc,###BAD###,upi,Kolkata
+123abc,C00553,2023-08-21T20:30:47,processing, ,netbanking,Kolkata
+O0000222,9999-99-99,2024-12-23T08:32:43,delivered,@@@,###BAD###,null
+O0000223,123abc,nan, ,1,card,9999-99-99
+NULL,invalid,9999-99-99,cancelled,123abc,card,invalid
+O0000225,NULL,not_a_date,processing,32-13-2025,not_a_date,Delhi
+O0000226,null, ,###BAD###,1,netbanking,Kolkata
+9999-99-99,C00534,2023-02-16T09:26:43,delivered,3,@@@,Noida
+O0000228,32-13-2025,2025-05-10T14:47:41,delivered,###BAD###,N/A,Delhi
+@@@,C00023,2024-04-20T16:41:21,delivered,2,9999-99-99,Pune
+O0000230,NULL,2025-06-30T14:19:36,delivered,1,not_a_date, 
+null,nan,,N/A,null,card,Bengaluru
+O0000232,nan,null,processing,1,upi,invalid
+O0000233,C00997,2023-12-26T22:44:57,NULL,,NULL,Bengaluru
+O0000234,C00244,invalid,delivered,1,upi,null
+O0000235,@@@,123abc,delivered,1,NULL,@@@
+O0000236,###BAD###,NULL,delivered,123abc,@@@,Hyderabad
+O0000237,C00954,2025-10-19T04:29:59,delivered, ,card,invalid
+invalid,9999-99-99,,32-13-2025,1,netbanking,not_a_date
+O0000239,nan,2023-08-19T23:30:57,null,###BAD###,card,Chennai
+O0000240,C00026,2025-04-02T19:53:14,delivered,NULL,32-13-2025,9999-99-99
+O0000241,C00057,2024-02-04T18:33:14,cancelled, ,upi,Kolkata
+O0000242,C00024,2023-06-21T17:54:28,delivered,3,NULL,Hyderabad
+O0000243,,32-13-2025,,2,card,Pune
+O0000244,C00408,2023-10-30T22:54:27,delivered,not_a_date,N/A,123abc
+O0000245,C00292,2024-12-07T11:19:28,processing,1,###BAD###,null
+NULL,C00746,2025-06-28T23:26:51,N/A,2,not_a_date,Hyderabad
+O0000247,C00747,2025-04-28T04:53:37,nan,1,###BAD###,32-13-2025
+O0000248,9999-99-99,2025-08-30T16:21:04,processing,3,cod,Delhi
+O0000249,C00007, ,delivered,,cod,Bengaluru
+O0000250,C00205,2024-01-16T12:18:35,delivered,2,upi,Chennai
+O0000251,C00506,2025-08-07T07:01:50,delivered,1,upi,9999-99-99
+O0000252,NULL,32-13-2025,processing,,cod,Bengaluru
+O0000253,C00504,2024-05-16T00:07:48,delivered,123abc,card,Pune
+nan,C00596,2025-09-11T18:27:55,delivered,null,cod,Delhi
+O0000255,C00383,,,1,N/A,NULL
+O0000256,C00900,2023-10-05T11:10:03,@@@,1,123abc,Pune
+ ,C00050,2024-08-16T09:33:40,processing,2,,Bengaluru
+O0000258,C00784,@@@,delivered,1,upi,32-13-2025
+nan,###BAD###,2025-01-12T03:34:37,delivered,invalid,netbanking,Mumbai
+nan,C00141,NULL,invalid,invalid,netbanking,9999-99-99
+N/A,C00224,@@@,delivered,1,###BAD###,Hyderabad
+O0000262,C00472,2023-06-06T03:52:08,,3,cod,NULL
+O0000263,C00320,2025-01-12T04:52:28,N/A,@@@,upi,N/A
+O0000264,C00727, ,delivered,1,netbanking,Bengaluru
+O0000265,invalid,,delivered,2,card,nan
+O0000266,C00708,null, ,###BAD###,N/A,123abc
+N/A,C00202,invalid,###BAD###,invalid,card,Noida
+ ,C00122,2024-06-02T01:04:19,delivered,2,9999-99-99,Delhi
+O0000269,C00943,2024-02-25T18:57:12,delivered,NULL,N/A,123abc
+O0000270,C00093,2023-10-26T23:17:37,delivered,123abc,netbanking,Kolkata
+nan,C00518,2023-05-20T03:52:37,cancelled,2,123abc,Kolkata
+O0000272,NULL,NULL,delivered,invalid,123abc,Kolkata
+O0000273,C00943,2025-10-29T22:30:23,delivered,,netbanking,Noida
+123abc,9999-99-99,2023-08-08T05:53:22,shipped,2,cod,NULL
+###BAD###,@@@,2024-04-11T13:07:48,123abc,1,card,Noida
+123abc,@@@,32-13-2025,delivered, ,card,Delhi
+O0000277,not_a_date,invalid,delivered,2,upi,Noida
+,###BAD###,N/A,123abc,1,card,Noida
+O0000279,C00962,nan,invalid,2,NULL,Hyderabad
+O0000280,C00449,32-13-2025,delivered,2,card,Bengaluru
+@@@,###BAD###,2025-01-14T06:21:12,delivered,nan,cod,Delhi
+O0000282,C00239,NULL,cancelled,1,upi,nan
+O0000283,C00365,2025-09-01T21:38:25,shipped,1,upi,Bengaluru
+O0000284,C00787,not_a_date,delivered,1,netbanking,9999-99-99
+O0000285,C00031,@@@, ,1,card,Bengaluru
+,C00392,@@@,,N/A,card,Noida
+32-13-2025,C00812,2025-08-12T06:18:42,delivered,1,upi,Pune
+32-13-2025,9999-99-99,NULL,123abc,1,cod,Noida
+O0000289,C00323,N/A,delivered,1,9999-99-99,###BAD###
+O0000290,C00504,nan,,1,32-13-2025,Noida
+NULL,C00676,NULL,delivered,9999-99-99,card,Hyderabad
+O0000292,9999-99-99,2025-10-10T18:24:39,delivered,###BAD###,upi,Pune
+invalid,C00063,2023-02-27T18:02:08,processing,null,upi,Mumbai
+9999-99-99,not_a_date,N/A,delivered,1,upi,N/A
+O0000295,C00360,invalid,delivered,1,upi,Delhi
+O0000296,C00933,2023-05-15T09:07:21,delivered,1,upi,Mumbai
+O0000297,C00472,2025-05-15T18:32:57,delivered,2,card,Noida
+O0000298,C00603,2023-02-15T10:24:36,delivered,9999-99-99,invalid,Noida
+###BAD###,C00103,2024-02-26T10:31:32,returned,1,not_a_date,Bengaluru
+O0000300,C00630,2024-09-05T11:27:12,delivered,1,not_a_date,Kolkata
+32-13-2025,C00295,,delivered,1,netbanking,Delhi
+O0000302,C00735, ,delivered,NULL,NULL,@@@
+N/A,C00215,2024-12-12T02:41:52,delivered,1,upi,@@@
+N/A,C00680,32-13-2025,invalid,N/A,cod,Bengaluru
+not_a_date,C00903,2023-02-08T20:45:33,processing,@@@,cod, 
+O0000306,not_a_date,2025-08-15T08:59:40,null,3,cod,Mumbai
+O0000307,NULL,2024-02-15T11:29:09,delivered,32-13-2025,upi,Hyderabad
+O0000308,C00421,2024-10-14T02:40:13,32-13-2025,1,upi,Chennai
+O0000309,C00662,2023-11-25T08:43:38,delivered,2,netbanking,9999-99-99
+O0000310,C00154,2024-01-29T00:15:51,@@@,1,###BAD###,Noida
+32-13-2025,9999-99-99,2025-06-12T13:41:57,delivered,1,netbanking,Chennai
+O0000312,9999-99-99,2023-03-01T08:50:51,NULL,1,@@@,
+O0000313,C00987,2025-09-22T00:03:55, ,###BAD###,upi,Chennai
+N/A,invalid,2023-05-11T13:57:23,delivered,3,123abc,Hyderabad
+O0000315,C00966,2023-10-15T07:07:36,delivered,invalid,card,
+9999-99-99,C00509,nan,123abc,1,null, 
+invalid,invalid,2025-03-09T23:47:15,N/A,invalid,,N/A
+O0000318,C00110,2023-12-25T06:17:28,123abc,1,card,###BAD###
+O0000319,C00547,2025-02-06T22:07:20,not_a_date,1,cod,9999-99-99
+invalid,C00987,2024-07-22T04:23:30,NULL,1,,Mumbai
+O0000321,@@@,2023-03-13T23:42:51,nan,,netbanking,9999-99-99
+O0000322,C00566,NULL,delivered,invalid,card,Kolkata
+ , ,2025-06-25T12:00:58,not_a_date,@@@,,not_a_date
+O0000324,nan,2024-04-27T09:13:55,processing,NULL,cod,Pune
+O0000325,C00901,2025-04-12T01:17:55,delivered,N/A,cod,Noida
+O0000326,@@@,@@@,processing,123abc,card,Bengaluru
+###BAD###,C00716,2024-06-18T16:04:22,delivered,1,upi,Noida
+,C00712,@@@,null,32-13-2025,32-13-2025,Bengaluru
+not_a_date,invalid,2025-03-31T06:40:19,nan,1,card,@@@
+O0000330,123abc,123abc,processing,1,netbanking,Hyderabad
+9999-99-99,C00812, ,32-13-2025,###BAD###,32-13-2025, 
+O0000332,32-13-2025,2024-11-01T09:12:05,delivered,2,N/A,Hyderabad
+N/A,C00898,N/A,processing,1,netbanking,9999-99-99
+O0000334,C00998,2025-08-05T06:16:44,processing,null,NULL, 
+O0000335,C00633,2025-05-28T19:16:09,nan,32-13-2025,upi,@@@
+not_a_date,C00970,2023-08-29T00:45:33,NULL,1,cod,not_a_date
+123abc,C00122,2024-04-04T22:13:12,processing,not_a_date,upi,Chennai
+O0000338,C00765,2025-10-09T12:08:27,processing,9999-99-99,netbanking,nan
+123abc,@@@,2024-01-23T13:11:26,cancelled,invalid,card,Chennai
+O0000340,not_a_date,null,processing,1,upi,9999-99-99
+invalid,C00088,,N/A,1,cod,9999-99-99
+123abc,N/A,invalid,delivered,1, ,Delhi
+O0000343,C00571,###BAD###,delivered,1,9999-99-99, 
+ ,null,2024-06-03T16:39:24,delivered,1,cod,Pune
+O0000345,C00136,123abc,delivered,NULL,cod,Pune
+O0000346,C00899,N/A,delivered,1,cod,Bengaluru
+nan, ,@@@,9999-99-99,invalid,,Pune
+nan,C00949,2025-05-30T09:57:56,delivered,@@@,upi,Pune
+invalid,null,2023-12-04T10:47:31, ,1,netbanking,N/A
+O0000350,32-13-2025,2024-01-22T04:03:14,delivered,123abc,N/A,Chennai
+nan,C00168,2025-08-14T13:07:57,null,not_a_date,card,Noida
+O0000352,C00366,2025-09-20T14:31:07,processing,2,32-13-2025,Delhi
+9999-99-99,C00358,2023-07-11T06:55:18,delivered,not_a_date,invalid, 
+O0000354,C00577,2024-03-10T18:00:33,cancelled,1,nan,Hyderabad
+O0000355,C00943,2023-06-07T07:49:31,delivered,1,upi,123abc
+O0000356,C00292,2023-09-07T12:23:37,32-13-2025,1,@@@,Pune
+O0000357,C00158,2023-03-01T02:29:53,nan,nan,,Noida
+O0000358,###BAD###,null,delivered,1,card,Noida
+123abc,C00333,123abc,returned,2,upi,###BAD###
+not_a_date,C00818,N/A,shipped,1,,Delhi
+O0000361,123abc,2024-06-06T05:15:49,processing,nan,card,Mumbai
+O0000362,C00873,123abc,delivered,1,123abc, 
+null,C00306,###BAD###,processing,###BAD###,netbanking,N/A
+O0000364,C00682, ,delivered,@@@,9999-99-99,Noida
+N/A,invalid,NULL,returned,2,netbanking,Hyderabad
+O0000366,C00646,2025-05-22T02:02:32,123abc,1,invalid,null
+nan,C00664,null,32-13-2025,3,card,123abc
+null,###BAD###,2025-06-14T02:58:51,delivered,2,null,Bengaluru
+null,9999-99-99,null,delivered,null,null,Delhi
+nan,C00940,@@@,,not_a_date,,Noida
+O0000371,C00677,2024-06-02T11:16:37,delivered,1, ,Delhi
+O0000372,C00759,2025-08-05T05:50:11,processing,1,card,9999-99-99
+O0000373,C00427,nan,32-13-2025,@@@,cod,Chennai
+O0000374,C00350,###BAD###,delivered,@@@,upi,@@@
+O0000375,C00445,2023-02-06T00:25:07,delivered,1,nan,Noida
+O0000376,C00709,2025-04-09T21:47:38,9999-99-99,null,invalid,Pune
+O0000377,C00708,2025-03-19T09:05:08,nan,,netbanking,Delhi
+O0000378,C00836,2023-02-02T22:12:54,invalid,NULL,cod,123abc
+O0000379,N/A,2024-05-10T13:53:40,processing,2,netbanking,Delhi
+NULL,9999-99-99,32-13-2025,###BAD###,,netbanking,9999-99-99
+nan,C00757,9999-99-99,123abc,1,9999-99-99,not_a_date
+O0000382,NULL,invalid,not_a_date,1,cod,123abc
+O0000383,C00869,2025-10-12T23:37:38,delivered,,upi,Mumbai
+O0000384,C00500,invalid,null,123abc,cod,32-13-2025
+invalid,C00732,###BAD###,32-13-2025,2,card,invalid
+9999-99-99,9999-99-99,2025-05-04T15:07:31,delivered,2,upi,9999-99-99
+O0000387,C00715,2025-06-12T00:10:18,delivered,1,@@@,Pune
+123abc,###BAD###,2024-04-20T16:14:37,9999-99-99,1,upi,invalid
+null,C00135,2024-08-23T23:45:24,9999-99-99,2,123abc,invalid
+O0000390,nan,2023-11-28T19:13:18,delivered,2,card,@@@
+N/A,null,9999-99-99,nan,###BAD###,cod,Noida
+O0000392,NULL,2024-04-25T06:35:03,shipped,###BAD###,upi,Chennai
+O0000393,C00366,2023-11-21T05:52:55,123abc,123abc,card,Delhi
+O0000394,C00346,2025-05-31T03:39:14,null,9999-99-99,netbanking,Noida
+O0000395,NULL, ,cancelled,nan,N/A,9999-99-99
+###BAD###, ,null,,N/A,cod,Delhi
+null,C00999,2023-08-05T19:39:50,processing,2,card,NULL
+O0000398,C00520,2023-08-04T05:40:07, ,N/A,9999-99-99,
+O0000399,C00746,2024-08-21T22:28:48,nan,2,9999-99-99,Bengaluru
+O0000400,C00663,nan,delivered,2,netbanking,Noida
+O0000401,C00993,9999-99-99,9999-99-99,invalid,9999-99-99,Chennai
+ ,###BAD###,null,9999-99-99,2,cod, 
+O0000403,not_a_date, ,delivered,9999-99-99,###BAD###,@@@
+O0000404,C00822,@@@,@@@,123abc,upi,Mumbai
+O0000405,not_a_date,null,delivered,1,card,Delhi
+O0000406,C00347,2024-10-06T12:49:10,123abc,2,cod,null
+O0000407,C00677,N/A,not_a_date,1,,9999-99-99
+123abc,C00412,nan,123abc,32-13-2025,card,Chennai
+O0000409,null,,delivered,invalid,cod,Pune
+O0000410,C00909,2025-04-08T06:56:19,N/A,NULL,upi,@@@
+O0000411,NULL,2023-09-16T16:34:18,delivered,1,upi,@@@
+O0000412,C00776,@@@, ,3,not_a_date,###BAD###
+NULL,C00853,2024-09-14T23:27:32,delivered,3,card,Pune
+O0000414,C00266,9999-99-99, ,1,32-13-2025,123abc
+O0000415,C00306,2023-01-11T14:21:15,,1,netbanking,Pune
+nan,@@@,2024-08-05T21:50:52,delivered,1,netbanking,Hyderabad
+O0000417,C00533,invalid,nan,1,upi,Noida
+O0000418,C00101,2023-10-28T22:27:53,nan,1,null,###BAD###
+ ,@@@,,delivered,not_a_date,cod,32-13-2025
+32-13-2025,N/A,@@@,123abc,2,cod,Noida
+NULL,C00750,null,delivered,2,###BAD###,Bengaluru
+O0000422,,2023-08-30T22:13:29,###BAD###,NULL,,invalid
+O0000423,C00944,2023-09-01T19:54:26,delivered,null,upi,Chennai
+O0000424,C00042,,123abc,null,upi, 
+O0000425,C00498,2023-02-27T04:09:50,delivered,,card,Chennai
+###BAD###,C00911,2024-08-03T06:11:52,delivered,1,###BAD###,nan
+O0000427,C00561,2024-12-15T02:55:02,delivered,not_a_date,upi,Noida
+@@@,C00922,2024-11-22T12:30:53,delivered,nan,@@@,Bengaluru
+@@@,C00517,2025-08-01T14:42:28,123abc,1,upi,Delhi
+O0000430,9999-99-99,2025-04-18T12:14:57,not_a_date,,card,32-13-2025
+O0000431,C00754,2024-07-22T20:05:55,N/A,1,###BAD###,Chennai
+O0000432,not_a_date,###BAD###,32-13-2025,2,invalid,Kolkata
+9999-99-99,C00769,NULL,###BAD###,N/A,invalid,Mumbai
+123abc,C00282,###BAD###,not_a_date,not_a_date,cod,Delhi
+O0000435,C00827,2024-10-18T12:37:02,###BAD###,null,card,Pune
+O0000436,C00448,2024-01-05T13:01:55,delivered,2,cod,Chennai
+,C00094,N/A,123abc,32-13-2025,not_a_date,nan
+O0000438,NULL,9999-99-99,delivered,2,###BAD###,Pune
+O0000439,C00186,2023-02-25T22:03:19,32-13-2025,2,123abc,Bengaluru
+O0000440,N/A,123abc,null,,card,Kolkata
+O0000441,C00246,2024-04-29T15:32:48,not_a_date,nan,card,Chennai
+@@@,invalid,not_a_date,nan,3,card,Hyderabad
+O0000443,NULL,2024-04-23T00:17:35,,1,card,Kolkata
+O0000444,C00782,2023-09-15T09:36:26,not_a_date,9999-99-99,netbanking,null
+O0000445,123abc,,shipped,2,nan,Mumbai
+O0000446,N/A,2025-08-09T19:18:41,shipped,NULL,###BAD###,###BAD###
+nan,@@@,###BAD###,N/A,3,invalid,Pune
+nan,C00863,2024-03-11T18:53:32,delivered,2,N/A,Delhi
+O0000449,C00308,9999-99-99,processing,1,upi,###BAD###
+O0000450,C00216,2025-10-30T10:56:43,processing,1,32-13-2025,Noida
+invalid,C00280,32-13-2025,delivered, ,upi,null
+O0000452,C00936,2023-10-01T20:59:00,delivered,1,N/A,N/A
+O0000453,9999-99-99,2023-12-22T13:35:57,invalid,1,cod,Hyderabad
+O0000454,C00552,###BAD###,NULL,N/A,123abc,9999-99-99
+O0000455,C00362,###BAD###,@@@,1,card,null
+O0000456,32-13-2025,2025-01-28T06:28:00,delivered,1,card,Chennai
+O0000457,C00697,2025-01-02T06:05:52,delivered,1,@@@,null
+O0000458,C00240,2025-10-08T11:02:17,delivered,1,netbanking,Mumbai
+9999-99-99,C00201,null,delivered,1,cod,Bengaluru
+O0000460,C00566,2024-02-01T21:47:36,invalid,N/A,N/A,Delhi
+O0000461,null,###BAD###,NULL,1,###BAD###,###BAD###
+invalid,C00197,2023-02-17T22:43:34,delivered,32-13-2025,cod,Mumbai
+O0000463,C00961,2025-05-24T20:43:41,,2,upi,Hyderabad
+N/A,,2025-04-13T08:07:43,not_a_date,1,cod,nan
+9999-99-99,C00530,2023-03-31T23:14:03,delivered,9999-99-99,null,Noida
+9999-99-99,C00324,N/A,delivered,32-13-2025,card,32-13-2025
+O0000467,C00707,2025-05-17T02:58:15,32-13-2025,1,upi,Chennai
+O0000468,C00065,2023-07-18T00:30:27, ,123abc,upi,@@@
+O0000469,@@@,@@@,processing,1,upi,Kolkata
+O0000470,C00967,@@@,,3,N/A,32-13-2025
+O0000471,C00088,2023-05-05T01:24:20,###BAD###,1,card,Bengaluru
+123abc,C00064, ,###BAD###,###BAD###,card,32-13-2025
+O0000473,C00694,2023-04-25T17:03:18,123abc,1,cod,Delhi
+O0000474,C00633,2025-04-21T07:55:38,cancelled,123abc,card,N/A
+O0000475,C00394,2025-08-08T13:56:39,delivered,1,not_a_date,Mumbai
+invalid,C00465,123abc,###BAD###,N/A,card,Kolkata
+ ,C00927,2023-09-16T20:32:16,delivered,1,@@@,null
+O0000478,###BAD###,123abc,not_a_date,1,upi,N/A
+9999-99-99,C00526,9999-99-99,,3,netbanking,Bengaluru
+ ,C00481,2024-09-24T19:21:18,delivered,1,card,###BAD###
+O0000481,invalid,2024-05-01T16:52:53,delivered,NULL,card,9999-99-99
+@@@,nan,2024-02-05T06:40:58,invalid,1,card,Pune
+N/A,C00194,9999-99-99,delivered,not_a_date,upi,Pune
+O0000484,C00631,,invalid,1,card,123abc
+###BAD###,C00225,2023-01-08T20:14:44,N/A,NULL,netbanking,Kolkata
+O0000486,null, ,delivered,not_a_date,card,Pune
+,C00011,2023-06-01T11:01:35,delivered,1,upi,not_a_date
+123abc, ,2025-01-07T01:01:12,null,1,NULL,123abc
+@@@,C00907,2024-06-20T23:11:21,processing,3,netbanking,invalid
+O0000490,C00201,,processing,2,card,Bengaluru
+O0000491,C00389,2023-08-16T10:59:13,invalid,9999-99-99,netbanking,32-13-2025
+null,C00829,2025-02-01T21:10:33,shipped,1,,Delhi
+,C00122,2023-10-23T04:50:12,delivered,9999-99-99,cod,Pune
+O0000494,C00326,123abc,delivered, ,###BAD###,@@@
+O0000495,123abc,invalid,NULL,1,upi,32-13-2025
+O0000496,@@@,,N/A,nan,card,Bengaluru
+O0000497,C00521,9999-99-99,invalid,1,cod,Bengaluru
+, ,,32-13-2025,,cod,9999-99-99
+O0000499,C00275,2025-04-01T20:58:50,delivered,3,card,nan
+NULL,C00225,2024-02-20T14:55:15,@@@,3,upi,invalid
+O0000501,C00911,2025-02-11T18:10:59,null,32-13-2025,upi,nan
+O0000502,C00138,2023-06-22T09:28:33,123abc,1,card,NULL
+32-13-2025,nan,2024-11-19T13:28:29,delivered,nan,N/A,Noida
+O0000504,N/A,2024-07-13T12:01:11,32-13-2025,N/A,upi, 
+nan,null,123abc,delivered,N/A,card,N/A
+not_a_date,C00949,2024-04-11T03:07:04,delivered,1,,Pune
+O0000507,C00202,NULL,returned,2,null,Kolkata
+O0000508,C00723,2023-10-10T22:47:34,nan,2,card,invalid
+O0000509,C00289,2024-12-10T12:25:52,delivered,NULL,9999-99-99, 
+null,C00670,2023-11-02T12:14:14,delivered,###BAD###,netbanking,Noida
+O0000511,C00240,2025-08-17T23:52:29,not_a_date,1,card,9999-99-99
+O0000512,C00867,nan,delivered,1,cod,Noida
+O0000513,C00874,32-13-2025,,9999-99-99,upi,nan
+O0000514,C00512,,delivered,2,cod,Chennai
+32-13-2025,C00334, ,processing,32-13-2025,netbanking,32-13-2025
+O0000516,C00582,NULL,delivered,nan,cod,Kolkata
+O0000517,9999-99-99,2023-08-11T10:36:28,delivered,@@@,invalid,Delhi
+O0000518,123abc,nan,delivered,2,cod,Mumbai
+9999-99-99,###BAD###,2024-02-12T02:58:24, ,32-13-2025,invalid,Chennai
+NULL,NULL,NULL,delivered,1,netbanking,123abc
+O0000521,nan,2025-04-21T12:10:07,delivered,1,NULL,Noida
+O0000522,C00761,nan,delivered, ,netbanking,Chennai
+O0000523,C00443,2025-08-30T05:38:36,processing,@@@,netbanking,Noida
+NULL,nan,2024-02-18T00:09:28,,nan,cod,not_a_date
+32-13-2025,C00539,2024-11-04T18:56:31,delivered,2,card,123abc
+N/A,C00295,2025-07-23T11:44:53,,1,upi,Hyderabad
+O0000527,C00628,2023-12-25T13:15:11,processing,1,N/A,Noida
+O0000528,C00394,,delivered, ,card,Kolkata
+NULL,9999-99-99,2023-11-20T08:56:40,N/A,1,card,Kolkata
+O0000530,C00931,32-13-2025,delivered,2,N/A,not_a_date
+O0000531,C00774,2023-08-04T16:49:49,not_a_date,NULL,nan,Bengaluru
+9999-99-99,C00259,2024-02-29T16:02:29,delivered,3,9999-99-99,Hyderabad
+O0000533,C00352,2025-03-28T06:25:02,delivered,3,9999-99-99,NULL
+null,C00335,32-13-2025,NULL,1,not_a_date,Noida
+O0000535,C00144,2025-08-22T08:53:10,delivered,2,not_a_date,Delhi
+O0000536,C00182,2024-08-25T03:34:47,delivered,2,card,Mumbai
+O0000537,C00694,2024-07-13T04:28:22,delivered,2,123abc,Kolkata
+O0000538,invalid, ,,,N/A,nan
+not_a_date,C00707,,delivered,1, ,32-13-2025
+9999-99-99,C00952,nan,delivered,1,invalid,Hyderabad
+O0000541,C00029,2023-01-30T10:52:12,nan,32-13-2025,card,Kolkata
+O0000542,not_a_date,2023-07-17T21:10:46,delivered,1,cod,NULL
+NULL,invalid,not_a_date,@@@,1,null,Hyderabad
+32-13-2025,nan,9999-99-99,9999-99-99,,upi,null
+O0000545,C00016,2025-04-03T20:20:00,N/A,@@@,invalid,Kolkata
+9999-99-99,NULL,32-13-2025,delivered,1,netbanking,Hyderabad
+O0000547,NULL,2025-10-20T03:45:34,cancelled,@@@,9999-99-99,Chennai
+O0000548,32-13-2025,nan,delivered,1,netbanking,###BAD###
+O0000549,C00180,2024-10-13T21:30:04,delivered,1,###BAD###,NULL
+O0000550,C00524,2024-04-21T16:37:45,shipped,not_a_date,netbanking,###BAD###
+,C00632,2023-09-12T09:15:47,delivered,invalid,null,not_a_date
+O0000552,not_a_date,not_a_date,delivered,N/A,123abc,Kolkata
+O0000553,N/A,2023-03-19T07:59:46,delivered,1,9999-99-99,invalid
+9999-99-99,C00138,9999-99-99,cancelled,NULL,cod,Chennai
+O0000555,###BAD###,123abc,delivered,invalid,invalid,@@@
+O0000556,32-13-2025,invalid,delivered,1,netbanking,Hyderabad
+nan,C00534,2024-10-20T05:28:40,delivered,nan,not_a_date,Delhi
+O0000558,null,2024-01-30T01:40:09,processing,nan,netbanking,Delhi
+O0000559,nan,2024-02-23T07:32:05,delivered,null,cod,Chennai
+O0000560,C00169, ,delivered,1,upi,Chennai
+O0000561,not_a_date,null,32-13-2025,2,cod,Delhi
+O0000562,,2025-01-06T12:24:10,delivered,N/A,cod,Hyderabad
+,C00779, ,delivered,1,card,null
+O0000564,C00610,###BAD###,delivered,nan,cod,###BAD###
+NULL,C00465,2024-08-03T12:35:38,delivered,invalid,upi,32-13-2025
+O0000566,C00733,N/A,@@@,1,card,Pune
+O0000567,C00504,2025-04-08T13:25:47,invalid,1,cod,Chennai
+nan,C00657,null,shipped,1,card,Hyderabad
+O0000569,C00955,2023-11-29T06:48:27,nan,2,upi,Noida
+###BAD###,null,N/A,delivered,1,cod,Kolkata
+O0000571,C00249,9999-99-99,NULL,1,NULL,Bengaluru
+not_a_date,C00268,2025-07-21T21:09:16,not_a_date,2,netbanking,not_a_date
+NULL,,2023-07-09T20:45:58,delivered,1,null,@@@
+O0000574,C00898,not_a_date,delivered,1,upi,@@@
+O0000575,32-13-2025,2024-09-22T23:26:48,processing,null,card,invalid
+N/A,C00652,2024-12-06T04:17:47, ,2,cod,Chennai
+###BAD###, ,2023-12-11T15:00:06,delivered,32-13-2025,cod,N/A
+O0000578,invalid,32-13-2025,delivered,2, ,
+O0000579,nan,invalid,N/A,nan,nan,123abc
+O0000580,invalid,2023-05-01T23:11:51,cancelled,1,9999-99-99,32-13-2025
+@@@,C00452,2023-08-12T20:10:05,123abc,32-13-2025,cod,Delhi
+O0000582,@@@,@@@,delivered,3,cod,Delhi
+O0000583,C00010,null,delivered,123abc, ,
+N/A,C00217,null,123abc,9999-99-99,upi, 
+32-13-2025,32-13-2025,2024-11-21T19:27:21,delivered,123abc,32-13-2025,Pune
+O0000586,null,2024-05-05T11:42:25,delivered,123abc,NULL,Pune
+O0000587,###BAD###,N/A,,1,N/A,Bengaluru
+32-13-2025, , ,NULL,1,netbanking, 
+O0000589,9999-99-99,2025-08-31T16:26:42,delivered,1,9999-99-99,Mumbai
+null,C00649,2025-01-07T01:51:47,delivered,1,cod,Kolkata
+###BAD###,C00622,2025-09-19T12:47:39,not_a_date,123abc,not_a_date,Hyderabad
+O0000592,C00962,2025-09-02T21:54:44,9999-99-99,9999-99-99,9999-99-99,NULL
+nan,C00622,2024-02-04T22:09:55,delivered,1, ,Bengaluru
+O0000594,C00510,###BAD###,shipped,1,cod,9999-99-99
+NULL,C00918,nan,delivered,NULL,netbanking,Kolkata
+32-13-2025,C00175,invalid,123abc,1,upi,Hyderabad
+not_a_date,invalid,2024-07-28T07:46:16,delivered,1,invalid,invalid
+O0000598, ,2025-10-04T02:50:44,###BAD###,1,netbanking,123abc
+O0000599,@@@,2024-12-03T12:58:45, ,1,N/A,Hyderabad
+@@@,C00828,2024-04-22T07:16:07,NULL,1,card,Delhi
+ ,C00349,32-13-2025,delivered,invalid,9999-99-99,Hyderabad
+O0000602,C00591,2023-01-04T09:03:37,delivered,1,cod,Hyderabad
+not_a_date,C00328,invalid,delivered,32-13-2025,netbanking,32-13-2025
+O0000604,C00405,2023-01-19T17:54:29,delivered,1,null,
+O0000605,C00512,123abc,delivered,1,N/A,Pune
+O0000606,C00317,null,shipped,1,cod,Kolkata
+null,nan,2024-08-19T22:24:03, ,1,upi,123abc
+O0000608,nan,2024-03-07T23:59:51,not_a_date,1,card,NULL
+,###BAD###, ,123abc,1,netbanking,Mumbai
+O0000610,,2025-03-14T10:27:43,N/A,32-13-2025,upi,Hyderabad
+O0000611,C00401,null,delivered,nan,netbanking,Hyderabad
+O0000612,C00100,@@@,delivered,2,32-13-2025,Chennai
+not_a_date,N/A,2023-12-02T18:08:28,delivered,1,123abc,Bengaluru
+N/A, ,2024-03-22T23:12:47,delivered,@@@,upi,Delhi
+O0000615,C00695,2023-10-30T12:27:43,not_a_date,2,card,Delhi
+9999-99-99,C00365,2025-08-28T05:03:07,@@@,2,###BAD###,###BAD###
+null,C00994,2023-11-01T20:46:25,delivered,1,card,Kolkata
+invalid,not_a_date,123abc,shipped,1,not_a_date,nan
+O0000619,NULL,N/A,delivered,2,cod,
+O0000620,123abc,2023-09-03T03:05:07,delivered,nan,netbanking,@@@
+32-13-2025,C00601,null,delivered,1,netbanking,@@@
+O0000622,9999-99-99,2025-06-07T09:36:08,invalid,1,@@@,
+nan,N/A,###BAD###,nan,1,cod,Delhi
+O0000624,not_a_date,2023-09-12T06:42:57,###BAD###,invalid,netbanking,Mumbai
+null,C00569,2025-07-04T10:07:02,delivered,1,netbanking,Bengaluru
+O0000626,C00090,2024-06-09T01:05:07,delivered,NULL,###BAD###,Bengaluru
+O0000627,9999-99-99,2023-01-01T07:19:02,processing,1,upi,Noida
+N/A,123abc,123abc,processing,invalid,32-13-2025,Kolkata
+O0000629,###BAD###,###BAD###,delivered,invalid,32-13-2025,32-13-2025
+O0000630,NULL,2024-03-16T04:38:35,delivered,NULL,upi,Chennai
+nan,C00132,2025-05-14T02:35:16,###BAD###,2,netbanking,@@@
+O0000632,C00468,2023-06-20T08:43:27,processing,2,netbanking,Kolkata
+O0000633,invalid,2024-07-05T20:44:41,delivered,1,upi,not_a_date
+O0000634,C00430,2023-11-11T10:50:27,delivered,@@@,9999-99-99,Delhi
+O0000635,C00277,invalid,delivered,1,card,Pune
+9999-99-99,C00656,32-13-2025,null,NULL,netbanking,Kolkata
+O0000637,C00281,not_a_date,@@@,1,card,Delhi
+O0000638,123abc,2024-09-19T18:52:51,NULL,1,upi,Chennai
+###BAD###,C00565,2024-07-09T19:06:57,delivered,1, ,9999-99-99
+O0000640,C00186,2024-12-07T23:43:50,invalid,1,cod,Noida
+32-13-2025,null,2023-09-19T08:00:43,delivered,1,@@@,Bengaluru
+O0000642,C00147,invalid,delivered,1,upi,Kolkata
+O0000643,C00695,2025-05-06T22:29:11,###BAD###,1,,Noida
+O0000644,invalid,2024-08-10T08:27:33,NULL,1,null,Chennai
+O0000645,32-13-2025,2023-06-28T09:26:49,NULL,nan,card,Delhi
+O0000646,nan,2024-05-06T02:10:36,nan,2,@@@,@@@
+O0000647,C00828,not_a_date,processing,1,netbanking,invalid
+32-13-2025,N/A,2023-09-13T12:00:39,delivered,1,,Hyderabad
+O0000649, ,2024-12-07T07:47:42,123abc,2,null,Noida
+NULL,###BAD###,2023-12-12T21:59:56,###BAD###,1,netbanking,Bengaluru
+O0000651,123abc,2025-01-21T04:32:22,not_a_date,1,invalid,9999-99-99
+32-13-2025,###BAD###,2023-12-16T11:07:21,N/A,1,netbanking,not_a_date
+O0000653,C00298,@@@,not_a_date,1,NULL,Kolkata
+null,C00946,2024-09-16T20:32:52,processing,2,cod,Noida
+O0000655,32-13-2025,9999-99-99,null,1,N/A,nan
+N/A,C00006,2024-12-17T23:11:25,delivered,1,card,Hyderabad
+O0000657,C00504,32-13-2025,@@@,1,not_a_date,Delhi
+not_a_date,9999-99-99,2025-09-25T00:09:49,delivered,9999-99-99,9999-99-99,Noida
+ ,not_a_date,2025-02-05T09:23:27,processing,nan,upi,Delhi
+O0000660,123abc,2025-06-18T05:08:22,, ,card,Pune
+O0000661,C00905,@@@,delivered,1,cod,null
+null,NULL,32-13-2025,not_a_date,3,cod,Chennai
+O0000663,C00122,2025-05-12T15:35:31,9999-99-99,NULL,invalid,not_a_date
+O0000664,C00770,2025-03-29T16:46:59,delivered,1,###BAD###,N/A
+NULL,NULL,2023-08-09T00:08:09,delivered,1,N/A,Kolkata
+O0000666,not_a_date,2024-12-01T13:38:47,delivered,1,cod,Chennai
+O0000667,C00289,2025-09-22T02:48:27,null,9999-99-99,netbanking,nan
+O0000668,123abc,32-13-2025,invalid,@@@,netbanking,Hyderabad
+nan,C00204,2025-08-28T22:50:51,delivered,N/A,###BAD###,null
+ ,C00876,,123abc,1,upi,NULL
+O0000671,32-13-2025,2023-10-27T13:01:39,delivered,1,nan,Hyderabad
+ ,C00418,not_a_date,32-13-2025,,cod,Noida
+ ,C00063,2025-05-24T20:03:19,delivered,@@@,invalid,Chennai
+invalid,C00966,N/A,delivered,32-13-2025,card,Bengaluru
+O0000675,C00042,2023-01-02T01:42:47,delivered,9999-99-99,upi,Noida
+32-13-2025,,123abc,processing,3,9999-99-99,Pune
+O0000677,C00312,not_a_date,32-13-2025,1,netbanking,Pune
+O0000678,C00370, ,delivered,N/A,upi,Kolkata
+O0000679,C00666,123abc,delivered,3,not_a_date,Bengaluru
+invalid,C00645,2023-09-04T01:37:58,nan,@@@,netbanking,Kolkata
+nan,C00722,9999-99-99,delivered,2,9999-99-99,Noida
+O0000682,C00780,2024-02-18T17:46:09, ,1,netbanking,Hyderabad
+O0000683,###BAD###,32-13-2025,delivered,1,card,Hyderabad
+ ,NULL,2025-09-15T13:33:59,shipped,1,card,Bengaluru
+O0000685,C00614,32-13-2025,delivered,2,card,Kolkata
+O0000686,C00759,N/A,processing,9999-99-99,card,Bengaluru
+O0000687,NULL,not_a_date,delivered,N/A,upi,Kolkata
+O0000688,C00189,not_a_date,delivered,not_a_date,invalid,nan
+O0000689,NULL,2024-06-14T09:54:14,N/A,2,upi,Delhi
+32-13-2025,@@@,null,N/A,1, ,Chennai
+O0000691,C00950,123abc,delivered,NULL,netbanking, 
+O0000692,C00548,2023-08-26T00:41:22,delivered,1,upi,Pune
+123abc,C00086,null,processing,1,NULL,Pune
+NULL,@@@,2023-01-22T11:14:46,shipped,1,not_a_date,32-13-2025
+O0000695,C00995,###BAD###,nan,N/A,card,Hyderabad
+O0000696,C00969,2024-06-11T20:40:38,delivered,1,cod,Kolkata
+O0000697,C00333,2024-07-04T06:37:40,returned,9999-99-99,cod,
+O0000698,###BAD###,@@@,delivered,1,cod,Delhi
+O0000699,C00508,###BAD###,processing,null,netbanking,invalid
+O0000700,C00966,2024-01-05T20:18:01,delivered,1,netbanking,null
+O0000701,C00704,not_a_date,32-13-2025,1,123abc,Hyderabad
+O0000702,C00103,invalid,,1,card,Hyderabad
+O0000703,nan,9999-99-99,cancelled,invalid,card,nan
+O0000704,9999-99-99,9999-99-99,,1,card,nan
+O0000705,not_a_date,2024-11-24T22:05:12,delivered,,32-13-2025,not_a_date
+O0000706,C00315,2024-11-10T15:09:15,9999-99-99,3,invalid,null
+O0000707,C00022,2023-04-02T03:34:18,delivered,1,cod,Bengaluru
+###BAD###,C00002,2024-04-04T00:14:27,delivered,2,###BAD###,nan
+O0000709,C00232,NULL,###BAD###,1,not_a_date,123abc
+O0000710,C00174,2023-08-14T07:06:18,not_a_date,1,invalid,Delhi
+nan,nan,9999-99-99,NULL,###BAD###,upi,@@@
+invalid,C00696,2025-05-20T04:57:42,9999-99-99,1,upi,Pune
+O0000713,NULL,2023-08-01T08:58:31,delivered,1,upi,Delhi
+###BAD###,C00808,2023-01-05T04:49:41,delivered,1,netbanking,Hyderabad
+O0000715,C00458,9999-99-99,NULL,1,,not_a_date
+O0000716,###BAD###,###BAD###,, ,upi,Noida
+O0000717,C00435,@@@,not_a_date,2,32-13-2025,Bengaluru
+O0000718,C00822,null,delivered,3,cod,Kolkata
+O0000719,C00394,2023-06-21T18:45:26,delivered,N/A,netbanking,Delhi
+ ,C00241,,delivered,2,not_a_date,Bengaluru
+O0000721,C00944,2023-08-14T01:58:22, ,2,123abc,invalid
+O0000722,C00472,###BAD###,nan,1,netbanking,Kolkata
+9999-99-99, ,2023-10-10T03:44:45,delivered,1,card,Hyderabad
+O0000724,C00381,@@@,123abc,2,cod,Bengaluru
+ ,,###BAD###,123abc,NULL,card,Hyderabad
+O0000726,invalid,2024-01-09T15:47:08,delivered,###BAD###,upi,Noida
+null,@@@,2024-11-21T14:50:41,delivered,,upi,Delhi
+invalid,C00160,2023-05-03T20:02:38,cancelled,2,###BAD###,Mumbai
+O0000729,C00406,NULL,delivered,1,32-13-2025,Chennai
+nan,C00727,2024-04-10T13:59:10,delivered,###BAD###,card,Hyderabad
+null,C00974,2023-09-14T23:13:25,delivered,@@@,netbanking,Hyderabad
+O0000732,null,2023-06-08T22:29:30,delivered,2,cod,9999-99-99
+O0000733,C00169,2023-04-22T11:41:27,NULL,1,,Delhi
+O0000734,C00080,2025-01-12T19:49:54,nan,N/A,nan,###BAD###
+ ,not_a_date,2023-08-07T02:13:38,N/A,1,null,Kolkata
+O0000736,NULL,2024-02-18T20:59:02,NULL,2,card,Mumbai
+O0000737,null,32-13-2025,,1,not_a_date,Mumbai
+O0000738,invalid,@@@,delivered,2,cod,Pune
+@@@,C00998,2023-09-23T22:43:06,N/A,1,32-13-2025,NULL
+O0000740,@@@,,123abc,1,upi,invalid
+O0000741,32-13-2025,2025-08-06T02:56:40,delivered,1,NULL,Kolkata
+123abc,not_a_date,2023-10-16T22:10:32,null,1,upi,Noida
+O0000743,null,2023-09-26T10:18:23,delivered,2,cod,NULL
+O0000744,C00913,2025-03-04T07:13:39, ,###BAD###,netbanking,invalid
+O0000745,N/A,2023-01-31T04:49:55,delivered, ,card,Noida
+O0000746,32-13-2025,2025-07-20T10:10:59,delivered,2,@@@,9999-99-99
+O0000747,C00591,N/A,delivered,1,cod,Chennai
+O0000748,C00485,N/A,delivered,1,nan,Noida
+9999-99-99,C00041,2025-01-14T09:25:26,processing,null,netbanking,Noida
+,,###BAD###,delivered,1,cod,Chennai
+O0000751,C00899,32-13-2025,32-13-2025,1,netbanking,Mumbai
+N/A,9999-99-99,2023-08-04T09:24:10,@@@,2,card,
+invalid,nan,2025-08-04T21:05:22,delivered,32-13-2025,cod,Delhi
+O0000754,C00088,32-13-2025,shipped,1,cod,###BAD###
+O0000755,C00205,2025-04-02T10:04:20,N/A, ,cod,N/A
+123abc,not_a_date,###BAD###,delivered,not_a_date,nan,Noida
+O0000757,C00150,123abc,@@@,@@@,32-13-2025,invalid
+9999-99-99,C00959,2025-01-10T13:30:13,delivered,1,card,Hyderabad
+O0000759,C00277,2024-05-31T20:11:05,NULL,nan,NULL,invalid
+9999-99-99,C00084,123abc,delivered,2,netbanking,Chennai
+O0000761,C00189,NULL,delivered,1, ,Bengaluru
+O0000762,C00204,2024-12-16T13:30:30,delivered,1,netbanking,Hyderabad
+ ,C00364,N/A,processing,1,netbanking,
+,###BAD###,nan,processing,not_a_date,N/A,N/A
+O0000765,null,9999-99-99,delivered,1,9999-99-99,Chennai
+O0000766,invalid,2023-01-08T14:53:54,delivered,1,cod,@@@
+O0000767,32-13-2025, ,delivered,2,netbanking,@@@
+O0000768,C00222,2024-12-13T06:12:43,not_a_date,2,card,Pune
+O0000769,not_a_date,NULL,delivered,123abc,card,Noida
+invalid,C00665,,,###BAD###,cod,N/A
+,C00117,2023-12-27T14:27:23,delivered,1,netbanking,Hyderabad
+O0000772,###BAD###,2024-08-06T21:44:43,null,2,upi,Delhi
+not_a_date,C00090,N/A,123abc,not_a_date,cod,Delhi
+NULL,32-13-2025,,delivered,1,card,32-13-2025
+O0000775,C00873,2025-05-11T06:14:49,delivered,2,null,Delhi
+nan,C00201,,processing,N/A,cod,123abc
+nan,###BAD###,NULL,not_a_date,N/A,upi,Chennai
+O0000778,9999-99-99,2025-04-29T21:15:00, ,2,invalid,Mumbai
+@@@,C00016,2023-02-23T04:50:23,processing,2,@@@,Pune
+O0000780,123abc,nan,,1,,###BAD###
+32-13-2025,C00821,2025-05-28T04:40:24,shipped,1,123abc,Hyderabad
+123abc,C00926,2024-10-13T16:10:27,delivered,1,netbanking,Delhi
+O0000783,C00647,2025-03-13T20:58:16,processing,1,netbanking,Pune
+O0000784,@@@,invalid,null,1,netbanking,Mumbai
+O0000785,C00633,32-13-2025,delivered,1,not_a_date,###BAD###
+O0000786,###BAD###,2025-01-03T05:15:41, ,2,upi,Kolkata
+O0000787,C00549,2024-05-17T23:49:51,cancelled,1,upi,Mumbai
+O0000788, ,2023-06-19T04:40:01,nan,1,card,Delhi
+O0000789,C00471,2023-09-09T03:09:18,,invalid,netbanking,Delhi
+O0000790,C00080,2025-10-09T11:58:53,delivered,2,card,Noida
+@@@,C00815,2023-02-14T13:04:31,shipped,1,card,Kolkata
+O0000792, ,2025-05-09T12:56:20,32-13-2025,1,cod,Bengaluru
+9999-99-99,C00185,2024-09-03T00:57:11,delivered,,card,
+O0000794,123abc,###BAD###,,1,###BAD###,Bengaluru
+O0000795,C00535,2024-06-05T03:12:38, ,NULL,not_a_date,Bengaluru
+O0000796,@@@,2025-01-17T03:57:13,delivered,2,netbanking,Kolkata
+O0000797,C00086,###BAD###,###BAD###,123abc,card,32-13-2025
+O0000798,invalid,123abc,delivered,1, ,Kolkata
+O0000799,C00257,2023-12-21T06:43:54,processing,1,upi,Hyderabad
+O0000800,C00106, ,###BAD###,not_a_date,cod,NULL
+O0000801,C00905,2025-07-02T13:38:47,invalid,null,123abc,Delhi
+O0000802,C00622,123abc,delivered,1,not_a_date,Noida
+null,C00172,2023-03-11T16:16:37,nan,not_a_date,upi,Hyderabad
+O0000804,32-13-2025,null,delivered,1,netbanking,not_a_date
+O0000805,C00252,NULL,delivered,32-13-2025,upi,Delhi
+9999-99-99,C00010,2024-10-14T22:00:45,null,2,###BAD###,Pune
+O0000807,N/A,2024-04-21T17:04:24,not_a_date,null,netbanking,Kolkata
+123abc,C00106,@@@,returned,2,null,Hyderabad
+123abc,C00699,N/A,delivered,1,card,Noida
+O0000810,not_a_date,2023-04-06T08:26:07,delivered,1,netbanking,Pune
+O0000811,###BAD###,2025-02-23T07:36:01,delivered,3,card,Noida
+32-13-2025,C00292,123abc,###BAD###,not_a_date,9999-99-99,Pune
+O0000813,C00661,N/A,9999-99-99,1,cod,Chennai
+O0000814,@@@,invalid,delivered,2,upi,Noida
+O0000815,NULL,2023-04-07T12:19:44,invalid,2,cod,Delhi
+O0000816,C00864,@@@,delivered,invalid,card,N/A
+invalid,C00108,2024-10-23T22:46:27,invalid,1,card,Kolkata
+O0000818,C00742,###BAD###,null,32-13-2025,card,9999-99-99
+O0000819,C00905,not_a_date,delivered,1,upi,Hyderabad
+O0000820,123abc,2023-12-15T04:37:29,delivered,1,upi,@@@
+O0000821,123abc,2025-04-26T20:28:42,delivered,2,invalid,Noida
+invalid,C00678,null,delivered,32-13-2025,netbanking,123abc
+N/A,C00271,2024-08-29T22:05:22,delivered,32-13-2025,netbanking,not_a_date
+O0000824,9999-99-99, ,123abc,1,netbanking,###BAD###
+O0000825,C00839,2025-02-27T06:31:06,delivered,1,upi,123abc
+O0000826,C00726,N/A,delivered,2,netbanking,32-13-2025
+O0000827, ,9999-99-99,invalid,nan,,N/A
+,C00193,2023-05-21T08:27:10,delivered,NULL,123abc,N/A
+N/A,C00473,null,delivered,2,N/A,32-13-2025
+O0000830,C00274,not_a_date,delivered,null,upi,not_a_date
+O0000831,C00950,9999-99-99,delivered,1,invalid,Pune
+O0000832,,not_a_date,NULL,1,###BAD###,Hyderabad
+not_a_date,###BAD###,null,not_a_date,1,cod,Hyderabad
+O0000834,32-13-2025,null,delivered,invalid,NULL,@@@
+null,C00590,2024-06-29T07:04:34,delivered,1,netbanking,NULL
+invalid,C00402,N/A,returned,1,upi,Noida
+not_a_date,C00211,123abc,delivered,2,not_a_date,###BAD###
+O0000838, ,2024-01-15T16:58:44,,1,upi,Kolkata
+O0000839,C00175,2024-10-07T21:04:10,delivered,null,null,Bengaluru
+32-13-2025,C00986,2023-01-27T21:30:27,delivered,1,netbanking,9999-99-99
+,invalid,2023-06-07T05:43:48,nan,1,upi,Noida
+O0000842,nan,2023-01-03T15:55:15,delivered,1,card,###BAD###
+O0000843,null,N/A,delivered,NULL, ,Delhi
+9999-99-99,@@@,2024-09-15T23:21:28,delivered,3,N/A,nan
+O0000845,C00680,2025-09-23T08:23:29,delivered,invalid,N/A,###BAD###
+O0000846,C00728,2024-11-14T16:49:42,N/A,1,9999-99-99,Delhi
+,NULL,2023-02-12T04:26:54,9999-99-99,null,netbanking,Pune
+@@@,C00510,2023-03-05T07:36:47,delivered,3,###BAD###,Pune
+null,C00212,2023-07-02T06:58:24,delivered,1,upi,N/A
+O0000850,nan,not_a_date,delivered,,9999-99-99,Hyderabad
+,null,9999-99-99,delivered,null,upi,Delhi
+O0000852,C00444,2025-07-20T18:50:50,null,2,card,Mumbai
+O0000853,C00511,2023-10-29T14:43:09,delivered,1,32-13-2025,@@@
+O0000854,C00311,2025-09-24T09:04:51,@@@,2,N/A,Mumbai
+123abc,NULL,invalid,delivered,N/A,###BAD###,Hyderabad
+9999-99-99,C00361,2023-01-02T01:16:08,nan,1,123abc,Bengaluru
+O0000857,invalid,2023-06-26T22:17:09,shipped,1,netbanking,invalid
+O0000858,C00600, ,32-13-2025,1,upi,Kolkata
+N/A,C00832,2025-03-02T13:25:57,123abc,null,upi,Chennai
+null,C00612,2024-09-28T05:36:27,N/A,1,not_a_date,Bengaluru
+O0000861,32-13-2025,2024-02-13T08:08:26,delivered,9999-99-99,N/A,32-13-2025
+O0000862,C00088,N/A,delivered,1,32-13-2025,N/A
+9999-99-99,C00802,2025-06-13T03:08:33,delivered,1,###BAD###,N/A
+O0000864,C00480,2024-12-26T13:29:26,32-13-2025,1,cod,Mumbai
+O0000865,N/A,nan,###BAD###,nan,invalid,Kolkata
+O0000866,C00595,null,processing,1,invalid,123abc
+NULL,C00774,2025-03-15T04:25:42,N/A,###BAD###,###BAD###,Mumbai
+O0000868,null,2023-04-23T08:53:41,delivered,123abc,card,not_a_date
+@@@, ,2025-09-13T22:21:55,delivered,N/A,123abc,@@@
+NULL,32-13-2025,invalid,N/A,2,netbanking,###BAD###
+O0000871,C00644,2024-09-28T23:59:00,returned,1,###BAD###,Delhi
+O0000872,not_a_date,2023-01-01T04:38:56,123abc,###BAD###,card,Kolkata
+O0000873,C00210,,delivered,###BAD###,###BAD###,Mumbai
+O0000874,C00949,null,shipped,,netbanking,NULL
+O0000875,,2025-06-18T21:39:07,not_a_date,1,card,Bengaluru
+O0000876,C00146,2024-05-07T05:32:47,delivered,1,N/A,9999-99-99
+###BAD###, ,2024-08-16T09:42:06,shipped,2,cod,NULL
+O0000878,C00684,, ,1,cod,Hyderabad
+O0000879,C00834,2025-05-20T04:01:18,delivered,1,not_a_date,Mumbai
+32-13-2025,C00595,nan,###BAD###,1,cod,123abc
+O0000881,invalid,9999-99-99,delivered,1,32-13-2025,Mumbai
+O0000882,N/A,not_a_date,delivered,NULL,upi, 
+O0000883,N/A,NULL,delivered,1,upi,Noida
+123abc,N/A,32-13-2025,32-13-2025,1,cod,Delhi
+O0000885,###BAD###,2025-09-17T12:30:38,delivered,2,null,nan
+9999-99-99,nan,2024-10-25T18:37:22,123abc,1,9999-99-99,Delhi
+invalid,C00047,2023-03-02T23:10:14,not_a_date,###BAD###,card,Noida
+O0000888,C00957, ,shipped,1,9999-99-99,Delhi
+O0000889,C00922,123abc,cancelled,1,cod,Delhi
+O0000890,32-13-2025, ,delivered,nan,cod,Pune
+O0000891,C00622,2023-03-02T05:20:06,delivered,2,cod,Bengaluru
+nan,C00653,,delivered,32-13-2025,upi,###BAD###
+O0000893,C00207,###BAD###,returned,2,netbanking,null
+O0000894,C00597,2023-02-19T20:42:06,delivered,9999-99-99,32-13-2025,null
+O0000895, ,9999-99-99,N/A,1,###BAD###,Noida
+123abc,C00195,2024-02-29T18:52:30,32-13-2025,invalid,upi,Bengaluru
+N/A,N/A,not_a_date,delivered,1,@@@,Delhi
+###BAD###,@@@,2024-09-02T03:07:31,null,nan,upi,Mumbai
+###BAD###,123abc,2024-08-16T08:24:45, ,1,not_a_date,Chennai
+O0000900,C00077,9999-99-99,N/A,9999-99-99,cod,Mumbai
+O0000901,C00560,2023-08-16T18:30:59,9999-99-99,1,null,Mumbai
+O0000902,C00034,2024-11-23T13:16:12,N/A,1,nan,9999-99-99
+ ,32-13-2025,2024-11-06T21:58:56,delivered,1,@@@,Delhi
+123abc,32-13-2025,2023-03-14T11:04:26,,1,card,9999-99-99
+,C00970,2023-09-23T08:46:02,delivered,1,9999-99-99,Kolkata
+nan,,2024-12-18T13:30:19,null,32-13-2025, , 
+O0000907,32-13-2025,2023-04-24T00:49:50,returned,2,,Mumbai
+N/A,C00566,not_a_date,null,not_a_date,,Hyderabad
+9999-99-99,32-13-2025,123abc,,1,upi,Pune
+O0000910,C00199,2024-12-03T13:58:03,delivered,N/A,123abc,###BAD###
+O0000911,C00233,2025-04-25T23:48:56,returned,1,card,###BAD###
+,C00895,null,delivered, ,netbanking,Chennai
+O0000913,C00045,2024-10-05T11:38:41,NULL,1,null,Bengaluru
+O0000914,C00621,@@@,@@@,1, ,Chennai
+O0000915,32-13-2025,null,returned,1,netbanking,@@@
+O0000916,C00731,2024-09-11T11:49:35,,1,netbanking,Chennai
+@@@,null,not_a_date,N/A,not_a_date,cod,nan
+,32-13-2025,NULL,delivered,2,netbanking,Delhi
+not_a_date,NULL,2023-10-18T01:15:44,,nan,null,N/A
+O0000920,nan,2025-10-18T01:17:17,,1,9999-99-99,123abc
+O0000921,C00062,2024-07-25T19:24:31,N/A,,cod,Hyderabad
+nan,C00455, ,delivered,NULL,32-13-2025,Mumbai
+O0000923,nan,2024-09-16T01:34:48,32-13-2025,2,9999-99-99,Pune
+O0000924,invalid,123abc,nan,2,cod,123abc
+O0000925,C00802,2023-04-27T03:35:24,shipped,1,upi,Noida
+O0000926, ,2024-06-16T05:24:29,delivered,1,netbanking,Bengaluru
+O0000927,C00930,N/A,shipped,invalid,card,Kolkata
+O0000928,invalid,32-13-2025,123abc, ,32-13-2025,Pune
+O0000929,C00276,2024-05-28T20:51:49,delivered,1,card,Chennai
+O0000930,null,not_a_date,32-13-2025,@@@,card,Noida
+9999-99-99,@@@,,delivered,1,32-13-2025,Hyderabad
+O0000932,C00060,2023-06-12T08:57:39,delivered,invalid,@@@,Noida
+9999-99-99,C00185,2024-06-12T08:16:55,delivered,3,not_a_date,Bengaluru
+O0000934,C00151,2023-04-12T07:07:41,delivered,1,NULL,32-13-2025
+O0000935,null,not_a_date,shipped,1,card,
+O0000936,C00554,2023-04-02T19:15:22,delivered,not_a_date,###BAD###,Delhi
+O0000937,C00524,@@@,delivered,1,cod,
+nan,C00658,2025-05-23T09:09:01,delivered,2,upi,
+32-13-2025,C00999,32-13-2025,processing,1,upi,@@@
+ , ,2025-01-24T01:18:59,,N/A,card,32-13-2025
+invalid,C00624,null,cancelled,1,upi,9999-99-99
+123abc,C00388,2023-03-08T21:46:09,delivered,1,nan,invalid
+O0000943,C00982,null,###BAD###,1,invalid,Delhi
+O0000944,C00868,2023-04-16T19:30:42,delivered,2,@@@,Pune
+O0000945,32-13-2025,2024-02-04T18:18:58,@@@,1,netbanking,invalid
+O0000946,32-13-2025,2025-07-22T10:47:07,delivered,1,cod,Hyderabad
+O0000947,NULL,2023-06-13T11:35:32,invalid,1,upi,Noida
+O0000948,###BAD###,2024-04-16T14:50:26,delivered,2,###BAD###,null
+O0000949,C00796,###BAD###,delivered,2,upi,Chennai
+NULL,C00350,2024-10-04T03:05:26, ,1,netbanking,@@@
+O0000951,C00648,2024-02-10T05:56:29,123abc,1,card,Hyderabad
+O0000952,C00270,2025-08-20T23:06:08,32-13-2025,1, ,Mumbai
+O0000953,C00707,2023-12-08T02:08:32,123abc,1,cod,not_a_date
+###BAD###,9999-99-99,invalid,delivered,2,upi,Delhi
+@@@,C00345,NULL,delivered,null,card,null
+O0000956,32-13-2025,2024-12-27T14:58:26,delivered,1,cod,Chennai
+32-13-2025,C00776,2025-09-04T22:08:46,invalid,1,card,Bengaluru
+O0000958,@@@,2023-01-16T18:37:23,delivered,@@@,cod,Hyderabad
+ ,nan,nan,delivered,1,NULL,Kolkata
+O0000960,C00305,2025-10-07T10:03:36,delivered,2,cod,@@@
+ ,C00331,2025-02-25T10:48:11,###BAD###,1,card,nan
+O0000962,C00441, ,delivered,null,upi,Chennai
+null,123abc,2023-08-31T09:17:31,null,1,netbanking,Chennai
+invalid,C00962,2024-06-15T19:48:06,123abc,1,@@@,Bengaluru
+,C00099,2024-02-28T17:53:32,cancelled,,card,null
+not_a_date,C00983,2024-02-04T00:31:53,returned,NULL,upi,Kolkata
+O0000967,C00289,2025-05-23T23:28:33,delivered,2,9999-99-99,null
+###BAD###,C00941,2023-08-13T22:45:58,N/A,N/A,cod,Hyderabad
+O0000969,@@@,not_a_date,shipped,1,@@@,nan
+O0000970,C00823,2023-06-11T23:50:14,delivered,1,32-13-2025,Bengaluru
+ ,32-13-2025,2024-11-17T08:29:40,delivered,invalid,card,null
+O0000972,###BAD###,2023-03-20T13:06:59,delivered,2,123abc,N/A
+###BAD###,not_a_date,NULL,delivered,2,NULL,Kolkata
+NULL,###BAD###,2024-02-05T08:30:09,delivered,null,netbanking,invalid
+###BAD###,C00290,###BAD###,delivered,1,N/A,Mumbai
+O0000976,32-13-2025,,N/A,1,netbanking,not_a_date
+ ,nan,2024-06-22T19:24:40,delivered,1,upi,Noida
+O0000978,123abc,2024-01-04T09:53:14,processing,1,cod,Noida
+O0000979,C00816,null,delivered,1,card,Kolkata
+O0000980,C00116,2024-08-11T13:28:20,@@@, ,32-13-2025,Delhi
+###BAD###,C00181,@@@,delivered,N/A,cod,null
+O0000982,,###BAD###,nan,2,card,null
+O0000983,C00275,2024-03-16T13:03:35,cancelled,1,upi,Pune
+O0000984,123abc,2025-03-12T14:27:25,delivered,1,card,
+123abc,C00498,2024-03-24T10:40:52,delivered,2,cod,null
+O0000986,NULL,###BAD###,delivered,not_a_date,nan,null
+32-13-2025,C00620,2023-02-10T23:01:51,delivered,nan,upi,invalid
+ ,C00786,2023-05-10T20:03:33,delivered,null,netbanking,Bengaluru
+O0000989,C00859,2025-03-21T22:14:18,returned,1,upi, 
+O0000990,C00424,9999-99-99,9999-99-99, ,32-13-2025,Mumbai
+###BAD###,C00774,2023-07-29T16:25:50,delivered,2,not_a_date,Chennai
+invalid,123abc,###BAD###,invalid,,card,Chennai
+O0000993,C00768,null,delivered,,null,null
+O0000994,C00079,invalid,cancelled,1,cod,Mumbai
+O0000995,C00016,invalid,cancelled,N/A,netbanking,###BAD###
+O0000996,C00804,invalid,nan, ,@@@, 
+32-13-2025,C00208,2023-07-24T08:41:36,delivered,2,upi,not_a_date
+null,C00096,N/A,,1,netbanking,Hyderabad
+invalid,9999-99-99,2025-10-14T23:25:23,N/A,3,nan,Noida
+O0001000,@@@, ,,1,cod,invalid
+O0001001,C00659,2024-09-28T10:09:51,delivered,,card,Delhi
+O0001002,@@@,2023-12-13T06:55:31,delivered,1,card,null
+O0001003,not_a_date,2025-08-27T16:46:53,32-13-2025,2,netbanking,###BAD###
+invalid,not_a_date,2025-10-07T08:26:19, ,2,netbanking,Mumbai
+O0001005,C00330,2025-04-12T00:17:44, ,2,###BAD###,Noida
+nan,,NULL, ,1,card,Delhi
+null,32-13-2025,###BAD###,@@@,###BAD###, ,Bengaluru
+not_a_date,C00203,NULL,delivered,2,invalid,Noida
+32-13-2025,C00144,###BAD###,,1,N/A,Chennai
+O0001010,C00536,null,delivered,nan,@@@,Bengaluru
+invalid,C00298,2024-02-23T19:45:23,not_a_date,1,###BAD###,Noida
+O0001012,32-13-2025,2024-03-07T10:59:47,delivered,9999-99-99,netbanking,Bengaluru
+null,C00537,2025-08-28T00:20:26,delivered,null,cod,Delhi
+9999-99-99,nan,NULL,delivered,1,cod,Pune
+,C00097,2023-05-06T19:29:38,delivered,2,@@@,Kolkata
+ ,###BAD###,2023-01-29T06:17:18,9999-99-99,2,cod,Chennai
+@@@,###BAD###, ,9999-99-99,1,32-13-2025,
+O0001018,C00607, ,delivered,32-13-2025,upi,Delhi
+O0001019,@@@,###BAD###,processing,2,,Noida
+NULL,C00215,123abc,shipped,1,card,null
+9999-99-99,C00147,2023-12-04T15:55:00,,9999-99-99,not_a_date,Bengaluru
+O0001022,C00524,invalid,not_a_date,1,card,Kolkata
+O0001023,C00574,NULL,delivered,invalid,upi,Chennai
+O0001024,@@@,2024-10-11T16:05:56,123abc,3,netbanking,Bengaluru
+O0001025,123abc,2024-07-22T22:09:53,delivered, ,cod,123abc
+O0001026,C00712,2024-05-28T21:07:35,null,not_a_date,upi,Bengaluru
+O0001027,not_a_date,2025-01-18T14:49:42,delivered,invalid,32-13-2025,9999-99-99
+ ,C00632,2024-01-27T12:23:11,not_a_date,2,card,Kolkata
+invalid,9999-99-99,2025-01-09T16:12:00,NULL,123abc,upi,Delhi
+nan,9999-99-99,2025-01-25T08:32:58,delivered,2,upi,
+O0001031,9999-99-99,@@@,delivered,,NULL,Chennai
+O0001032,C00641,@@@,processing,1,cod,Noida
+O0001033,,2023-12-22T15:47:55,null,9999-99-99,card,not_a_date
+O0001034,C00379,null,NULL,1,nan,###BAD###
+ , ,123abc,invalid,9999-99-99,N/A,Pune
+32-13-2025,32-13-2025,32-13-2025,NULL,1,upi,32-13-2025
+O0001037,C00920,2023-12-13T18:46:23,delivered,1,cod,32-13-2025
+###BAD###,C00858,2023-05-06T02:12:52,cancelled,123abc,@@@,###BAD###
+O0001039,C00086,2023-12-20T14:02:17,delivered,,@@@,Bengaluru
+O0001040,@@@,2023-01-07T09:17:35,delivered,###BAD###,invalid,9999-99-99
+32-13-2025,C00582,2023-06-26T18:59:29,not_a_date,invalid,card,null
+@@@,@@@,2023-06-26T05:20:37,delivered,2,32-13-2025,Bengaluru
+N/A,C00808,2023-01-22T06:40:23,N/A,1,netbanking,Chennai
+O0001044,123abc,@@@,delivered,1,card,Hyderabad
+O0001045,C00723,2024-08-10T05:17:08,delivered,nan,cod,123abc
+O0001046,C00856,2024-01-21T08:56:12,delivered,1,@@@,Chennai
+###BAD###,C00715,2025-06-19T08:05:31,delivered,9999-99-99,upi,Pune
+O0001048,nan,2025-07-09T20:43:53,delivered,invalid,@@@,9999-99-99
+O0001049,NULL,2024-03-07T22:27:22,delivered, ,nan,9999-99-99
+###BAD###,C00351,2025-10-28T17:53:47,cancelled,1,nan,Kolkata
+O0001051, ,2024-03-22T14:16:02,NULL,2,netbanking,null
+O0001052,###BAD###, ,delivered,1,card,not_a_date
+O0001053,C00719,2023-08-03T20:22:55,processing,2,N/A,Hyderabad
+O0001054,C00487,,delivered,2,upi,Chennai
+O0001055,C00167,invalid,null, ,cod,Hyderabad
+O0001056,C00749,2025-03-28T15:53:15,delivered,not_a_date,upi,NULL
+NULL,C00495,2025-04-01T09:02:59,@@@,NULL,card,Hyderabad
+invalid,C00437,nan,delivered,1,null,Chennai
+O0001059,C00908,2024-02-11T18:48:08,nan,1,123abc,Mumbai
+O0001060,###BAD###,2023-07-05T09:50:49,delivered,1,32-13-2025,Noida
+O0001061,C00406,nan,delivered,2,netbanking,9999-99-99
+invalid,N/A,2023-06-14T05:15:54,invalid,null,card,
+O0001063,C00158,2025-02-05T00:30:10,delivered,9999-99-99,null,Hyderabad
+nan,32-13-2025,2024-03-11T15:42:24,123abc,NULL,NULL,NULL
+O0001065,C00397,123abc,delivered,1,@@@,Chennai
+O0001066,C00840,2025-05-19T19:25:34,delivered,not_a_date,cod,Mumbai
+O0001067,C00228,,delivered,1,32-13-2025,Hyderabad
+O0001068,C00937,NULL,delivered,1,card,Kolkata
+###BAD###,C00310,null,delivered,1,,Bengaluru
+O0001070,9999-99-99,N/A,delivered,invalid,123abc,Hyderabad
+O0001071,C00184,nan, ,###BAD###,cod,nan
+nan, ,32-13-2025,not_a_date,1,card,9999-99-99
+O0001073, ,2023-09-21T18:32:24,delivered,1,card,@@@
+O0001074,C00670,2025-04-02T13:49:03,delivered,@@@,upi,Delhi
+nan,C00619,2025-07-11T16:23:49,123abc,3,upi,not_a_date
+O0001076,C00115,2024-01-02T13:34:48,delivered,nan,card,32-13-2025
+ ,N/A,not_a_date,N/A,1,null, 
+O0001078,C00050, ,,1,cod,Pune
+O0001079, ,2025-01-26T08:27:21,delivered,1,card,Chennai
+O0001080,C00184,2024-08-23T11:26:01,N/A,2,upi,Mumbai
+O0001081,C00611,123abc,delivered, ,cod,not_a_date
+O0001082,C00180,nan,###BAD###,1,N/A,32-13-2025
+O0001083,N/A,2024-07-16T11:29:44,not_a_date,1,nan,Mumbai
+32-13-2025,C00079,2024-10-30T11:02:09,delivered,2,card,null
+###BAD###,C00525,2023-06-11T10:59:40,delivered,not_a_date,cod,Hyderabad
+O0001086,9999-99-99,123abc,NULL,1,card,NULL
+O0001087,C00989,2023-08-27T06:36:16,NULL,32-13-2025,netbanking,Mumbai
+invalid,###BAD###,2025-08-26T06:48:59,invalid,1,netbanking,32-13-2025
+O0001089,C00514,,delivered,3,NULL,Chennai
+O0001090,C00006,2025-04-13T06:01:50,delivered,NULL,,Chennai
+not_a_date,C00274,2025-08-05T19:50:40,not_a_date,2,netbanking,NULL
+invalid,null,2024-10-26T07:04:39,###BAD###,1,123abc,Hyderabad
+NULL,nan,2024-11-04T17:24:30,processing,123abc,card,Pune
+O0001094,C00349,2024-10-16T11:52:28,32-13-2025,1,NULL,Kolkata
+null,C00546,2023-12-15T21:24:16,delivered, ,card,32-13-2025
+32-13-2025,C00575,2024-12-08T02:13:47,shipped,1,upi,Chennai
+O0001097,not_a_date,2024-10-07T14:43:29, ,1,netbanking,Pune
+O0001098,C00579,2025-06-02T13:48:01,cancelled,1,NULL,Noida
+O0001099, ,2025-02-07T17:08:24,9999-99-99,2,@@@,Delhi
+O0001100,nan,2024-03-23T06:07:36,delivered,1,32-13-2025,nan
+O0001101, ,2025-04-16T11:48:13,NULL,1,upi,Pune
+O0001102,C00789,32-13-2025,processing,3,upi,Hyderabad
+nan,9999-99-99, ,delivered,2,cod,Bengaluru
+O0001104,C00947,@@@,delivered,nan,upi,Noida
+O0001105,C00672,, ,9999-99-99,123abc,Hyderabad
+N/A,C00421,2024-01-22T20:01:39,delivered,1,card, 
+nan,@@@,2023-02-16T10:39:15,delivered,###BAD###,cod,null
+nan,C00975,2025-01-28T00:47:38,processing,2,cod,Kolkata
+O0001109,C00871,,nan,1,not_a_date,N/A
+O0001110,C00960,2024-02-14T10:08:18,32-13-2025,32-13-2025,not_a_date,invalid
+O0001111,,2025-08-02T14:15:43,delivered,2,32-13-2025,Bengaluru
+32-13-2025,C00997,2025-08-02T16:41:07,returned,,upi,nan
+invalid,C00251,123abc,nan,,cod,Noida
+O0001114,C00883,2025-02-28T02:50:26,shipped,32-13-2025,card,123abc
+N/A,32-13-2025,2025-09-11T23:03:18,returned,1,invalid,Pune
+123abc,C00410, ,delivered,1,123abc,32-13-2025
+O0001117,C00740,2023-12-13T11:26:42,123abc,@@@,netbanking,Noida
+,C00216,null,not_a_date,2,cod,Noida
+O0001119,C00771,2024-05-16T08:21:18,null,1,32-13-2025,Noida
+O0001120,C00717,2024-06-12T18:17:38,delivered,1,netbanking,Bengaluru
+O0001121, ,2024-08-13T00:14:56,delivered,2,upi,null
+ ,C00315,nan,invalid,3,,NULL
+O0001123,C00159,2023-09-21T04:38:18,processing,2,upi,32-13-2025
+NULL,123abc, ,9999-99-99,N/A,upi,Pune
+ ,C00739,nan,@@@,1,upi,Bengaluru
+O0001126,C00602,N/A,delivered,1,cod,###BAD###
+O0001127,invalid,not_a_date,delivered, ,card,Pune
+O0001128,C00231,invalid,delivered,1,card,32-13-2025
+O0001129,C00366,2025-10-18T14:36:58,9999-99-99,invalid,card,Kolkata
+O0001130,NULL,invalid,9999-99-99,1,card,Pune
+O0001131,C00520,2023-05-18T08:35:34,not_a_date,2,card,N/A
+ ,32-13-2025,32-13-2025,delivered,1,32-13-2025,9999-99-99
+@@@,@@@,2025-07-23T05:02:38,delivered,1,upi,Delhi
+O0001134,C00761,null,delivered,,invalid,Chennai
+NULL,123abc,2024-03-01T07:15:37,cancelled,1,cod,32-13-2025
+O0001136, ,2023-04-15T10:50:40,delivered,NULL,cod,Delhi
+N/A,C00453,2023-06-20T15:12:06,delivered,2,netbanking,Noida
+O0001138,N/A,not_a_date,processing,1,9999-99-99,Kolkata
+O0001139,null, ,delivered,1,upi,Noida
+O0001140,C00647,2023-12-28T10:32:30,delivered,not_a_date,32-13-2025,Chennai
+,C00889,2024-05-24T10:17:43,delivered,2,nan,Noida
+O0001142,C00115,2024-01-09T15:00:20,123abc,1,cod,Noida
+O0001143, ,2024-01-02T02:48:27,null,1,card,Noida
+O0001144,C00351,2024-01-10T06:49:06,cancelled,1,netbanking,Chennai
+@@@,C00514,N/A,123abc,1,not_a_date,Kolkata
+O0001146,C00585,2023-11-13T10:10:12,cancelled,nan,null,not_a_date
+nan,C00625,9999-99-99,delivered,N/A,cod,N/A
+null,not_a_date,2024-06-22T15:59:54,nan,1,upi,Bengaluru
+O0001149,not_a_date,2024-11-14T23:22:53,,2,cod,Chennai
+O0001150,nan,NULL,nan,2,card,Hyderabad
+O0001151,C00363,9999-99-99,delivered,@@@, ,Kolkata
+###BAD###,C00678,2024-06-08T09:53:23,delivered,2,invalid,null
+null,123abc,2024-02-13T06:39:32,delivered,1,upi,Delhi
+O0001154,32-13-2025, ,9999-99-99,1,,Mumbai
+O0001155,,2025-03-09T22:58:45,9999-99-99,1,@@@,
+O0001156,C00061,2023-07-27T01:40:21,@@@,2,upi,null
+,C00946,2024-08-05T03:30:08,not_a_date,1,card,Pune
+O0001158,9999-99-99,2025-04-27T04:55:09,32-13-2025,N/A,netbanking,
+O0001159,C00449,2024-05-17T10:36:34,9999-99-99,9999-99-99,upi,Chennai
+null,@@@,9999-99-99,delivered,1,upi, 
+O0001161,C00927,2025-07-02T23:56:13,delivered,2,cod,not_a_date
+O0001162,null,9999-99-99,shipped,1,upi,Chennai
+O0001163,@@@,2023-02-17T04:07:41,delivered,1,null,
+###BAD###,C00818,2023-04-09T16:03:58,###BAD###,null,upi,Mumbai
+NULL,C00580,2025-06-14T01:32:55,cancelled,1,,N/A
+O0001166,NULL,2024-11-14T20:04:47,delivered,2,32-13-2025,123abc
+O0001167,9999-99-99,32-13-2025,delivered,2,nan,123abc
+O0001168,C00770,2023-05-30T21:27:52,delivered,1,###BAD###,Bengaluru
+invalid,NULL,9999-99-99,delivered,1,@@@,Hyderabad
+O0001170,C00911,N/A,invalid,123abc,cod,Mumbai
+ ,NULL,2024-04-06T10:27:09,delivered,not_a_date,netbanking,Pune
+@@@,9999-99-99,2025-07-26T20:42:12,cancelled,3,upi,Bengaluru
+###BAD###,C00194,2023-10-31T06:19:11,delivered,1,card,Bengaluru
+O0001174,C00554,2024-12-14T02:20:55,delivered,not_a_date,NULL,Kolkata
+O0001175,null,2024-09-12T05:27:17,delivered,1,32-13-2025,Pune
+NULL,C00028,,@@@,1,card,Noida
+32-13-2025,C00889,2024-03-03T12:03:28,32-13-2025,2,@@@,Kolkata
+O0001178,C00790,nan,delivered,1,netbanking,N/A
+###BAD###,null,2024-03-05T03:31:47,delivered,123abc,upi,Hyderabad
+O0001180,C00196,not_a_date,@@@,1,32-13-2025,###BAD###
+,9999-99-99,###BAD###,9999-99-99,3,cod,@@@
+O0001182,9999-99-99,###BAD###,delivered,nan,null,Kolkata
+,C00719,2023-06-22T20:41:51,delivered,N/A,cod,Mumbai
+O0001184,C00975,2024-07-16T23:41:57,delivered,2,netbanking,9999-99-99
+O0001185,C00182,2023-01-19T04:33:09,invalid,N/A,cod,null
+O0001186,@@@, ,delivered,2, ,Bengaluru
+O0001187,nan,2023-12-20T05:59:33,32-13-2025,1,null, 
+O0001188, ,2023-08-13T05:01:31,###BAD###,1,9999-99-99,Pune
+O0001189,C00931,2024-06-27T19:20:01,cancelled,1,upi,Mumbai
+,C00911,not_a_date,delivered,@@@,NULL,Mumbai
+O0001191,123abc,9999-99-99,delivered,invalid,9999-99-99,123abc
+O0001192,not_a_date,2024-04-01T02:26:04,delivered,1,cod,Noida
+ ,C00426,null,returned,not_a_date,9999-99-99,Chennai
+O0001194,C00488,2025-08-19T08:08:20,9999-99-99,1,upi,NULL
+O0001195,###BAD###, ,delivered,1,netbanking,Kolkata
+,invalid,2023-09-23T04:14:42,delivered,2,card,Hyderabad
+O0001197,not_a_date,2023-08-04T07:14:16,delivered,3,upi, 
+123abc,NULL,2025-08-04T21:37:33,delivered,3,@@@,Bengaluru
+not_a_date,,2025-05-14T11:42:09,delivered,2,null, 
+O0001200,123abc,2023-04-09T06:11:00, ,1,card,Kolkata
+O0001201,C00166,2025-03-23T10:00:36,123abc,2,upi,Kolkata
+O0001202,nan,2025-04-10T14:13:29,delivered,,,
+O0001203,9999-99-99,@@@,NULL,1,null,N/A
+O0001204,null,2024-11-29T15:49:35,32-13-2025,1,card,Pune
+O0001205,C00782,2024-06-22T02:50:23,delivered,123abc,nan, 
+###BAD###,C00097,,NULL,2,upi,Bengaluru
+O0001207,C00895,2024-12-12T09:28:27,delivered,1, ,Bengaluru
+O0001208,123abc,2024-02-04T04:53:43,NULL,1,not_a_date,Kolkata
+###BAD###,32-13-2025,2024-12-25T16:38:49,delivered,1,card,nan
+123abc,123abc,2024-04-16T22:33:10, ,invalid,card,not_a_date
+9999-99-99,123abc,@@@,123abc,NULL,cod,Kolkata
+O0001212,9999-99-99,2023-04-11T12:18:24,processing,N/A,###BAD###,Noida
+O0001213,C00480,32-13-2025,delivered,1,upi,Chennai
+O0001214,C00214,2023-05-17T01:48:26,delivered,NULL,9999-99-99,N/A
+O0001215,C00783,2024-05-11T12:50:10,delivered,32-13-2025,cod,Kolkata
+9999-99-99,@@@,2024-12-18T02:14:17,@@@,1,###BAD###,not_a_date
+O0001217,C00744,###BAD###,9999-99-99,1,upi,Mumbai
+N/A,C00653,2023-08-29T16:19:33,delivered,not_a_date,nan,Kolkata
+O0001219,C00677,###BAD###,nan,1,cod,Bengaluru
+N/A,9999-99-99,2024-11-30T08:02:24,,1,123abc,32-13-2025
+O0001221,C00642,nan,processing,3,cod,Chennai
+O0001222,32-13-2025,2023-07-31T02:46:38,shipped,nan,upi,NULL
+O0001223,C00891,2025-10-09T22:27:26, ,1,NULL,Chennai
+O0001224,32-13-2025,2024-07-18T08:40:32,not_a_date,###BAD###,###BAD###,Pune
+not_a_date,C00086, ,delivered,NULL,nan,Kolkata
+O0001226,C00606,,shipped,NULL,null,32-13-2025
+O0001227,C00622,2025-02-22T01:38:06,delivered,1,card,NULL
+O0001228,C00121,@@@,not_a_date,invalid,cod,Hyderabad
+32-13-2025,C00736,N/A,delivered,not_a_date,nan,
+nan,C00963,2025-03-27T20:47:49,nan, ,card,null
+@@@,C00581,2024-01-06T00:40:21,,2,cod,Mumbai
+O0001232,C00747,2025-07-24T08:22:52,delivered,###BAD###,@@@,###BAD###
+nan,C00284,2025-07-02T01:20:29,delivered,1,invalid,Bengaluru
+9999-99-99,C00215,2024-10-21T23:25:48,delivered,9999-99-99,not_a_date,Noida
+@@@,C00878,2023-07-02T10:22:39,delivered,1,netbanking,32-13-2025
+O0001236,C00849,N/A,,1,cod,Pune
+123abc,C00637,2025-10-15T20:11:48,@@@,,upi,Noida
+123abc,C00360,2024-11-21T14:57:23,cancelled,1,###BAD###,Pune
+null,9999-99-99,2023-08-17T06:37:19,processing,3,,9999-99-99
+O0001240,C00408,2023-06-05T06:05:05,delivered,1,cod,Chennai
+O0001241,C00150,123abc,delivered,2,not_a_date,Delhi
+O0001242, ,2024-08-24T19:36:05,delivered,2,netbanking,not_a_date
+123abc,###BAD###,2023-03-25T07:35:09,delivered,@@@,upi,Mumbai
+O0001244,C00507,32-13-2025,processing,9999-99-99,not_a_date,Kolkata
+O0001245,NULL,32-13-2025,processing,nan,,Noida
+N/A,C00425,123abc,delivered,1,9999-99-99,Hyderabad
+O0001247,C00765,invalid,returned,1,invalid,Hyderabad
+O0001248,C00380,2025-01-16T07:20:34,delivered,not_a_date,netbanking,32-13-2025
+O0001249,C00881,2024-05-20T17:37:08,NULL,2,cod,Pune
+invalid,C00108,2024-04-11T23:22:45,not_a_date, ,netbanking,Noida
+null,invalid,2023-04-19T14:39:28,delivered,2,cod,Delhi
+O0001252,not_a_date,123abc,delivered,@@@,card,N/A
+O0001253,C00489,2023-10-30T02:43:22,delivered,nan,upi,Chennai
+,@@@,not_a_date,123abc,123abc,netbanking,Hyderabad
+O0001255,C00221,N/A,delivered,not_a_date,upi,Kolkata
+O0001256,C00584,2025-04-13T04:49:34,shipped,1,upi,Mumbai
+O0001257,@@@,32-13-2025,invalid,1,not_a_date,nan
+,C00543,2025-04-27T23:10:46,nan,32-13-2025,netbanking,null
+O0001259,C00031,, ,1,cod,Hyderabad
+O0001260,not_a_date,123abc,invalid,1,upi,Bengaluru
+32-13-2025,C00099,2024-09-29T11:11:45,123abc,1,upi,Noida
+9999-99-99, ,9999-99-99,,2,NULL,nan
+O0001263,, ,processing,invalid,@@@,@@@
+O0001264,C00700,N/A,shipped,1,,Mumbai
+O0001265,###BAD###,null,processing,1,upi,Delhi
+O0001266,32-13-2025,null,@@@,1,netbanking,Pune
+not_a_date,C00100,2023-11-13T19:23:36,NULL,1,cod,Bengaluru
+NULL,C00520,2023-11-01T14:01:39,not_a_date,not_a_date,card,null
+O0001269,C00958,###BAD###,delivered,1,netbanking,Delhi
+not_a_date,C00510,NULL,@@@,1,###BAD###,Hyderabad
+invalid,C00803,invalid,@@@,1,netbanking,###BAD###
+O0001272,C00145,2024-05-05T15:12:50,N/A,2,upi, 
+O0001273,32-13-2025,nan,processing,2,card,Delhi
+O0001274,C00680,2024-10-18T16:36:36,delivered,1,cod,Kolkata
+O0001275,C00290,2024-10-18T04:28:48,###BAD###,nan,cod,Hyderabad
+###BAD###,,2025-02-11T02:31:01,delivered,1,upi, 
+O0001277,C00625,not_a_date,32-13-2025,1,###BAD###,Mumbai
+O0001278,C00193,2023-07-02T09:57:37,delivered,###BAD###,netbanking,Pune
+null,@@@,NULL,shipped,1,cod,Kolkata
+O0001280,C00361,nan,delivered,@@@,netbanking, 
+O0001281,,2023-04-02T06:06:29,processing,not_a_date,netbanking,Pune
+O0001282,C00075,null,not_a_date,32-13-2025,@@@,Mumbai
+O0001283, ,N/A,invalid,1,9999-99-99,invalid
+not_a_date,C00927,9999-99-99,not_a_date,not_a_date,netbanking,Hyderabad
+O0001285,###BAD###,nan,###BAD###,1,netbanking,32-13-2025
+O0001286,null, ,,1,,Chennai
+not_a_date,###BAD###,9999-99-99,delivered,NULL,cod,@@@
+O0001288,C00285,2024-01-24T15:16:38,delivered,1,cod,
+null,C00713,NULL, ,1,9999-99-99,Delhi
+NULL,C00163,2025-09-27T02:11:34,delivered,@@@,upi,nan
+O0001291,C00292,2024-08-09T09:54:36,delivered,N/A,###BAD###,###BAD###
+O0001292,C00843, ,delivered,1,@@@,null
+O0001293,,2025-09-07T03:07:14,, ,cod,Bengaluru
+O0001294,C00086,2023-05-19T07:27:39,delivered,1,netbanking,Noida
+O0001295,C00612,2023-03-26T21:59:32,null,2,netbanking,Kolkata
+###BAD###,invalid,invalid,processing,N/A,upi,null
+null,###BAD###,not_a_date,N/A,1, ,invalid
+O0001298,C00390,2023-11-10T09:32:04,NULL,1,netbanking,Pune
+O0001299,###BAD###,2025-06-17T00:55:28,delivered,1,invalid,not_a_date
+not_a_date,C00571,2023-11-26T04:35:20,delivered,@@@,###BAD###,Hyderabad
+@@@,C00531,###BAD###,invalid,,upi,Pune
+O0001302,C00040,2023-10-21T03:43:14,delivered,nan,@@@, 
+O0001303,C00834,2025-03-04T18:07:54,32-13-2025,1,not_a_date,Delhi
+###BAD###,nan,2025-09-02T18:41:24,delivered,1,123abc,
+O0001305,C00933,123abc,delivered,123abc,###BAD###,@@@
+O0001306,C00942,2023-11-10T14:34:56,NULL,###BAD###,,Chennai
+N/A,C00653,32-13-2025,delivered,2,card,Hyderabad
+O0001308,9999-99-99,2024-09-06T04:02:29,123abc,2,netbanking,N/A
+9999-99-99,9999-99-99,2024-12-23T06:25:26,nan,@@@, ,123abc
+O0001310,C00455,2025-03-06T14:23:21,delivered,not_a_date,cod,Bengaluru
+O0001311,123abc,nan,delivered,1,netbanking,Pune
+O0001312,C00922,2025-08-06T17:55:48,cancelled,,invalid,9999-99-99
+O0001313,C00219,2025-03-15T04:30:06,delivered,nan,cod,Chennai
+O0001314,C00927,2025-04-24T01:12:13,delivered,2,netbanking,NULL
+O0001315,C00960,###BAD###,123abc,###BAD###,nan,Bengaluru
+O0001316,C00280,123abc,cancelled,NULL,32-13-2025,Bengaluru
+NULL,9999-99-99,2024-10-10T14:15:55,NULL,32-13-2025,cod,Pune
+O0001318,C00626,2023-03-14T21:06:50,delivered,2,card,Mumbai
+O0001319,C00943,2023-04-19T10:54:05,###BAD###,NULL,upi,Kolkata
+O0001320,C00762,2023-11-05T06:19:53,delivered,###BAD###,upi,Noida
+N/A,C00487,2024-11-24T22:11:18,###BAD###, ,netbanking,N/A
+O0001322,9999-99-99,2025-04-30T03:34:58,delivered,###BAD###,netbanking,Noida
+O0001323,C00717, ,delivered,2,card,###BAD###
+null,C00932,invalid,,1,cod,nan
+O0001325,###BAD###,@@@,delivered,nan,upi,Noida
+O0001326,C00599,9999-99-99,shipped,1,123abc, 
+O0001327,C00088,invalid,delivered,1,invalid,Bengaluru
+N/A,123abc,2024-02-08T20:20:18,N/A,2,card, 
+O0001329,C00618,2025-10-10T00:39:57,null,1,netbanking,Pune
+###BAD###, ,@@@,not_a_date,1,card,32-13-2025
+O0001331,C00327,NULL,delivered,1,upi,Noida
+O0001332,C00444,invalid,N/A,2,cod,nan
+###BAD###,C00341,2023-03-06T04:55:59,,1,card,123abc
+O0001334,C00390,2024-02-13T15:24:24,delivered,@@@,upi,NULL
+O0001335,C00344,nan,123abc,3,32-13-2025,Bengaluru
+not_a_date,C00966,###BAD###,not_a_date,invalid,upi,Chennai
+O0001337, ,2025-07-10T21:05:51,delivered,1,upi,nan
+invalid,,2023-09-21T03:15:04,null,1,@@@,nan
+O0001339,not_a_date,2024-04-30T02:55:04,,1,card,32-13-2025
+O0001340,N/A,2023-05-25T04:37:40,shipped, , ,Pune
+O0001341,invalid,N/A,9999-99-99,1,9999-99-99,@@@
+@@@,C00191,not_a_date, ,,netbanking,Kolkata
+O0001343,,nan,delivered,2,cod,Kolkata
+O0001344,C00726,,delivered,2,nan,Noida
+O0001345,123abc,@@@,delivered,2,netbanking,Delhi
+O0001346,C00720,2023-06-05T06:11:54,delivered,N/A,netbanking,Bengaluru
+O0001347,C00405,2024-08-30T19:26:32,delivered,1,netbanking,@@@
+O0001348,32-13-2025,not_a_date,delivered,1,invalid,
+O0001349,32-13-2025,null,9999-99-99,3,card,Hyderabad
+O0001350,C00082,2025-07-02T00:47:43,delivered,1,upi,nan
+O0001351,C00583,2024-06-21T23:53:20,delivered,2,cod,
+O0001352,C00512,2024-09-06T15:20:34,shipped,nan,NULL,###BAD###
+O0001353,C00602,nan,invalid,32-13-2025,cod,Pune
+32-13-2025,C00946,###BAD###,delivered,,123abc,Bengaluru
+O0001355,,,delivered,not_a_date,upi,Hyderabad
+O0001356,C00892,2023-11-02T12:23:00,32-13-2025,N/A,netbanking,Bengaluru
+O0001357,C00608,2024-01-12T06:06:01,delivered,32-13-2025,netbanking,Chennai
+NULL,C00346,N/A,delivered,123abc,invalid,not_a_date
+,C00195,2025-09-23T19:46:31,N/A,1,netbanking,Noida
+ ,C00993,2023-05-03T11:06:04,N/A,1,cod,Chennai
+N/A,###BAD###,2024-04-26T16:31:51,nan,123abc,cod,Mumbai
+nan,@@@,123abc,delivered,1,###BAD###,32-13-2025
+O0001363,123abc,invalid,delivered,1,netbanking,invalid
+O0001364,C00579,9999-99-99,delivered,1,netbanking,Kolkata
+@@@,C00968,###BAD###,processing,2,upi,Noida
+O0001366,nan,2024-07-28T17:21:36,cancelled,not_a_date,null,
+O0001367,NULL,2024-10-21T20:36:58,,32-13-2025,netbanking,not_a_date
+O0001368,C00501,2025-08-20T00:20:32,invalid,2,cod,Bengaluru
+NULL,###BAD###,2024-10-20T02:33:31,delivered,1,upi,nan
+invalid,C00461, ,@@@,1,NULL, 
+O0001371,C00869,2023-05-01T15:15:14,delivered,3,upi, 
+O0001372,C00845,2025-09-15T17:09:50,32-13-2025,1,9999-99-99,Noida
+O0001373,C00322,2024-02-14T20:12:59,delivered,2,card,Chennai
+O0001374,null,2023-05-05T23:56:12, ,1,upi,Kolkata
+O0001375,C00810,2025-02-09T13:44:52,processing,,upi,9999-99-99
+O0001376,@@@,2023-10-23T09:01:01,delivered,2,cod,N/A
+invalid,32-13-2025,nan,delivered,@@@,,N/A
+O0001378,invalid,2024-10-05T03:59:17,delivered,9999-99-99,netbanking,Noida
+123abc,C00292,2023-11-30T18:08:20,shipped,1,###BAD###,Mumbai
+O0001380,32-13-2025,nan,123abc,9999-99-99,123abc,123abc
+O0001381,C00644,###BAD###,delivered,1,card,@@@
+O0001382,@@@,2023-03-22T16:03:46,null,1,netbanking,Noida
+invalid, ,2023-05-20T04:09:06,32-13-2025,not_a_date,not_a_date,Delhi
+32-13-2025,@@@,invalid,delivered,1,card,Noida
+@@@,C00411,nan,cancelled,1,netbanking,32-13-2025
+9999-99-99,C00834,2024-02-29T14:10:07,invalid,1,,Kolkata
+O0001387,C00246,NULL,delivered,###BAD###,netbanking,invalid
+O0001388,nan,2023-03-28T07:48:14,processing,@@@,null,Pune
+O0001389,C00331,9999-99-99,invalid,3,upi,Noida
+O0001390,C00025,32-13-2025,delivered,1,card,32-13-2025
+###BAD###,C00236,2025-10-03T00:22:44,,N/A,N/A,32-13-2025
+123abc,C00407,2024-03-11T04:34:00,processing,nan,@@@,9999-99-99
+@@@,not_a_date,null,processing,,32-13-2025,null
+O0001394,123abc,2024-10-31T08:25:07,delivered, ,@@@,Mumbai
+O0001395,NULL,2025-04-10T06:11:07,delivered,9999-99-99,card,Kolkata
+123abc,###BAD###,123abc,9999-99-99,2,###BAD###,
+nan,,N/A,invalid,1,null,123abc
+O0001398,null,2023-02-18T09:00:13,###BAD###,1,invalid,Kolkata
+O0001399,123abc,2025-03-06T23:20:29,shipped,null, ,Noida
+O0001400,9999-99-99,2024-08-07T21:54:15,null,not_a_date,,Mumbai
+,C00874, ,delivered,1,not_a_date,Mumbai
+O0001402,C00311,NULL, ,1,NULL,32-13-2025
+O0001403,not_a_date,2024-03-16T20:12:27,delivered,N/A,upi,Delhi
+O0001404,C00287,@@@,N/A,2,card,Chennai
+O0001405,###BAD###,2024-06-22T14:59:59,processing,1,netbanking,Delhi
+not_a_date,C00942,2023-03-04T15:11:00,delivered,1,netbanking,Noida
+not_a_date,nan,N/A,delivered,32-13-2025,card,123abc
+O0001408,null,###BAD###,delivered,,cod,@@@
+O0001409,nan,###BAD###,delivered,1,###BAD###,Delhi
+O0001410,N/A,###BAD###,delivered,2,upi,Mumbai
+O0001411,C00688,NULL,delivered,1,123abc,Mumbai
+invalid,9999-99-99,9999-99-99,32-13-2025,1,card,Chennai
+nan,@@@,2023-07-01T19:23:29,returned,1,9999-99-99,Pune
+O0001414,C00675,2025-01-30T23:35:34,nan,1,upi,@@@
+O0001415,N/A,2025-04-02T11:29:22,cancelled,32-13-2025,netbanking,9999-99-99
+ ,C00692,invalid,N/A,2,netbanking,Pune
+O0001417,@@@,invalid,32-13-2025,1,not_a_date,
+O0001418,C00352,2025-11-03T20:09:38,null,,9999-99-99,Bengaluru
+O0001419,C00836,2024-02-26T22:25:05,nan,1,card,Mumbai
+O0001420,C00533,not_a_date,processing, ,not_a_date,Kolkata
+O0001421,C00701,2024-11-16T15:07:20,delivered,1,upi,@@@
+,C00536,nan,delivered,1,N/A, 
+O0001423,32-13-2025,,invalid,1,netbanking,Mumbai
+not_a_date,C00915,nan,processing,1,upi,Kolkata
+O0001425,N/A,32-13-2025,###BAD###,3,card,Kolkata
+N/A,###BAD###,2023-02-03T00:18:07,delivered,null,card,9999-99-99
+null,123abc,2025-07-15T03:27:22,delivered,NULL,card,###BAD###
+NULL, ,not_a_date,delivered,invalid,cod,@@@
+O0001429,@@@,2025-10-03T01:31:20,delivered,1,@@@,Noida
+123abc, ,@@@,delivered,2,upi,Noida
+O0001431,C00028,2025-02-17T01:31:48,9999-99-99,1,cod,###BAD###
+O0001432,C00557,2023-07-08T02:15:46,invalid,1,###BAD###,Noida
+9999-99-99,C00389,2024-11-21T07:38:30,invalid,1,not_a_date,Noida
+O0001434,N/A,2025-04-20T03:00:43,###BAD###,1,card,9999-99-99
+O0001435,@@@,2025-10-25T05:29:17,delivered,###BAD###,cod,Mumbai
+nan,,2023-08-29T22:33:31,delivered,1,cod,null
+O0001437,C00875,2023-11-30T01:18:38,delivered,,card,###BAD###
+O0001438,C00992,2023-06-07T06:30:31, ,@@@,null,Bengaluru
+O0001439,C00792,###BAD###,delivered,N/A,9999-99-99,Kolkata
+O0001440, ,2025-06-29T22:58:07,delivered,1,netbanking,
+ ,invalid,2023-02-18T14:31:23,,3,not_a_date,Mumbai
+N/A, ,2025-01-24T20:34:06,delivered,1,card,NULL
+O0001443,C00447,###BAD###, ,1,null,invalid
+O0001444,C00411,2024-05-13T04:07:01,invalid,1,netbanking,Kolkata
+O0001445,C00457,invalid,,2,9999-99-99,123abc
+123abc,C00119,2023-03-23T07:12:09,N/A,1,cod,Mumbai
+32-13-2025,123abc,NULL,123abc,1,9999-99-99,Mumbai
+O0001448,C00311,2023-10-08T10:58:15,processing,2, ,null
+@@@,C00680, ,delivered, ,cod,123abc
+nan,C00150,2023-09-18T16:09:55,cancelled,1,cod,Delhi
+O0001451,C00580,null,delivered,,null,
+O0001452,C00848,###BAD###,,1, ,Hyderabad
+O0001453,nan,@@@,delivered,2,cod,Kolkata
+O0001454,###BAD###,2023-09-18T15:39:50,,123abc,null,Bengaluru
+NULL,C00248,not_a_date,delivered,1,card,Hyderabad
+O0001456,C00068,2023-06-23T22:57:49,32-13-2025,null,card,Pune
+O0001457,123abc,2025-03-16T08:29:41,9999-99-99,,invalid,Chennai
+O0001458,C00857,2024-10-31T09:54:30,delivered,123abc,cod,Bengaluru
+O0001459, ,2024-11-21T02:44:31,shipped,1,card,Chennai
+not_a_date,C00645,2024-07-03T08:55:18,invalid,1, ,N/A
+N/A,C00950,2024-10-25T07:36:12,delivered,1,null,@@@
+@@@,not_a_date,2024-11-17T16:43:26,delivered,1,cod,123abc
+O0001463,C00787,2023-10-13T22:18:12,delivered,32-13-2025,upi,Pune
+N/A,C00210,2025-08-05T18:33:11,delivered,1,upi,Kolkata
+,123abc,2024-11-21T05:56:41,32-13-2025,N/A,upi,invalid
+O0001466,###BAD###,2025-09-18T22:17:59,delivered,1,32-13-2025,Bengaluru
+O0001467,C00261,not_a_date,returned,3,cod,32-13-2025
+O0001468,N/A,2024-01-22T08:59:31,delivered,123abc,upi,@@@
+O0001469,C00204,2024-06-28T01:27:40,N/A,32-13-2025,NULL,Noida
+O0001470,C00448,2025-03-03T10:07:08,not_a_date,2,upi,###BAD###
+O0001471,C00043,2023-05-24T08:06:35,delivered,123abc,netbanking,Delhi
+O0001472,C00948,null,delivered,NULL,card,Mumbai
+ ,C00115,2024-11-22T19:46:17,32-13-2025,###BAD###,netbanking,Kolkata
+O0001474,C00226,2024-06-30T17:22:53,delivered,nan,32-13-2025,Pune
+invalid,C00781,@@@,delivered,1,card,Bengaluru
+O0001476,C00094,2024-07-06T15:07:06,delivered,1,cod,Kolkata
+null,C00248,123abc, ,2,netbanking,nan
+O0001478,C00110,N/A,delivered,not_a_date,cod,Noida
+O0001479,###BAD###,2024-04-20T03:54:05,delivered,@@@,not_a_date, 
+O0001480,C00154,2025-02-26T19:48:24,@@@,1,upi,
+NULL,C00903,2025-10-03T13:50:56,N/A,null,upi,Mumbai
+O0001482,C00512,2025-03-05T14:38:13,nan,1,not_a_date,32-13-2025
+O0001483,C00173,nan,delivered,null,@@@,9999-99-99
+not_a_date,C00733,2024-08-18T07:24:38,processing,1,card,Kolkata
+O0001485,nan,2023-05-13T14:45:51,delivered,invalid,upi,null
+not_a_date,C00391, ,delivered,N/A,cod,null
+@@@,C00448,invalid, ,@@@,upi,Noida
+O0001488,null,123abc,null,nan,netbanking,Mumbai
+O0001489,C00391,2025-01-16T01:48:14,123abc,1,netbanking,Delhi
+O0001490,,2023-04-13T08:05:33,processing,9999-99-99,32-13-2025,Bengaluru
+O0001491,C00301,2023-10-18T13:17:55,processing,32-13-2025,netbanking,Hyderabad
+O0001492,N/A,2023-12-08T16:04:14,N/A,,card,Bengaluru
+O0001493,,,###BAD###,1,netbanking,Delhi
+O0001494,N/A,2023-07-27T08:52:50,delivered,1,card,
+O0001495,32-13-2025,###BAD###,delivered,123abc,netbanking, 
+O0001496,null,2023-01-18T10:54:10,cancelled,1,card,Mumbai
+nan,C00404,32-13-2025,delivered,1,netbanking,@@@
+O0001498,C00883,2025-01-22T18:50:17,,1,N/A,9999-99-99
+O0001499,C00728,NULL,@@@,nan,card,123abc
+nan,C00387,2023-10-06T00:18:29,delivered,2,cod,Hyderabad
+ ,N/A,2025-04-07T16:29:41,32-13-2025,1,upi,not_a_date
+O0001502,C00770,2024-05-29T16:59:26,delivered,null,N/A,Bengaluru
+not_a_date,C00825,nan,shipped,1,NULL,Delhi
+O0001504,C00619, ,delivered,1,upi,9999-99-99
+32-13-2025,C00204,,N/A,@@@,32-13-2025,Noida
+@@@,@@@,2023-10-14T20:50:19,nan,NULL, ,Mumbai
+O0001507,C00923,2024-04-10T14:16:31,delivered,1,cod,###BAD###
+O0001508,C00904,2024-02-24T14:08:26,N/A,,netbanking,Bengaluru
+O0001509,C00919,2023-07-27T09:23:03,delivered,32-13-2025,123abc,Hyderabad
+O0001510,C00080,N/A,delivered,9999-99-99,###BAD###,###BAD###
+O0001511,C00070,2024-12-22T10:12:19,N/A,2,netbanking,Mumbai
+O0001512,N/A, ,@@@,2,card,invalid
+, ,null,delivered,3,cod,Pune
+N/A,invalid,invalid,returned,invalid,9999-99-99,Noida
+O0001515,C00777,2025-09-25T13:48:32,123abc,1,@@@,Bengaluru
+O0001516,C00956,2025-02-12T10:42:45,delivered,null,upi,Bengaluru
+O0001517,C00146, ,123abc,1,netbanking,9999-99-99
+###BAD###, ,2024-09-12T00:08:12,delivered,2,netbanking, 
+9999-99-99,C00819,2023-11-07T13:35:36,delivered,1,@@@,Mumbai
+O0001520,9999-99-99,2023-12-01T01:16:46,32-13-2025,2,card,invalid
+123abc,###BAD###,2023-12-06T21:31:07,123abc,1,cod,nan
+O0001522,C00632,not_a_date,123abc,2,N/A,Pune
+O0001523,@@@,2023-11-15T21:43:53, ,123abc,upi,Kolkata
+nan,C00232,2023-02-15T13:30:17,NULL,###BAD###,upi,Noida
+O0001525,@@@,2025-04-08T01:37:19,invalid,not_a_date,upi,Delhi
+O0001526,C00844,2023-10-31T17:14:54,cancelled,1,netbanking,32-13-2025
+O0001527,nan,nan,delivered,@@@,nan,invalid
+ ,C00430,2024-11-09T09:05:15,null,not_a_date,cod,###BAD###
+O0001529,C00794,2024-10-04T01:27:25,NULL,2,9999-99-99,Hyderabad
+O0001530,C00485,2023-03-04T10:23:07,invalid,###BAD###,,32-13-2025
+O0001531,C00951,123abc, ,1,netbanking,Chennai
+O0001532,,,delivered,1,invalid,9999-99-99
+O0001533,C00104,NULL,delivered,2,cod,Noida
+NULL,C00919,2023-07-09T22:41:09,shipped,1,invalid,32-13-2025
+O0001535,9999-99-99,2023-03-08T04:18:53,invalid,1,upi,Delhi
+O0001536,,2023-12-05T09:21:06,N/A,@@@,card,9999-99-99
+O0001537,C00630,2023-01-01T06:50:10,nan,1,cod,Delhi
+O0001538,C00274,NULL,delivered,1,,32-13-2025
+O0001539,C00067,2025-08-04T19:54:16,delivered,1,invalid,123abc
+O0001540, ,invalid,delivered,1,upi,Bengaluru
+O0001541,invalid,2025-08-26T14:22:32,delivered,123abc,,123abc
+O0001542,nan,9999-99-99,delivered,1,invalid,32-13-2025
+O0001543,C00721,not_a_date,delivered,1,card,Bengaluru
+O0001544,32-13-2025,2025-07-08T04:09:46,delivered,1,32-13-2025, 
+nan,123abc,2024-05-04T22:30:27,delivered,3,upi,@@@
+nan,C00918,nan,delivered,@@@,netbanking,Pune
+nan,C00068,@@@,returned,###BAD###,cod,N/A
+@@@,nan,null,cancelled,1,###BAD###,Noida
+O0001549,C00137,2024-10-31T23:45:27,9999-99-99,1,netbanking,Mumbai
+invalid, ,2023-12-03T08:26:05,delivered,1,not_a_date,Bengaluru
+9999-99-99,9999-99-99,2023-10-15T07:32:38,N/A,3,32-13-2025,Kolkata
+O0001552,NULL,2024-01-05T13:02:49,delivered,not_a_date,upi,Pune
+NULL,32-13-2025,@@@,delivered,2,, 
+not_a_date,not_a_date,2024-11-11T21:42:54,###BAD###, ,upi,Hyderabad
+O0001555,C00911,2024-02-07T13:49:46,null,,cod,Chennai
+O0001556,@@@,2025-07-23T01:18:21,null,1,card,Noida
+O0001557,C00850,2025-05-04T14:58:56,nan,123abc,NULL,Pune
+O0001558,C00855,null,32-13-2025,1,,NULL
+null,C00685,123abc,delivered,invalid,card,Kolkata
+O0001560,123abc,2025-07-09T07:25:00,delivered,nan,card,not_a_date
+O0001561,C00549,nan,shipped,1,nan,Mumbai
+O0001562,32-13-2025,2024-03-13T17:42:35,,1,card,N/A
+,,NULL,delivered,,@@@,Mumbai
+nan,C00702,2025-05-29T02:21:41,null,9999-99-99,cod,Mumbai
+O0001565,NULL,null,not_a_date,123abc,upi,null
+O0001566,C00426,123abc,delivered,1,null,32-13-2025
+O0001567,null,2023-05-21T02:09:55,9999-99-99,nan,not_a_date,9999-99-99
+NULL,9999-99-99,2024-07-07T05:07:48,N/A,123abc,card,Noida
+,nan,2023-09-08T15:42:39,delivered,1,card,Pune
+N/A,C00808,2023-07-08T11:11:24,32-13-2025,1,upi,Mumbai
+O0001571,C00933,2023-06-26T02:10:09,,1,netbanking,9999-99-99
+O0001572,C00947,2024-12-20T00:21:54,9999-99-99,1,cod,Delhi
+O0001573,C00827,2025-04-04T06:10:12,,2,cod,Delhi
+O0001574,C01000,not_a_date,invalid,2, ,@@@
+O0001575,C00330,N/A,123abc,1,9999-99-99,Mumbai
+123abc,@@@,2024-12-28T00:42:59,delivered,1,upi,null
+null,NULL,2023-01-16T10:55:29,N/A,1,card,Delhi
+invalid,@@@,N/A,shipped,1,upi,@@@
+O0001579,C00640,2023-03-08T20:20:15,delivered,nan,,Chennai
+nan, ,nan,shipped,1,netbanking,NULL
+O0001581,C00836,2025-02-16T04:17:21,NULL,N/A,card,Pune
+not_a_date,N/A,2025-10-17T09:47:19,delivered,1,card,9999-99-99
+,###BAD###,2024-01-14T22:05:55,delivered,1,card,Pune
+O0001584,NULL,2023-07-14T08:49:21,delivered,@@@,card,###BAD###
+O0001585,9999-99-99,2024-03-10T18:51:05,9999-99-99,3,upi,Chennai
+O0001586,C00862,null,not_a_date,1,upi,Chennai
+ ,C00103,@@@,processing,1,nan,Pune
+9999-99-99,N/A,2023-04-17T04:04:06,processing,###BAD###,card,not_a_date
+32-13-2025,C00913,2025-09-03T01:30:51,delivered,1,card,###BAD###
+N/A,32-13-2025,2024-05-22T02:21:10,delivered,not_a_date,card,Mumbai
+O0001591,32-13-2025,null,delivered,1,,N/A
+O0001592,C00006,2024-07-13T18:50:46,cancelled,3,netbanking,Noida
+O0001593,C00561,2024-05-02T01:27:13,delivered,1,cod,Kolkata
+O0001594,C00845,2024-08-22T11:08:25,NULL,1,N/A,Chennai
+NULL,nan,2024-05-25T19:54:56,delivered, ,cod,###BAD###
+NULL,not_a_date,2025-10-16T00:07:25,delivered,1,@@@,Bengaluru
+9999-99-99,N/A,2024-01-13T20:37:07,123abc,###BAD###,netbanking,NULL
+NULL,C00729,not_a_date,,invalid,card,Hyderabad
+@@@, ,32-13-2025,delivered,not_a_date,netbanking,123abc
+9999-99-99,C00850,2023-01-29T13:06:21,invalid,2,netbanking,Bengaluru
+O0001601,C00742,9999-99-99,delivered,1,upi,Noida
+,32-13-2025,invalid,nan,1,@@@,Kolkata
+O0001603,C00502,2025-09-28T08:27:03,NULL,9999-99-99,cod,Noida
+ ,C00163,2023-05-06T01:47:29,9999-99-99,1, ,Hyderabad
+O0001605,@@@,2024-08-11T04:18:17,N/A,1,nan,not_a_date
+O0001606,C00805,2023-05-14T18:29:22,delivered,1,netbanking,Noida
+null,C00206, ,delivered,1,netbanking,Noida
+O0001608,C00927,@@@,delivered,32-13-2025,cod,###BAD###
+O0001609,C00972,2023-10-24T03:17:46,delivered,NULL,upi, 
+nan,C00279,2024-09-27T23:25:01,delivered,32-13-2025,nan,Kolkata
+invalid,C00921,NULL,32-13-2025,2,netbanking,Noida
+@@@,C00542,invalid,###BAD###,1,cod,Pune
+O0001613,C00002,2025-09-12T06:11:06,delivered,1,cod,Chennai
+O0001614,C00713,2024-07-10T18:12:40,delivered,1,upi,NULL
+@@@,123abc,2025-08-24T19:12:56,@@@,1,@@@,Pune
+O0001616,C00366,null,32-13-2025,not_a_date,cod,Mumbai
+O0001617,C00707,2023-06-06T03:36:57,9999-99-99,3,cod,32-13-2025
+O0001618,C00210,nan,delivered,nan,32-13-2025,Bengaluru
+###BAD###,N/A,32-13-2025,123abc,1,card,Hyderabad
+@@@,C00124,2024-07-28T20:37:56,delivered,2,null,Delhi
+,C00349,2024-04-29T19:07:05,returned, , ,###BAD###
+@@@,,2024-07-21T17:10:42,NULL,1,card,@@@
+null,C00837,2024-03-19T13:56:21,delivered,1,netbanking,Chennai
+O0001624,nan,NULL,delivered,3,9999-99-99,Bengaluru
+not_a_date,not_a_date,2023-07-19T20:36:01,delivered,1,nan,Bengaluru
+O0001626, ,2023-11-18T07:47:02, ,1,null,nan
+N/A,C00203,not_a_date,delivered,null,netbanking,Bengaluru
+###BAD###,C00033,null,delivered,9999-99-99,upi,Hyderabad
+O0001629,C00158,nan,delivered,1,upi,9999-99-99
+O0001630, ,2023-12-25T21:53:57,delivered,1,123abc, 
+null,,@@@,delivered,invalid,netbanking,Chennai
+,C00731, ,9999-99-99, ,netbanking,Noida
+O0001633,C00436,null,invalid,###BAD###,9999-99-99,123abc
+O0001634,C00621,2024-03-14T23:51:49,null,9999-99-99,9999-99-99,not_a_date
+O0001635,123abc,2025-02-08T17:29:59,delivered,,card,9999-99-99
+123abc, ,32-13-2025,delivered,1,card,Noida
+NULL,C00405,nan,delivered,N/A,NULL,not_a_date
+O0001638,C00247,nan,@@@,1,card,Kolkata
+NULL,C00552,@@@,delivered,9999-99-99,upi,Pune
+invalid,,2023-10-06T05:02:27,123abc,2,netbanking,Bengaluru
+O0001641,null,2024-03-27T22:40:05,@@@,NULL,32-13-2025,Delhi
+O0001642,C00433,2023-06-14T23:48:20,9999-99-99,invalid,upi,NULL
+ ,C00031,null,cancelled,1,card,Mumbai
+not_a_date,N/A,2024-10-22T05:48:47,returned,1,card,
+O0001645,not_a_date,nan,delivered,123abc,N/A,Mumbai
+O0001646,C00807,9999-99-99,delivered,2,card,@@@
+@@@,###BAD###, ,,1,netbanking,Noida
+O0001648,C00295,123abc,nan,not_a_date,netbanking,Chennai
+O0001649,N/A,2023-03-28T10:24:30,delivered,2,9999-99-99,Noida
+ , ,2023-04-01T19:03:00,delivered,2,netbanking,Hyderabad
+###BAD###,C00354,2024-11-30T02:23:46,delivered,N/A,not_a_date,nan
+@@@, ,NULL,cancelled,1,netbanking,Pune
+O0001653,C00379,null,32-13-2025,1,cod,9999-99-99
+O0001654, ,32-13-2025,nan,null,123abc,Hyderabad
+O0001655,invalid,2025-07-31T19:22:50,shipped,1,netbanking,
+O0001656,C00067,invalid,processing,2,cod,123abc
+O0001657,C00855,N/A,delivered,123abc,123abc,Chennai
+O0001658,C00986,N/A,processing,1,netbanking,9999-99-99
+O0001659,C00388,N/A,N/A,9999-99-99,netbanking,Bengaluru
+not_a_date,null,2023-05-15T04:44:25,nan,null,upi,Bengaluru
+not_a_date,###BAD###,###BAD###,delivered,1,cod, 
+O0001662,@@@,2025-06-01T06:06:19,###BAD###, ,null,Delhi
+O0001663,123abc,9999-99-99,9999-99-99,2,nan,N/A
+O0001664,C00776,2024-08-18T01:11:25,cancelled,1,upi,Pune
+O0001665,C00557,2024-01-18T09:12:55,processing,3,NULL, 
+O0001666,N/A,2025-02-11T09:26:50,not_a_date,2,NULL,Mumbai
+NULL,C00791,2024-04-07T23:06:23,delivered,N/A,netbanking,###BAD###
+O0001668,C00340,2023-10-02T14:39:53,invalid,nan,upi,Mumbai
+O0001669,C00297,null,processing,32-13-2025,netbanking,Pune
+ ,invalid,###BAD###,delivered, ,null,Kolkata
+nan,C00827,2023-10-17T03:05:06,delivered,not_a_date,,Noida
+O0001672,C00739,2023-09-11T17:03:38,shipped,9999-99-99,@@@,Delhi
+@@@,C00647,2024-02-10T15:13:08,delivered,2,@@@,not_a_date
+O0001674,C00041,2025-04-12T01:46:04,nan,2,cod,32-13-2025
+O0001675, ,2023-07-15T14:32:54,###BAD###, ,###BAD###,nan
+not_a_date,123abc,nan,shipped,nan,card,Delhi
+,C00343,2025-04-29T03:35:08,processing,1,card,Kolkata
+O0001678,C00705,2025-02-11T10:30:40,###BAD###,1,upi,
+123abc,C00843,,N/A,1,null,not_a_date
+O0001680,C00377,32-13-2025,delivered,1,card,Delhi
+32-13-2025,C00892,2024-08-10T03:34:18,@@@,,cod,Noida
+nan,###BAD###,2023-02-24T18:08:48,shipped,3,netbanking,Bengaluru
+N/A,C00835,nan,nan,1,nan,Kolkata
+O0001684,C00463,2024-07-17T10:21:26,delivered,32-13-2025,upi,Mumbai
+N/A,C00713,2024-08-25T04:33:34,delivered,1,@@@,Pune
+O0001686, ,2023-02-13T10:15:31,processing,not_a_date,nan,###BAD###
+O0001687,C00990,2023-04-05T16:44:06,delivered, ,netbanking,Hyderabad
+O0001688,C00800,N/A,shipped,1,netbanking,NULL
+O0001689,C00400,2025-03-25T19:05:52,processing,nan,card,Hyderabad
+@@@,not_a_date,null,32-13-2025,2,netbanking,Kolkata
+invalid,C00261,,delivered,1,netbanking,Hyderabad
+O0001692,invalid,2023-08-11T15:40:54,, ,netbanking,Kolkata
+invalid,C00538,not_a_date,delivered,1,upi, 
+O0001694,NULL,2025-07-05T06:21:19,delivered,123abc,N/A,@@@
+O0001695,32-13-2025,2024-03-10T07:41:23,delivered,null,not_a_date,Mumbai
+O0001696,C00105,2025-01-28T14:44:44,,nan,card,Pune
+invalid,nan,@@@,delivered,N/A, ,32-13-2025
+O0001698,9999-99-99,2023-12-06T12:48:38, ,1,cod,123abc
+O0001699,123abc,not_a_date,cancelled,3,invalid,Delhi
+ ,C00911,2024-08-28T04:34:50,delivered,1,invalid,@@@
+NULL,C00151,123abc,32-13-2025,3,9999-99-99,Kolkata
+O0001702,9999-99-99,,processing,invalid,netbanking,
+O0001703,C00800,not_a_date,###BAD###,1,card,NULL
+O0001704,C00638,2023-02-17T17:30:09,N/A,null,card,Noida
+O0001705,C00783,32-13-2025,@@@, ,netbanking,32-13-2025
+O0001706,invalid,null,delivered,1,upi,N/A
+O0001707,C00921,NULL,invalid,1,upi,Mumbai
+9999-99-99,C00919,2024-12-06T13:56:42,delivered,1,9999-99-99,Hyderabad
+nan,C00350,2023-03-03T17:51:54,cancelled,1,cod, 
+O0001710,C00558,2023-10-28T13:42:17,32-13-2025,1,cod,null
+O0001711,invalid,null,returned,9999-99-99,card,Noida
+invalid,C00829,2025-05-22T03:43:53,delivered,1,netbanking,###BAD###
+123abc,not_a_date,2024-10-04T18:21:59,cancelled,2,upi,Kolkata
+O0001714,NULL,2024-06-30T12:34:09,delivered,,###BAD###,9999-99-99
+O0001715,C00642,9999-99-99,delivered,1,nan,Mumbai
+O0001716,C00007,2025-06-08T19:25:58,,3,card,Mumbai
+O0001717,C00120,2025-03-03T16:12:04,delivered,1,netbanking,Pune
+O0001718,9999-99-99,2023-02-22T01:04:24,delivered,nan,upi,Delhi
+O0001719,32-13-2025,not_a_date,delivered,123abc,netbanking,Kolkata
+O0001720,C00893,invalid,@@@,nan,invalid,invalid
+O0001721,C00653,2024-07-27T08:01:57,32-13-2025,1,cod,Chennai
+nan,C00401, ,processing,1,cod,Hyderabad
+O0001723,C00688,123abc,123abc,nan,card,Noida
+O0001724,null,2025-08-29T12:59:03,shipped,,nan,Chennai
+O0001725,C00024,2025-03-24T16:43:34,###BAD###,1,invalid,Kolkata
+O0001726,C00208,N/A,###BAD###,1,upi,Pune
+ ,C00733,2023-12-17T06:22:58,nan,1,123abc,
+not_a_date, ,2023-06-12T14:00:13,processing,not_a_date,netbanking,Delhi
+O0001729,C00081,2023-12-01T00:24:07,delivered,2,invalid,Kolkata
+NULL,C00845,2024-10-12T04:29:31,N/A,1,upi,Hyderabad
+O0001731,C00125,2024-01-25T06:28:04,null,1, ,Chennai
+O0001732,C00271,2023-04-11T23:10:55,delivered,@@@,card,Bengaluru
+O0001733,C00885,2025-03-21T09:32:02,shipped,1,card,Hyderabad
+O0001734,,2024-08-06T01:15:28,123abc,nan,nan,9999-99-99
+NULL,C00408,2025-08-21T17:06:59,delivered,invalid,cod,NULL
+O0001736,C00684,###BAD###, ,2,123abc,Noida
+O0001737, ,2024-01-09T03:40:12,NULL,1,cod,Bengaluru
+ ,@@@,###BAD###,cancelled,1,cod,not_a_date
+O0001739,32-13-2025,32-13-2025,delivered,1,card,Bengaluru
+,C00557,invalid,delivered,1,32-13-2025,Mumbai
+O0001741,C00505,2025-05-27T12:43:59,9999-99-99,2,cod,@@@
+O0001742,,N/A,delivered,invalid,cod,Bengaluru
+O0001743,123abc,2023-02-01T11:48:00,not_a_date,2,32-13-2025,invalid
+O0001744,invalid,,32-13-2025,1,netbanking, 
+O0001745,C00403,2025-01-19T00:49:21,32-13-2025,1,cod,Delhi
+###BAD###,not_a_date,2024-06-26T12:36:09,delivered,1,netbanking,@@@
+###BAD###,null,null,NULL,@@@,invalid,Chennai
+invalid,C00241,2025-05-30T19:38:34,null,1,card,9999-99-99
+O0001749,C00130,invalid,shipped,2,netbanking,Hyderabad
+O0001750,not_a_date,nan,###BAD###,1,9999-99-99,
+O0001751,C00663,2023-06-22T09:22:28,delivered,1,###BAD###,9999-99-99
+O0001752,C00712,invalid,###BAD###,NULL,not_a_date,Noida
+nan,C00400,2025-09-05T06:34:49,123abc,32-13-2025,netbanking,Mumbai
+O0001754,C00957,9999-99-99,32-13-2025,###BAD###,card,123abc
+O0001755,C00507,###BAD###,processing,3,cod,
+O0001756,nan,2023-11-12T04:20:33,not_a_date,2,cod,Mumbai
+O0001757,C00810,2024-10-13T21:33:00,32-13-2025,123abc,netbanking,Kolkata
+32-13-2025,C00378,2023-04-17T22:17:56,delivered,1,upi,Hyderabad
+not_a_date,C00391,2024-11-10T21:29:36,delivered,null,card,N/A
+O0001760,C00287,2023-12-27T23:21:54,delivered,1,###BAD###,Bengaluru
+O0001761,NULL,9999-99-99,delivered,1,upi,Chennai
+O0001762,NULL,32-13-2025,delivered,2,,Hyderabad
+O0001763,C00851,2024-03-31T06:34:57,processing,1,card,Pune
+not_a_date,C00415,2023-12-03T08:05:43,delivered,@@@,null,Bengaluru
+9999-99-99,C00546,2024-11-22T23:59:30,delivered,,upi,32-13-2025
+O0001766,123abc,2023-12-18T12:37:14,processing,1,netbanking,nan
+O0001767,C00543,2025-01-27T03:14:55,,2,card,###BAD###
+O0001768, ,2025-01-19T00:41:31,delivered,1,cod,Pune
+O0001769,nan,2024-10-18T15:49:43,123abc,###BAD###,null,Kolkata
+O0001770,C00008,@@@,delivered,###BAD###,###BAD###,not_a_date
+32-13-2025,, ,delivered,1,upi,9999-99-99
+123abc,###BAD###,9999-99-99,delivered,2,upi,Delhi
+O0001773,invalid,2024-08-24T14:06:20,N/A,,netbanking,###BAD###
+null,C00222,2023-12-22T11:39:56,N/A,3,32-13-2025,null
+ ,C00746,,delivered,invalid,null,Mumbai
+nan,N/A,2024-06-28T04:44:55,delivered,1,NULL,Chennai
+32-13-2025,C00974,2023-06-28T01:49:22,delivered,1,123abc,Delhi
+O0001778,C00713,2025-08-26T17:03:38,delivered,NULL,netbanking,Noida
+invalid,C00007,not_a_date,processing,1,upi,123abc
+,9999-99-99,2023-10-08T10:35:51,processing,NULL,null, 
+9999-99-99,C00060,32-13-2025, ,@@@,cod,Noida
+O0001782,C00287,2024-09-03T05:08:31,delivered,2,upi,
+32-13-2025,C00555,2024-11-26T23:37:27,shipped,null,123abc,9999-99-99
+O0001784,C00183,nan,null,1,N/A,Hyderabad
+O0001785,@@@,2023-02-22T04:59:54,delivered,123abc,card,NULL
+O0001786,,null,delivered,2,netbanking,Delhi
+N/A,123abc,9999-99-99, ,N/A,card,NULL
+O0001788,C00890,123abc,9999-99-99,1,cod,Mumbai
+O0001789, ,2024-02-22T20:40:27,delivered,123abc,netbanking,Delhi
+O0001790,C00291,null,invalid,1,cod,Hyderabad
+O0001791,C00601,2025-10-01T04:31:54,null,1,netbanking,Hyderabad
+O0001792,C00460,invalid,@@@,2,card,Bengaluru
+@@@,C00376,2023-12-10T11:18:13,processing,1,card,N/A
+9999-99-99,nan,@@@,returned,1,netbanking,Kolkata
+N/A,not_a_date,2023-05-09T04:12:38,delivered,1,invalid,Chennai
+O0001796,N/A,2023-07-09T01:24:47,N/A,1,card,Kolkata
+O0001797,invalid,2024-06-21T15:10:13,delivered,123abc,cod,Pune
+O0001798,C00025,2023-12-05T15:25:33,N/A,1,@@@,Bengaluru
+###BAD###,C00806,not_a_date,null,nan,invalid,Chennai
+O0001800,C00496,2023-10-05T12:09:55,delivered,###BAD###,card,Pune
+invalid,C00146,2023-07-04T16:52:49,processing,123abc,cod,Hyderabad
+O0001802,123abc,N/A,,2,invalid,Noida
+O0001803,not_a_date,2023-09-05T20:30:11,delivered,1,32-13-2025,Kolkata
+O0001804,C00454,2024-03-20T18:41:37,shipped,1,,
+O0001805,NULL,2023-12-20T04:36:36,123abc,NULL,netbanking,Hyderabad
+32-13-2025,C00903,2023-12-17T03:46:27,cancelled,NULL,card,NULL
+O0001807,N/A,@@@, ,,invalid,Kolkata
+O0001808,C00809,2024-02-21T10:35:19,invalid,1,null,Noida
+O0001809,C00743,###BAD###,NULL,32-13-2025, ,Hyderabad
+not_a_date,C00297,123abc,delivered,1,upi,N/A
+O0001811,123abc,2023-08-27T05:57:28,N/A,1,cod,9999-99-99
+O0001812,invalid,invalid,delivered,@@@,not_a_date,Noida
+O0001813,9999-99-99,2025-10-16T23:07:13,delivered,1,upi,Bengaluru
+ ,C00594,2024-05-12T04:09:01,returned,not_a_date,card,Bengaluru
+9999-99-99,N/A,2025-01-16T12:46:50,###BAD###,1,card,Kolkata
+invalid,C00178,2023-03-19T01:16:48,delivered,3,cod,Noida
+invalid,C00358,###BAD###,invalid,not_a_date,upi,Pune
+O0001818,@@@,2024-04-29T20:34:25,NULL,2,card,Kolkata
+O0001819,C00018,32-13-2025,delivered,1,card,9999-99-99
+O0001820,N/A,@@@,not_a_date,###BAD###,netbanking,Delhi
+###BAD###,,2023-11-02T20:36:10,32-13-2025,1,upi,N/A
+123abc,C00095,2024-09-12T06:30:17,123abc,1,netbanking,Mumbai
+nan,,2024-02-07T00:36:26,shipped,@@@,###BAD###,9999-99-99
+O0001824,C00704,2025-10-20T02:38:07,delivered,null,card,###BAD###
+O0001825,C00750,2023-11-07T03:13:10,delivered,32-13-2025,cod,###BAD###
+O0001826,C00478,nan, ,1,card,Delhi
+nan,C00116,2025-02-22T12:06:08,processing,1,32-13-2025,nan
+O0001828,9999-99-99,2023-03-07T14:08:46,delivered,3,NULL,Kolkata
+invalid,null,2024-03-14T01:18:36,delivered,N/A,,Pune
+O0001830,C00214,2023-01-28T21:11:29,delivered,1, ,Delhi
+O0001831,C00154,nan,delivered,not_a_date,cod,Bengaluru
+@@@,C00945,9999-99-99,delivered,1,netbanking,Bengaluru
+O0001833,C00611,2024-08-10T12:08:01,processing,N/A,netbanking,Pune
+O0001834,C00991,2024-12-17T23:24:53,NULL,32-13-2025,card,Kolkata
+O0001835,32-13-2025,nan,delivered,2,32-13-2025,Delhi
+O0001836,C00235,###BAD###,@@@,1,null,Pune
+O0001837,C00553,9999-99-99,nan,1,netbanking,N/A
+O0001838, ,2023-06-03T23:49:09,123abc,1,cod,Mumbai
+O0001839,nan,2023-09-10T11:39:10,delivered,2,cod,Chennai
+N/A,C00062,32-13-2025,delivered,N/A,card,Hyderabad
+O0001841,C00437,2023-02-15T13:14:08, ,1,upi, 
+nan,32-13-2025,2024-10-16T08:55:10,nan,###BAD###,invalid,Kolkata
+O0001843, ,2024-08-07T01:15:03,delivered,not_a_date,upi,Hyderabad
+O0001844,,2025-10-13T18:58:49,delivered,1,upi,NULL
+N/A,123abc,2024-09-23T19:04:23,32-13-2025,2,upi,Pune
+null,C00292,123abc,###BAD###,1,32-13-2025,9999-99-99
+9999-99-99,C00857, ,delivered,1,card,###BAD###
+@@@,NULL,###BAD###,returned,1,cod,Kolkata
+NULL,C00103,,processing,not_a_date,32-13-2025,Bengaluru
+ ,C00434,not_a_date,delivered,123abc,upi,123abc
+N/A,C00110,2023-10-31T18:01:55,delivered,1,upi,Mumbai
+O0001852,C00475,2023-06-22T06:32:02,delivered,2,32-13-2025,Kolkata
+O0001853,9999-99-99,2025-08-04T22:14:21,delivered,2,card,Chennai
+O0001854,nan,invalid,returned,2,netbanking,not_a_date
+O0001855,@@@,N/A,delivered,N/A,###BAD###,Pune
+O0001856,null,NULL,32-13-2025,not_a_date,card,invalid
+O0001857,C00124,nan,invalid,2,invalid,null
+O0001858, ,2025-06-19T08:53:27, ,1,cod,###BAD###
+invalid,C00081,###BAD###,delivered,2,###BAD###,
+O0001860,C00020,2023-03-07T01:17:25,null,2,card,Chennai
+invalid,32-13-2025,32-13-2025,@@@,2,card,Mumbai
+###BAD###,9999-99-99,2025-09-21T21:29:07,123abc,1,N/A,Mumbai
+32-13-2025, ,nan,123abc,1, ,32-13-2025
+N/A,C00588,,shipped,1,card,@@@
+O0001865,C00804,2023-12-19T01:16:39,,3,,nan
+O0001866,C00663,2025-10-14T12:50:38,delivered,2,cod,Kolkata
+O0001867,C00664,not_a_date,delivered,###BAD###,card,Hyderabad
+123abc,C00392,32-13-2025,nan,nan, ,Bengaluru
+O0001869,C00222,2025-09-20T09:03:31,delivered,1,32-13-2025,Kolkata
+O0001870,C00239,2023-12-23T10:27:11,NULL,2,upi,not_a_date
+O0001871,null,2025-07-02T00:04:45,null,2,nan,Bengaluru
+O0001872,N/A,2025-06-01T21:08:01,not_a_date,nan,card,Noida
+9999-99-99,C00840,2023-12-18T03:05:26,@@@,N/A,invalid,Mumbai
+N/A,C00646,2024-06-15T03:54:59,nan,32-13-2025,card,Kolkata
+###BAD###,nan,123abc,delivered,N/A,card,@@@
+@@@,32-13-2025,2025-06-29T00:46:53,delivered,1,N/A,Mumbai
+O0001877, ,2023-05-25T17:59:25,processing,1,upi,Bengaluru
+O0001878,C00165,2023-09-04T14:56:56,delivered,not_a_date,netbanking,Noida
+,N/A,2025-02-04T14:59:00,9999-99-99,123abc,nan, 
+O0001880,null,2023-04-06T13:30:20,null,@@@,card,Bengaluru
+O0001881,C00863,nan,N/A,invalid,,
+O0001882, ,2023-06-22T05:32:57,,2,upi,null
+O0001883,not_a_date,2025-05-17T17:57:32,nan,1,null,Noida
+O0001884,C00681,2023-04-13T08:02:37,N/A, ,32-13-2025,@@@
+O0001885,###BAD###,2023-07-01T18:27:07,delivered,1,card,9999-99-99
+32-13-2025,C00922,2024-05-23T05:31:18, ,1,nan,Pune
+O0001887,C00741,32-13-2025,processing,1,9999-99-99,Bengaluru
+O0001888,null,2023-04-03T19:59:26,delivered,1,upi,Hyderabad
+O0001889,###BAD###,2024-05-24T23:16:59,,invalid,invalid,123abc
+O0001890,C00464,2024-10-01T04:04:28,delivered,invalid,upi,@@@
+O0001891, ,null,delivered,NULL,123abc,Hyderabad
+O0001892,C00282,2023-09-14T00:32:36,shipped,1,netbanking,Chennai
+O0001893,invalid,2025-03-30T17:44:32,123abc,2,card,Hyderabad
+N/A,C00141,32-13-2025,9999-99-99,32-13-2025,not_a_date,Delhi
+null,C00436,2023-02-15T19:53:04,delivered,1,card,invalid
+O0001896,C00850,2023-08-20T18:57:48,shipped,2,123abc,Pune
+not_a_date,@@@,invalid,delivered,1,@@@,Noida
+nan,C00737,2025-04-14T00:21:11,shipped,1,card,9999-99-99
+O0001899,C00329,2023-07-13T12:21:49,processing,1,card,Bengaluru
+O0001900,C00369,2024-07-24T09:31:09,null,2,card,Hyderabad
+O0001901,C00326,2023-03-06T06:44:18,delivered,1,cod,Hyderabad
+O0001902,C00866,32-13-2025,NULL,NULL,card,null
+123abc,C00717,nan,null,N/A,card,not_a_date
+not_a_date,32-13-2025,nan, ,1,upi,nan
+N/A,C00454,2024-07-08T13:33:54,###BAD###,2,netbanking,Pune
+nan,C00638, ,invalid,1,cod,Kolkata
+O0001907,C00716,2025-03-21T22:39:35, ,nan,cod,@@@
+###BAD###,not_a_date,2023-07-04T10:21:37,not_a_date,1,upi,Mumbai
+O0001909,N/A,2023-09-12T19:08:46,delivered, ,netbanking,Mumbai
+O0001910,invalid,2025-09-05T11:15:44,null,1, ,9999-99-99
+O0001911,9999-99-99,2023-05-25T15:05:27,NULL,1,###BAD###,Kolkata
+O0001912,C00853,invalid, ,32-13-2025,null,Delhi
+9999-99-99,NULL,2024-06-16T10:23:38,nan,N/A,cod,nan
+O0001914,C00051,2023-02-20T19:41:41,NULL,null,netbanking,Chennai
+O0001915,C00544,,processing,not_a_date,invalid,Chennai
+O0001916,C00805,N/A,delivered,32-13-2025,invalid,Chennai
+O0001917,32-13-2025,2023-01-30T09:20:27,processing,2,cod,Noida
+,N/A,2023-03-01T18:28:50,32-13-2025,invalid,upi,N/A
+O0001919,nan,nan,delivered,1,,Chennai
+NULL,N/A,not_a_date,9999-99-99,invalid,,Hyderabad
+O0001921,null,nan,delivered,NULL,upi,NULL
+NULL,not_a_date,2023-04-20T00:44:59,delivered,32-13-2025,N/A,Bengaluru
+invalid,NULL,2023-12-25T04:18:11,###BAD###,NULL,123abc,Hyderabad
+9999-99-99,NULL,NULL,delivered,1,netbanking,Pune
+O0001925,,2023-05-18T12:01:06,null,2,upi,@@@
+O0001926,C00095,2025-02-01T16:52:16,delivered,1,cod,Mumbai
+O0001927,C00007, ,delivered, ,cod,Noida
+N/A,C00729,2025-10-09T17:08:12,processing,1,netbanking,Pune
+O0001929,C00455,2023-01-28T08:28:08,shipped,1,cod,null
+O0001930, ,nan,delivered,1,invalid,Bengaluru
+not_a_date,NULL,@@@,delivered,1,invalid,Pune
+@@@,C00234,@@@,123abc,1,32-13-2025,Noida
+not_a_date,###BAD###,nan,shipped,,netbanking,
+not_a_date,C00131,###BAD###,cancelled,invalid,upi,Chennai
+O0001935,C00371,2024-07-03T01:02:43,processing,1,9999-99-99,N/A
+O0001936,C00669,2025-01-22T09:41:29,123abc,2,netbanking,Kolkata
+O0001937,C00866,32-13-2025, ,1,123abc,123abc
+O0001938,C00789,N/A,null,2,card,Noida
+ , ,2025-03-26T06:15:42,delivered,1,netbanking,Noida
+O0001940,9999-99-99,null,,N/A,@@@,Bengaluru
+123abc,C00840,@@@,###BAD###,1,@@@,Delhi
+not_a_date,C00622,2025-03-03T07:52:02,delivered,1,netbanking,Mumbai
+invalid,C00396,123abc,@@@,2,netbanking,Chennai
+O0001944,not_a_date,2024-04-14T10:54:14,processing,2,,Mumbai
+ ,not_a_date, ,processing,nan, ,N/A
+O0001946,C00518,2024-08-09T16:57:04,processing,1,9999-99-99,9999-99-99
+O0001947,C00286,2024-06-04T08:58:42,###BAD###, ,upi,Chennai
+O0001948,@@@,2023-04-20T17:13:52,delivered, ,32-13-2025,Delhi
+123abc,C00487,2024-03-21T14:45:50,delivered,1,card,Pune
+###BAD###,C00247,2023-09-10T04:34:29,N/A,1,32-13-2025,N/A
+O0001951,not_a_date,2025-05-21T18:33:32,@@@,invalid,card,NULL
+O0001952,###BAD###,2025-09-12T18:44:08,processing,not_a_date,card,not_a_date
+O0001953, ,123abc,delivered,1,invalid,Delhi
+ ,C00883,2025-02-19T22:16:11,delivered,2,null,Kolkata
+,C00607,2025-07-09T05:33:15,invalid,3,card,NULL
+O0001956,C01000,null,invalid,@@@,cod,N/A
+O0001957,32-13-2025,9999-99-99,delivered,1,card,Kolkata
+null,C00172,2023-10-26T03:02:52,delivered,1,###BAD###,Kolkata
+9999-99-99,null,2023-01-05T00:04:44,N/A,1,not_a_date,null
+O0001960,9999-99-99,2023-08-23T01:58:01,###BAD###,2,cod,Hyderabad
+N/A,32-13-2025,2023-01-23T17:05:52,NULL, ,123abc,Hyderabad
+32-13-2025,C00816,2023-07-10T09:03:58,delivered,1,upi,9999-99-99
+O0001963,not_a_date,2024-05-14T20:05:37,delivered,2,card,N/A
+O0001964,C00283,2025-05-12T17:41:08,###BAD###,1,not_a_date,Hyderabad
+O0001965,###BAD###,2024-10-09T21:50:06,nan,1,netbanking,Mumbai
+O0001966,C00469,2025-04-07T05:00:23,N/A,N/A,N/A,nan
+O0001967,C00976,2025-02-15T14:53:04,N/A,null,N/A,N/A
+O0001968,C00444,2025-03-09T13:17:05,nan,1,cod,Pune
+invalid,C00307,null,processing,,netbanking,Chennai
+O0001970,C00002,@@@,NULL,###BAD###,123abc,123abc
+O0001971,not_a_date,###BAD###,nan,nan,cod,Hyderabad
+O0001972,nan,2024-02-19T09:35:09,,@@@,cod,Bengaluru
+O0001973,###BAD###,not_a_date,###BAD###,nan,null,Noida
+O0001974,C00542,not_a_date,123abc,32-13-2025,###BAD###,Bengaluru
+O0001975,C00372,2025-07-17T02:36:29,@@@,1,card,Kolkata
+O0001976,C00130,32-13-2025,32-13-2025,32-13-2025,upi,Noida
+, ,2024-01-18T12:00:19,shipped,1,card,NULL
+nan,@@@,123abc, ,1,upi,Delhi
+N/A,invalid,###BAD###,delivered,,netbanking,
+nan,32-13-2025,9999-99-99,delivered,9999-99-99,@@@,9999-99-99
+,,2025-04-04T04:27:17,delivered,1,123abc,9999-99-99
+O0001982,C00343,2023-06-02T14:03:51,delivered, ,,Pune
+O0001983,C00273,2023-09-28T03:52:35,delivered,1,upi,Pune
+nan,C00498,2023-04-03T10:27:49,delivered,1,32-13-2025,N/A
+O0001985,C00130,2025-01-21T15:53:00,delivered,1, ,Mumbai
+O0001986,32-13-2025,2025-03-28T07:59:45,processing,1,cod,32-13-2025
+null,C00974,2023-04-19T14:10:13,returned,2,upi,Noida
+nan,C00182,nan,invalid,1,upi,Mumbai
+O0001989,123abc,2023-07-02T15:33:41,processing,1,netbanking,Bengaluru
+O0001990,,2024-06-20T22:28:15,delivered,2,cod,Delhi
+not_a_date,C00399,2025-02-03T00:30:04,,2,upi,
+invalid,C00094,nan,delivered,null,cod,NULL
+O0001993,C00836,2023-06-26T10:11:27,delivered,1,card,@@@
+O0001994,NULL,9999-99-99,nan,123abc,card,Mumbai
+N/A,invalid,123abc,delivered,2,card,Noida
+O0001996,C00263,2023-06-27T16:36:50,delivered,1,upi,Chennai
+O0001997,C00233,2023-10-16T18:33:29,delivered,3,netbanking,NULL
+O0001998,C00353,2023-09-27T19:16:17,shipped,,card,Hyderabad
+O0001999,C00857,NULL,null,123abc,netbanking,Noida
+@@@,123abc, , ,NULL,###BAD###,Mumbai
+O0002001,nan,NULL,cancelled,1,cod,Kolkata
+O0002002,,2024-01-11T02:29:57,delivered,1,upi,Noida
+O0002003,C00263,N/A,delivered, ,card,Hyderabad
+O0002004,C00883,2024-07-13T17:27:02,delivered,1,cod,Kolkata
+32-13-2025,nan,not_a_date,delivered,1,netbanking,Chennai
+NULL,C00991, ,delivered,2,upi,Hyderabad
+O0002007,C00937,2023-10-10T17:03:21,delivered,1,cod,
+32-13-2025,nan,2024-07-20T22:03:25,delivered,32-13-2025,upi,Pune
+O0002009,N/A,9999-99-99,,1,card,Mumbai
+O0002010,C00554,NULL, ,1,upi,Mumbai
+O0002011,C00683,2023-07-28T07:06:05,shipped,,cod,invalid
+###BAD###,C00098,NULL,delivered,,cod,Hyderabad
+###BAD###,###BAD###,nan,delivered, ,upi,Kolkata
+O0002014,,2024-07-02T22:05:43,delivered,1,card,Delhi
+O0002015,C00683,2023-10-04T05:28:57,delivered,1,upi,Mumbai
+O0002016,C00011,2023-11-20T13:48:51,@@@,1,card,Delhi
+,C00328,@@@,delivered,1,,9999-99-99
+O0002018,C00990,2024-06-15T14:40:56,delivered,###BAD###,32-13-2025,Noida
+O0002019,C00290,2023-03-31T15:06:48,delivered,@@@,netbanking,null
+O0002020,123abc,invalid,@@@,123abc,N/A,@@@
+@@@,C00936,invalid,not_a_date,123abc,card,Hyderabad
+O0002022,C00295,@@@,delivered,1,card,Mumbai
+O0002023,C00285,2024-12-14T04:02:56,delivered,2,card,Chennai
+O0002024,C00066,2023-05-28T17:19:40, ,123abc,card,Kolkata
+O0002025,32-13-2025,2024-11-20T19:39:57,delivered,1,upi,Pune
+O0002026,9999-99-99,2024-05-13T11:43:36,invalid,1,card,N/A
+9999-99-99,C00398,2023-05-25T01:03:26,shipped,NULL,123abc,@@@
+32-13-2025,N/A,2025-05-27T17:03:04,N/A,3,cod,123abc
+not_a_date,, ,shipped,1,not_a_date,
+O0002030,nan,2024-03-22T21:12:36,NULL,NULL,upi,Pune
+NULL,C00883,2024-04-05T00:00:25,123abc,1,cod,
+invalid,C00343,2024-11-02T00:13:10,delivered,1,card,123abc
+O0002033,C00506,2024-03-11T12:20:16,delivered,not_a_date,cod,Bengaluru
+O0002034,NULL,invalid,delivered,3,card,null
+not_a_date,C00678,2023-11-03T07:50:14,delivered,1,card,###BAD###
+nan,C00016,123abc,,1,not_a_date,Mumbai
+O0002037,C00365,2024-05-15T00:40:48,shipped,9999-99-99,cod,Chennai
+O0002038,C00249,32-13-2025,delivered,1,cod,Hyderabad
+O0002039,C00455,2024-03-26T04:39:59,invalid,123abc,upi,not_a_date
+O0002040,C00343,2025-07-12T10:54:36,processing,1,card, 
+O0002041,C00608,2025-05-17T09:10:25,###BAD###,NULL,9999-99-99,Hyderabad
+O0002042,C00688,invalid,delivered,1,upi,9999-99-99
+O0002043,C00534,2024-01-18T02:16:29,shipped,1,card,Bengaluru
+O0002044,C00002,32-13-2025,delivered,9999-99-99,netbanking,Kolkata
+O0002045,C00731,2023-01-13T05:12:27,delivered,32-13-2025,invalid,123abc
+O0002046,nan,2023-12-17T02:22:58,processing,NULL,card,nan
+O0002047,C00741,2023-01-09T21:23:36,delivered,32-13-2025,card, 
+O0002048,32-13-2025,2025-06-13T06:34:23,delivered,9999-99-99,123abc,###BAD###
+NULL,nan,not_a_date,delivered,1,null,123abc
+O0002050,C00570,2023-04-02T22:03:48,shipped,,upi,9999-99-99
+O0002051,C00491,2024-03-18T02:35:24,N/A,1,netbanking,Noida
+O0002052,C00921,not_a_date,NULL,1,upi,Mumbai
+N/A,C00674,@@@,invalid,1,cod,Bengaluru
+O0002054,C00002,2023-04-21T05:35:13,32-13-2025,2,netbanking,Kolkata
+O0002055,C00139,2023-11-15T01:16:05,delivered,2,cod,@@@
+O0002056,C00671,2024-03-08T23:08:59,delivered,,card,Delhi
+32-13-2025,invalid,9999-99-99,delivered,1,invalid,Bengaluru
+O0002058,C00754,2023-01-27T04:02:40,nan,32-13-2025,card,NULL
+O0002059,C00960,NULL,null,1,not_a_date, 
+O0002060,32-13-2025,2023-09-18T22:56:06,delivered,1,@@@,Mumbai
+O0002061,,32-13-2025, ,1,card,Hyderabad
+ ,C00260,2025-03-21T06:00:43,shipped,1,card,9999-99-99
+,C00733,2024-04-17T14:29:29,,9999-99-99,123abc,Kolkata
+O0002064,###BAD###,null,delivered,N/A,card,Hyderabad
+O0002065,C00700,2023-06-01T15:19:24,@@@,1,card,Bengaluru
+NULL,32-13-2025,,delivered,not_a_date,upi,32-13-2025
+O0002067,C00635,9999-99-99,null,123abc,netbanking,
+O0002068,N/A,2025-09-24T00:32:03,delivered,@@@,upi,Hyderabad
+N/A,C00862,,processing, ,cod,N/A
+O0002070,C00718,2025-03-17T04:05:36,delivered,N/A,cod,Pune
+O0002071,@@@,2023-05-04T09:37:18,,@@@,upi,not_a_date
+O0002072,C00672,null,shipped,N/A,upi,Kolkata
+O0002073,32-13-2025,2024-04-05T18:26:22, ,1,cod,nan
+O0002074,C00465,null,delivered,2,32-13-2025,Delhi
+O0002075,###BAD###,2024-08-28T04:16:13,cancelled,,###BAD###,Pune
+O0002076,C00964,2024-10-18T08:43:09,delivered,invalid,32-13-2025,9999-99-99
+null,C00972,2023-07-20T23:39:59,nan,invalid,netbanking,null
+NULL,C00930,,delivered,1,upi,Kolkata
+null,NULL,invalid,9999-99-99,3,upi,Noida
+O0002080,C00998,2024-01-18T11:42:03,delivered,2,9999-99-99,32-13-2025
+NULL, ,NULL,N/A,N/A,9999-99-99,Delhi
+NULL,not_a_date,@@@,delivered,1,upi,Chennai
+###BAD###,NULL,2025-08-14T23:24:58,delivered,1,upi,Noida
+O0002084,nan,9999-99-99,processing,,upi,Pune
+O0002085,C00970,32-13-2025,@@@,,invalid,Chennai
+O0002086,C00403,###BAD###, ,1,card,Hyderabad
+O0002087,C00214,2024-07-28T04:05:11,delivered,invalid,upi,Mumbai
+O0002088,C00549,2023-01-17T18:21:59,processing,123abc,upi,123abc
+O0002089,C00835,invalid,not_a_date,2,upi,
+NULL,@@@,2025-02-19T12:19:54,###BAD###,1,card,Kolkata
+,C00014,123abc,delivered,2,card,123abc
+,C00186,2025-02-27T03:59:52,123abc,3,upi,Kolkata
+O0002093,C00254,NULL,delivered,1,upi,Chennai
+N/A,C00219,2023-04-25T14:36:26,delivered,1,cod,Kolkata
+not_a_date,C00107,2023-02-07T00:34:41,32-13-2025,1,card,9999-99-99
+nan,C00963,2024-12-30T05:09:59,delivered,###BAD###,upi,Noida
+123abc,C00095,2024-07-29T10:10:13,delivered,nan,upi,Bengaluru
+O0002098,,2025-11-01T14:16:17, ,1,cod,123abc
+O0002099,C00116,9999-99-99,invalid,2,card,Hyderabad
+O0002100,N/A,2024-11-30T23:52:09,delivered,@@@,null,Noida
+O0002101,C00464,2023-09-28T18:27:25,delivered,N/A,9999-99-99,Kolkata
+123abc,C00200,2025-08-16T00:07:17,processing,null,card,NULL
+,C00835,2023-11-09T14:59:34,delivered,NULL,invalid,32-13-2025
+O0002104,@@@,2023-04-04T01:01:58,delivered,nan,netbanking,Bengaluru
+O0002105,C00068,2024-09-25T05:20:29,123abc,NULL, ,
+32-13-2025,C00436,2023-02-24T19:19:14, ,1,card,Kolkata
+O0002107,C00782,32-13-2025,delivered,2,cod,Bengaluru
+32-13-2025,###BAD###,2023-03-13T06:07:12,delivered,2,upi, 
+O0002109,C00727,2023-11-12T16:49:25,delivered,9999-99-99,card,Bengaluru
+O0002110,C00590,2025-09-19T07:22:08,not_a_date,3,upi,Kolkata
+,C00932,2024-04-25T04:10:09,delivered,32-13-2025,9999-99-99,Kolkata
+NULL,C00717,2024-01-25T16:38:38,delivered,1,upi,123abc
+O0002113,C00874,2025-08-28T22:44:53,,###BAD###,netbanking,123abc
+null,C00231,invalid,9999-99-99,2,upi,Mumbai
+O0002115,C00481,2025-03-24T02:58:03,delivered,nan,cod,Mumbai
+O0002116,C00524,2024-01-19T12:38:31,cancelled,1,card,Bengaluru
+N/A,C00850,2024-02-14T12:02:06,@@@,1,card,9999-99-99
+O0002118,C00406,2023-07-24T11:41:54,nan,32-13-2025,netbanking,Bengaluru
+O0002119,C00724,2023-07-03T15:42:50,processing,NULL,9999-99-99,9999-99-99
+O0002120,C00547,123abc,delivered,2,upi,Bengaluru
+not_a_date,invalid,2024-03-05T06:44:09,32-13-2025,N/A,netbanking,not_a_date
+O0002122,C00650, ,shipped,1,upi,Bengaluru
+9999-99-99,C00735,2024-01-13T05:46:22,delivered,3,###BAD###,Bengaluru
+O0002124,nan,nan,delivered,1,###BAD###,###BAD###
+###BAD###,C00854, ,delivered,NULL,not_a_date,
+O0002126,nan,2025-10-04T08:06:52,NULL,1,cod,Pune
+123abc,C00235,2024-09-16T03:41:35,delivered,1,card,Delhi
+O0002128,C00226,2025-02-28T05:25:42,null,1,N/A,Hyderabad
+O0002129,C00235,2025-08-27T21:23:24,123abc,2,@@@,nan
+O0002130,N/A,2025-01-10T10:16:36,delivered,NULL,netbanking,###BAD###
+O0002131,,2023-06-27T13:46:17,delivered,1,upi,Pune
+NULL,C00439,2024-07-10T00:36:59,delivered,1,cod,Kolkata
+123abc,C00606,null,delivered,1,invalid,Mumbai
+O0002134,C00489,2023-01-02T04:01:16,delivered,1,nan,Mumbai
+O0002135,C00073,,delivered,2,NULL,N/A
+O0002136,32-13-2025,2024-02-18T18:15:48,delivered,###BAD###,cod,Noida
+O0002137,C00545,2025-07-18T12:02:36,shipped,1,cod,Kolkata
+NULL,C00076,2023-12-04T13:31:57,delivered,123abc,card,nan
+@@@,C00136,2025-06-15T20:24:43, ,32-13-2025,, 
+invalid,invalid,2025-08-31T20:34:26,delivered,invalid,N/A,###BAD###
+O0002141,C00208,2023-08-25T19:05:40,cancelled,2,upi,Chennai
+not_a_date,C00193,2023-03-05T16:43:46,cancelled,1,N/A,invalid
+O0002143,C00239,123abc,delivered,2,card,123abc
+invalid,C00863,123abc,delivered,@@@,upi,Noida
+O0002145, ,2024-08-04T15:00:45,32-13-2025,N/A,not_a_date,@@@
+O0002146,C00992,2025-08-08T12:19:19,delivered,2,cod,null
+O0002147,C00411,,delivered,@@@,###BAD###,Delhi
+N/A,,2024-02-17T12:56:22,###BAD###,1,card,Chennai
+ ,invalid,123abc,delivered,1,invalid,Kolkata
+,,null,delivered,nan,invalid,nan
+###BAD###,C00632,2024-01-17T14:28:05,delivered,1,upi,Bengaluru
+O0002152,C00583,2025-02-17T07:20:13,###BAD###,1,@@@,32-13-2025
+O0002153,C00737,2023-01-17T05:23:22,invalid,2,netbanking,Noida
+O0002154,NULL,@@@,shipped,2, ,Chennai
+nan,C00939,2024-11-17T19:25:22,processing,N/A,cod,Hyderabad
+null,C00254,invalid,processing,1,upi,
+O0002157,C00315,2024-06-11T02:50:57,delivered,NULL,###BAD###,not_a_date
+O0002158,9999-99-99,2024-05-15T19:15:53,nan,null, ,Chennai
+@@@,###BAD###,null,processing,NULL,cod,Chennai
+O0002160,9999-99-99,2023-12-17T04:14:03,delivered,2,cod,invalid
+O0002161,NULL,2025-09-03T23:59:13,invalid,1,,
+32-13-2025,C00256,2023-11-19T03:00:57,cancelled,1,nan,null
+O0002163,C00063,###BAD###,cancelled,1,@@@,Pune
+O0002164,N/A,2024-12-13T06:18:40,delivered,2,cod,Pune
+O0002165,null,invalid,cancelled,1,card,nan
+O0002166,###BAD###,###BAD###,delivered,nan,invalid,NULL
+O0002167,C00952,2023-05-12T04:46:39,delivered,N/A,nan,Mumbai
+O0002168,C00145,2024-12-29T03:08:49,NULL,1,cod,Pune
+32-13-2025,C00880,2025-03-16T11:33:45,delivered,1,netbanking,NULL
+O0002170,C00597,2024-11-21T20:43:53,delivered,1,card, 
+O0002171,null,2023-06-11T18:39:13,processing,9999-99-99,upi,Pune
+32-13-2025,C00566,N/A,null,nan,cod,null
+O0002173,C00087,2023-05-29T07:59:34,32-13-2025,1,nan,Kolkata
+not_a_date,not_a_date, ,delivered,2,32-13-2025,Mumbai
+O0002175,@@@,,delivered,,N/A,###BAD###
+ ,C00213,2023-08-09T00:19:14,###BAD###,nan,cod,Hyderabad
+###BAD###,C00801,N/A,processing,1,upi,Bengaluru
+@@@,C00583,2024-07-28T12:48:37,shipped,1,netbanking,Delhi
+32-13-2025, ,2025-09-24T14:56:18,delivered,not_a_date,upi,Kolkata
+null,C00039,2024-09-10T06:53:20,delivered,not_a_date,null,not_a_date
+invalid,C00970,NULL,N/A,,123abc,Hyderabad
+O0002182,,2024-11-23T05:28:48,delivered,N/A,,invalid
+O0002183,N/A,2023-10-01T16:09:39,,1,card,Bengaluru
+O0002184,,2023-10-03T10:25:36,null,###BAD###,N/A,NULL
+O0002185,C00899,2023-01-21T07:01:14,delivered,1,cod,Noida
+O0002186,123abc,invalid,not_a_date,2,cod, 
+O0002187,not_a_date,null,null,2,cod,Pune
+O0002188,C00769,2024-10-07T07:57:47,delivered,2,upi,Pune
+O0002189,C00216,nan,NULL,2,upi,Noida
+O0002190,C00175,@@@,delivered,1,@@@,###BAD###
+nan,C00131,2024-08-29T14:04:51,delivered,9999-99-99,NULL,Delhi
+32-13-2025,C00466,2023-11-30T05:42:51,delivered,,invalid,Pune
+ ,9999-99-99,NULL,processing,32-13-2025,NULL,Delhi
+O0002194,C00852,2025-09-02T20:40:44,delivered,N/A,upi,NULL
+O0002195,C00109,2024-01-10T08:03:24,9999-99-99,1,,Noida
+123abc, ,2025-08-18T20:09:21,delivered,1,card,Bengaluru
+O0002197,32-13-2025,2024-10-10T19:02:51,shipped,@@@,upi,Hyderabad
+9999-99-99,C00404,not_a_date,delivered,,invalid,Kolkata
+9999-99-99,,2024-05-25T20:12:28,delivered,N/A,N/A,123abc
+invalid,C00103,2023-09-24T02:05:03,delivered,1,N/A,Mumbai
+@@@,NULL,2024-12-10T22:35:26,returned,NULL,card,Delhi
+O0002202,C00466,N/A,@@@,1,netbanking,Bengaluru
+ ,, ,delivered,32-13-2025,upi,Bengaluru
+O0002204,NULL,###BAD###,cancelled,NULL,cod,Delhi
+O0002205,C00177,32-13-2025,processing,2,32-13-2025,@@@
+not_a_date,C00226,2025-07-19T05:10:01,123abc,2,upi,Bengaluru
+O0002207,not_a_date,2023-08-20T12:11:24,delivered,NULL,upi,
+O0002208,C00871,NULL,9999-99-99,2,netbanking,invalid
+32-13-2025,C01000,2024-08-16T09:19:28,processing,N/A,card,Chennai
+nan,C00515,2025-10-19T16:38:37,processing,2,null,Chennai
+null,32-13-2025,2023-02-12T05:00:55,delivered, ,32-13-2025,@@@
+NULL,123abc,2024-10-03T06:50:43,,2,upi,Bengaluru
+O0002213,C00407,2025-05-24T20:42:13,N/A,1,nan,invalid
+O0002214,C00239,2024-07-02T05:28:58,9999-99-99,3,NULL,Bengaluru
+invalid,9999-99-99,invalid,123abc,2,cod,Pune
+null,C00556,2023-06-21T04:51:38,null,1,null,Bengaluru
+O0002217,123abc,nan,processing,2,cod,Kolkata
+O0002218,C00044,N/A,cancelled,1,invalid,Kolkata
+O0002219,C00447,NULL,returned,,cod,nan
+O0002220,C00847,9999-99-99,delivered,1,cod,Delhi
+,C00344,2024-06-14T19:32:01,delivered,2,upi,123abc
+null,null, ,delivered,1,9999-99-99,Mumbai
+O0002223,123abc,2024-04-04T22:54:10,delivered,null,@@@,32-13-2025
+ ,nan,123abc,cancelled,9999-99-99,9999-99-99,null
+O0002225,N/A,,nan,1,N/A,Hyderabad
+@@@,not_a_date,NULL,not_a_date,1,card,invalid
+O0002227,,2023-04-30T12:19:19,cancelled,1,123abc,Mumbai
+,C00814,,###BAD###,1,invalid,Noida
+O0002229,C00654,2025-09-10T07:53:20,invalid,1,cod,32-13-2025
+O0002230,C00289,2025-03-28T23:19:49,delivered,###BAD###,,Bengaluru
+O0002231,C00223,2024-08-29T21:11:07,delivered,2,cod,Bengaluru
+null, ,invalid,@@@,invalid,card,Mumbai
+O0002233,C00292,32-13-2025,delivered,2,,@@@
+null,C00751,32-13-2025,nan,,card,32-13-2025
+O0002235,C00483,9999-99-99,NULL,,not_a_date,N/A
+NULL,C00668,not_a_date,NULL,9999-99-99,card,Mumbai
+32-13-2025,C00225,2025-06-03T13:26:01,delivered,2,netbanking,N/A
+O0002238,NULL,2023-01-12T11:59:12,###BAD###,1,upi,Kolkata
+O0002239,9999-99-99,2025-03-22T06:55:06,delivered,1,###BAD###,Pune
+O0002240,123abc,2024-01-03T08:15:56,delivered,1,netbanking,Mumbai
+O0002241,C00958,2024-12-28T17:44:10,nan,2,not_a_date,not_a_date
+###BAD###,32-13-2025,32-13-2025,delivered,1,cod,not_a_date
+9999-99-99,C00956,null,32-13-2025,1,NULL,Hyderabad
+O0002244,C00690,###BAD###,delivered,invalid,card,Pune
+O0002245,, ,returned,2,cod,Bengaluru
+32-13-2025,nan,2025-07-20T03:15:27,delivered,1,card,Mumbai
+O0002247,C00997,2023-06-02T06:09:42,nan,1,netbanking,Kolkata
+O0002248,,2024-04-07T22:38:09,delivered, ,123abc,Pune
+O0002249,@@@,nan,delivered,1,card,Noida
+invalid,C00334,2023-02-10T12:57:30,nan,not_a_date,card,Mumbai
+O0002251,C00433,not_a_date,delivered,1,card,###BAD###
+O0002252,C00254,2023-06-03T19:08:29,null,2,cod,Delhi
+O0002253,C00472,2025-10-27T22:07:22,@@@,9999-99-99,not_a_date,9999-99-99
+,C00555,2024-09-04T11:42:31,32-13-2025,2,card,Bengaluru
+O0002255,nan,2025-03-11T12:23:44,shipped,32-13-2025,cod,Hyderabad
+O0002256,32-13-2025,32-13-2025,delivered,1,card, 
+O0002257,not_a_date,32-13-2025,delivered,1,N/A,Pune
+O0002258,null,2024-04-02T19:17:42,delivered,not_a_date, ,Noida
+nan,###BAD###,2024-09-02T04:37:55,nan,1,cod,Chennai
+O0002260,C00643,nan,9999-99-99,1,upi,Delhi
+invalid,null,2025-06-15T18:39:25,delivered,invalid,card,Noida
+O0002262,,123abc,9999-99-99,1,upi,Hyderabad
+9999-99-99,C00283,NULL,delivered,2,upi,Delhi
+,C00421,2025-08-04T07:18:53,invalid,1,null,NULL
+O0002265,C00409,###BAD###,delivered,1,card,invalid
+O0002266,C00297,2024-10-09T00:50:38,delivered,1,cod,Mumbai
+O0002267,C00335,2023-12-17T03:53:56,shipped,1,netbanking,Hyderabad
+O0002268,not_a_date,2025-07-28T01:25:25,delivered,@@@,card,NULL
+O0002269,C00861,2024-01-02T08:34:53,delivered,1,card,invalid
+O0002270,null,2024-01-25T21:51:02,delivered,1,upi,
+O0002271,C00634,not_a_date,not_a_date,1, , 
+ ,C00426,@@@,shipped,1,upi,Mumbai
+invalid,C00049,2023-01-02T06:02:43,delivered,,@@@,not_a_date
+O0002274,C00105,2024-12-29T20:13:01,processing, ,upi,32-13-2025
+NULL,###BAD###,2023-07-18T17:16:49,,###BAD###, ,
+9999-99-99,C00443,2025-07-08T18:03:32,NULL,123abc,123abc,invalid
+@@@,C00544,2025-08-24T05:26:56,NULL,nan,null,Mumbai
+N/A,C00116,2024-02-22T13:23:56,delivered,N/A,invalid,Kolkata
+not_a_date,C00278,32-13-2025,delivered,32-13-2025,card,null
+O0002280,C00496,2024-07-15T21:21:27,nan,nan,123abc,Pune
+9999-99-99,nan,invalid,null,1,32-13-2025,Delhi
+O0002282,32-13-2025,2024-12-05T19:38:27,processing,1,netbanking,Pune
+O0002283,C00955,9999-99-99,delivered,1,card,Pune
+O0002284,C00242, ,delivered,1,card,Chennai
+O0002285,C00511,@@@,NULL,1,upi,Pune
+O0002286,@@@,###BAD###,delivered,1,null,Kolkata
+O0002287,C00321,2023-01-13T15:53:05,not_a_date,3,upi,Pune
+O0002288,NULL,2024-12-13T06:06:10,delivered,1,card,null
+O0002289,C00759,NULL,delivered,@@@,card,Delhi
+invalid,###BAD###,not_a_date,delivered,null,cod,nan
+nan,N/A,NULL,delivered,32-13-2025,null,Pune
+32-13-2025,C00570,invalid,delivered,1,netbanking,@@@
+O0002293,C00599,invalid,,1,upi,Delhi
+O0002294,32-13-2025,,,9999-99-99,card,Noida
+O0002295,9999-99-99,@@@,delivered,1,N/A,Pune
+O0002296,C00316,2023-07-09T08:28:29,N/A,32-13-2025,cod,Kolkata
+O0002297,C00784,2025-01-19T20:13:22,9999-99-99,1,,Noida
+O0002298,N/A,not_a_date,@@@,1, ,Pune
+,,NULL,delivered,,upi,32-13-2025
+@@@,C00868,2024-02-21T01:21:14,delivered,1,NULL,Kolkata
+O0002301,C00200,2023-09-13T16:13:26,delivered,2,card,@@@
+invalid,C00246,2024-01-09T13:59:02,nan,1,netbanking,Delhi
+O0002303,C00362,2023-12-23T15:34:30,delivered,,upi,nan
+ ,C00189,2024-10-09T21:04:20,###BAD###,1,cod,null
+32-13-2025,C00419,2024-10-31T21:13:59,delivered,null,null, 
+O0002306,C00832,2023-04-13T03:32:36,processing,123abc,upi,nan
+O0002307,C00703,nan,###BAD###,NULL,cod,Delhi
+O0002308,nan,2025-09-08T14:47:24,N/A,1,cod,Delhi
+invalid,C00318,123abc,123abc,invalid,upi,Hyderabad
+O0002310,@@@,2025-05-30T08:57:21,delivered,1,not_a_date,Mumbai
+ ,nan,2023-04-09T17:38:35,invalid,,32-13-2025,Mumbai
+O0002312,C00545,invalid,delivered,2,card,Hyderabad
+O0002313,C00680,9999-99-99,delivered,invalid,upi, 
+###BAD###,C00635, ,delivered,2,9999-99-99,Noida
+,C00337,2024-12-14T16:08:33,delivered,3,card,Bengaluru
+O0002316,C00147,,delivered,9999-99-99,card,9999-99-99
+invalid,123abc,2024-01-20T20:38:58,processing,32-13-2025,N/A,Noida
+O0002318,C00015,2024-11-03T18:33:19,processing,1,###BAD###, 
+O0002319,,2023-07-22T08:50:59,delivered,1,cod,nan
+O0002320,C00536,123abc,invalid,not_a_date,NULL,invalid
+N/A,C00215,@@@,nan,###BAD###,nan,Delhi
+32-13-2025,nan,2024-05-18T19:31:53,delivered,2,upi,
+O0002323,,2023-01-24T00:47:50,delivered,1,N/A,32-13-2025
+O0002324,C00456,9999-99-99,invalid,1,cod,###BAD###
+O0002325,NULL,2024-03-01T07:52:50,delivered,2,not_a_date,invalid
+O0002326,C00773,2025-08-09T23:00:49,processing,123abc,9999-99-99,Kolkata
+,C00130,2025-03-19T00:47:47,delivered,2,netbanking,Delhi
+@@@,nan,2024-05-24T17:08:54,delivered,1,N/A,Chennai
+O0002329,C00138,2024-10-07T11:07:15,delivered,1,card,Mumbai
+O0002330,C00707,2024-11-02T17:51:06,9999-99-99,null,9999-99-99,Mumbai
+not_a_date,C00291,2024-11-02T01:56:08,not_a_date,1,cod,@@@
+O0002332, ,2023-05-23T10:59:44,###BAD###,1,cod,Kolkata
+O0002333,N/A,NULL,,1,upi,Hyderabad
+O0002334,C00582,2024-05-17T06:22:15,cancelled,N/A,@@@,Mumbai
+O0002335,C00642,2024-11-14T17:20:55,shipped,@@@,cod,NULL
+O0002336,C00376,2024-08-20T14:42:15,delivered,32-13-2025,upi,9999-99-99
+O0002337,C00841,2025-02-08T07:37:31,delivered,N/A,upi,Pune
+O0002338,32-13-2025,not_a_date,123abc,32-13-2025, ,Bengaluru
+O0002339,###BAD###,32-13-2025,delivered,1,netbanking,@@@
+invalid,C00785,@@@,processing,N/A,###BAD###,Bengaluru
+O0002341,C00534,nan,delivered,2,cod,Delhi
+@@@,C00036,2023-08-03T19:44:29,9999-99-99,1,upi,nan
+O0002343,C00343,2024-09-05T13:53:16,delivered,N/A,upi,###BAD###
+O0002344,C00039,2024-01-22T21:35:34,N/A,1,NULL,Kolkata
+O0002345,,nan,delivered,@@@,netbanking,NULL
+null,###BAD###,2024-06-14T21:17:29,delivered,NULL,###BAD###, 
+O0002347,NULL,2024-03-08T00:36:26,delivered,N/A,9999-99-99,Hyderabad
+O0002348,C00508,2025-04-03T08:44:48,32-13-2025,1,card,Bengaluru
+O0002349,N/A,invalid,NULL,invalid,cod,NULL
+O0002350,C00893,NULL,###BAD###,nan,123abc,not_a_date
+N/A,C00140,2025-10-02T03:29:17,123abc,1,card,Hyderabad
+O0002352,C00826,not_a_date,processing,2,upi,null
+O0002353,C00208,2024-09-16T06:37:32,cancelled,1,card,Noida
+O0002354,C00211,NULL,delivered,2,123abc,Kolkata
+O0002355,NULL,NULL,delivered,2,###BAD###,Delhi
+O0002356,invalid,2023-01-18T19:00:39,NULL,1,null,Kolkata
+###BAD###,C00525,9999-99-99,32-13-2025,2,,Pune
+O0002358, ,2023-12-08T01:59:16,delivered,N/A,netbanking,Kolkata
+O0002359,nan,123abc,delivered,1,cod,Noida
+not_a_date,9999-99-99,2023-01-15T08:48:17,NULL,@@@,card,Noida
+O0002361,C00707,2024-07-11T03:36:13,delivered,1,upi,Kolkata
+nan,C00861,2023-06-04T01:39:30,delivered,1,32-13-2025,Delhi
+O0002363,C00978,2023-10-23T04:48:17,delivered,1,cod,Mumbai
+O0002364, ,2025-08-30T04:47:24,shipped,1,cod,Kolkata
+invalid,C00188, ,32-13-2025,1,,123abc
+O0002366,C00297,2023-01-29T08:53:56,delivered,1,netbanking,Bengaluru
+O0002367,C00430,2023-07-24T03:34:53,nan,1,32-13-2025,Kolkata
+nan,C00313,2025-02-22T16:27:06,123abc,@@@,netbanking,Mumbai
+,C00487,2023-01-25T04:34:25,delivered,1,netbanking,Mumbai
+32-13-2025,C00957,2023-11-07T01:02:38,nan,null,NULL,Hyderabad
+O0002371,@@@,2025-04-28T23:08:04,@@@,nan,netbanking,Hyderabad
+O0002372,###BAD###,2023-03-05T00:21:29,N/A, ,upi,@@@
+O0002373,C00062,9999-99-99,not_a_date,1,card,Mumbai
+###BAD###,C00818,nan,###BAD###,123abc,null,Noida
+,null,2023-11-25T02:06:13, ,1,123abc,not_a_date
+O0002376,C00762,2025-08-25T02:41:24,delivered,32-13-2025,netbanking,N/A
+ ,C00026,2024-06-03T10:55:59,delivered,1,invalid,N/A
+O0002378,C00812,2023-08-18T15:07:36,delivered,2,@@@,@@@
+@@@,C00855,9999-99-99,delivered,9999-99-99,card,Bengaluru
+O0002380, ,9999-99-99,cancelled,,netbanking,Bengaluru
+,C00370,2023-10-23T02:41:25,delivered,2,,Bengaluru
+O0002382,C00220,2024-07-06T02:09:46,processing,,@@@,Chennai
+O0002383,C00313,2025-07-02T15:56:11,delivered,###BAD###,card,Kolkata
+O0002384,C00691,N/A,@@@,1,not_a_date,Kolkata
+not_a_date,nan,123abc,delivered,1,upi,not_a_date
+O0002386,C00994, ,delivered,1,,nan
+ ,C00392,123abc,delivered,1,card,123abc
+32-13-2025,32-13-2025,2023-07-06T05:51:27,delivered,1,NULL,Chennai
+O0002389,C00751,2025-04-27T08:30:35,delivered,2,cod,Bengaluru
+O0002390,C00220,2025-08-07T12:03:58,delivered,1,invalid,null
+O0002391,NULL,2024-06-14T00:32:47,delivered,1,card,null
+O0002392,null,null,processing,invalid,netbanking,123abc
+null,not_a_date,2024-09-07T01:03:25,delivered,1,netbanking,Hyderabad
+O0002394,C00623,2023-09-19T06:50:20,shipped,NULL,nan,Chennai
+32-13-2025,N/A,2025-06-14T08:28:02,delivered,2,N/A,null
+O0002396,C00588,2025-04-20T10:17:27,@@@,1,card,Bengaluru
+O0002397,nan,2023-12-07T06:47:46,delivered,1,netbanking,Mumbai
+O0002398,invalid,9999-99-99,cancelled,1,@@@,Mumbai
+O0002399,C00022,@@@,delivered,9999-99-99,32-13-2025,32-13-2025
+O0002400,C00465,2024-05-05T18:07:39,,invalid,not_a_date,invalid
+O0002401,N/A,###BAD###,delivered,1,nan,###BAD###
+O0002402,32-13-2025,2023-11-08T07:08:43,delivered,1,32-13-2025,Noida
+O0002403,NULL,2023-04-02T12:00:34,cancelled,1,upi,Chennai
+O0002404,C00557,2023-06-18T17:27:30,invalid,nan,cod,Kolkata
+O0002405,C00042,2023-04-14T00:58:38,NULL,1,upi,Kolkata
+O0002406,C00256,123abc,delivered,1,NULL,9999-99-99
+123abc,N/A, ,delivered,1,,nan
+O0002408,C00338,2025-10-23T04:48:36,shipped,nan,upi,Bengaluru
+O0002409,C00997,2023-02-07T06:40:16,,3,card,Delhi
+NULL,32-13-2025,null,delivered,1,cod,Mumbai
+O0002411,C00458,@@@,delivered,1, ,32-13-2025
+O0002412,123abc,2025-04-08T13:28:09,,null,nan,Mumbai
+###BAD###,C00564,2023-10-10T08:56:41,delivered,1,netbanking, 
+not_a_date,C00706,2023-11-08T04:41:14,delivered,1,upi,not_a_date
+9999-99-99,C00153,2025-03-11T04:02:33,delivered,1,card,Noida
+invalid,C00269,2024-10-27T04:29:14,cancelled,nan,upi,Kolkata
+O0002417,9999-99-99,2024-09-30T05:59:14,delivered,1,cod,Mumbai
+32-13-2025,@@@,2024-08-26T02:10:39,delivered,1,invalid,9999-99-99
+O0002419,C00110,###BAD###,delivered,###BAD###,###BAD###,
+O0002420,C00579,2023-02-06T09:42:55,processing,1,9999-99-99,Mumbai
+O0002421,C00063,null,delivered,1,cod,nan
+@@@,invalid,NULL,,1,netbanking,Noida
+N/A,null,2023-03-02T02:46:56,###BAD###,2,netbanking,Kolkata
+N/A,C00926,2023-09-18T18:47:59,delivered,1,32-13-2025,Pune
+O0002425,C00092,2023-09-14T00:41:57,delivered,1,upi,NULL
+O0002426,C00510,nan,delivered,123abc, ,invalid
+invalid,32-13-2025,32-13-2025,not_a_date,NULL,cod,###BAD###
+O0002428,C00225,2024-09-06T12:52:01,invalid,3,card,Pune
+O0002429,C00243,@@@,9999-99-99,null,netbanking,Chennai
+O0002430,123abc,2023-11-01T08:15:22,delivered,2,cod,Delhi
+ ,9999-99-99,2025-04-19T17:10:10,NULL,1,null,null
+123abc,not_a_date,2025-07-28T21:11:25,9999-99-99,2,card,Hyderabad
+O0002433,C00868,2025-05-06T22:51:24,invalid,3,cod,Bengaluru
+invalid, ,2023-09-24T08:04:59,delivered,9999-99-99,cod,Hyderabad
+null,9999-99-99,2025-06-24T16:54:54,delivered,3,upi,32-13-2025
+invalid,C00479,2023-06-14T21:10:37,delivered,NULL,9999-99-99,invalid
+O0002437,C00016,2023-03-16T13:59:06,returned,1,upi,not_a_date
+O0002438,C00309,2023-10-26T04:15:20,invalid, ,netbanking,123abc
+invalid,not_a_date,2024-09-21T23:26:56,delivered,1,null,Bengaluru
+O0002440,123abc,2023-08-15T04:05:21,32-13-2025,1,###BAD###,###BAD###
+NULL,C00620,123abc,NULL,1,netbanking,Mumbai
+O0002442,C00994,2025-03-29T21:44:17,not_a_date,1,card,not_a_date
+O0002443,C00104,2025-10-06T06:34:35,delivered,###BAD###,netbanking,32-13-2025
+O0002444,not_a_date,not_a_date,invalid,2,nan,Chennai
+O0002445,C00513,2025-10-26T05:46:04,delivered,not_a_date,upi,null
+9999-99-99,not_a_date,2023-02-17T12:25:16,processing,N/A,card,Pune
+32-13-2025,not_a_date,not_a_date,delivered,1,upi,Chennai
+32-13-2025,NULL,not_a_date,NULL,1,card,Delhi
+,C00726,###BAD###,@@@,1,cod,@@@
+O0002450,C00844,2024-05-05T15:09:06,###BAD###,1,invalid,Mumbai
+O0002451,9999-99-99,nan,delivered,1,cod,N/A
+O0002452,C00083,123abc,delivered,9999-99-99,cod,9999-99-99
+O0002453,C00247,2023-08-08T22:31:47,delivered,null,null,Hyderabad
+O0002454,@@@,2023-08-03T20:48:24,32-13-2025,9999-99-99,netbanking, 
+nan,C00701,2023-04-15T23:32:16,delivered,N/A,###BAD###,Noida
+O0002456,C00842,2024-11-04T11:58:00,delivered,1,card,Kolkata
+null,N/A, ,###BAD###,1,32-13-2025,N/A
+O0002458,C00484,,invalid,1,nan,###BAD###
+O0002459,C00483,,delivered,1,netbanking,Noida
+O0002460,C00115,@@@,###BAD###,1,card,nan
+O0002461,N/A,2023-11-13T04:57:12,delivered,3,cod,Chennai
+123abc,C00493,@@@,delivered,@@@,netbanking,Mumbai
+N/A,C00459,2025-05-08T17:55:06,processing,123abc,card,Bengaluru
+O0002464,C00818,32-13-2025,delivered,1, ,N/A
+O0002465,C00477,123abc,123abc,1,upi,Kolkata
+9999-99-99,9999-99-99,2023-10-04T06:56:25,###BAD###,1,123abc,invalid
+null,C00401,2023-03-19T12:38:42,cancelled,@@@,9999-99-99,
+O0002468,###BAD###,###BAD###,delivered,invalid,cod,Pune
+nan,C00068,N/A,delivered,1,upi,Bengaluru
+N/A,C00092,NULL,,###BAD###,upi,Bengaluru
+null, ,###BAD###,NULL,1,###BAD###,Pune
+O0002472,C00048,2024-06-12T05:18:54,NULL,3,card,Kolkata
+not_a_date,C00592,2023-10-08T09:34:54,nan,###BAD###,card,invalid
+O0002474, ,N/A,NULL,2,invalid,Mumbai
+9999-99-99,###BAD###,NULL,delivered,N/A,not_a_date,Hyderabad
+O0002476,@@@,2025-01-16T22:35:24,delivered,32-13-2025,invalid,Kolkata
+O0002477,invalid,2024-11-06T07:19:35,delivered,1,nan,9999-99-99
+ ,9999-99-99,not_a_date,delivered,2,netbanking,Noida
+O0002479, ,32-13-2025,null,1,upi,Pune
+O0002480,123abc,2023-08-16T04:34:49,delivered,2,cod,invalid
+O0002481,C00338,2023-07-21T04:14:37,delivered,NULL,32-13-2025,Delhi
+###BAD###,C00350,invalid,not_a_date,2,N/A,###BAD###
+O0002483,C00165,2024-04-10T23:24:01,delivered,32-13-2025,upi,nan
+O0002484,N/A,2025-01-27T08:27:49, ,32-13-2025,null,Mumbai
+O0002485,C00367,2023-05-13T14:06:01,delivered,1,@@@,
+@@@,C00126,2025-01-10T12:51:16, ,3,cod,###BAD###
+nan, ,2023-05-06T06:06:31,not_a_date,not_a_date,netbanking,
+ ,123abc,, ,2,upi,Pune
+N/A,C00723,2025-07-29T21:11:24,delivered,1,NULL,###BAD###
+,C00266,2025-03-18T21:33:25,###BAD###,1,cod,NULL
+O0002491,C00569,2024-09-06T01:28:26,@@@,@@@,###BAD###,invalid
+O0002492,123abc,null,delivered,1,not_a_date,9999-99-99
+ ,C00966,2024-11-23T06:46:35,not_a_date,2,cod, 
+32-13-2025,###BAD###,123abc,delivered,N/A,cod,N/A
+O0002495,32-13-2025,2023-04-17T13:57:42,32-13-2025,1,upi,Hyderabad
+O0002496,C00606,###BAD###,@@@, ,@@@,Kolkata
+O0002497,invalid,,delivered,1,123abc,9999-99-99
+O0002498,N/A,2025-05-06T23:05:57,delivered,2,cod,NULL
+null,C00975,invalid,123abc,3,upi,Hyderabad
+O0002500,C00462,2023-04-29T23:30:32,delivered,1,cod,Noida
+O0002501,C00728,123abc,@@@,32-13-2025,card,@@@
+O0002502, , ,delivered,2,N/A,Bengaluru
+NULL,C00467,@@@,,123abc,netbanking,NULL
+O0002504,123abc,2023-08-06T02:53:29,nan,32-13-2025,N/A,Hyderabad
+@@@,NULL,2023-09-05T15:06:27,delivered,1,invalid,32-13-2025
+O0002506,C00632,2025-01-31T03:18:17,32-13-2025,nan,cod,Kolkata
+O0002507,9999-99-99,32-13-2025,delivered,2,card,Kolkata
+not_a_date,9999-99-99,###BAD###,9999-99-99,@@@,cod, 
+null,C00098,2024-06-29T05:43:25,9999-99-99,32-13-2025,@@@,Mumbai
+O0002510,C00433,2023-02-21T02:28:29,processing,invalid,not_a_date,###BAD###
+O0002511,nan,nan,delivered,1,card,nan
+N/A,C00702,2023-01-23T01:18:37,delivered,nan,netbanking,Hyderabad
+9999-99-99,C00856,2025-07-28T05:16:58,delivered,invalid,not_a_date,@@@
+O0002514,C00884,2025-06-21T05:36:17,cancelled,123abc,invalid,Kolkata
+O0002515,C00938,9999-99-99,delivered,1,,Pune
+###BAD###,C00267,2023-05-05T05:56:22,NULL,2,upi,Delhi
+123abc,C00716,2024-03-24T23:38:14,###BAD###,not_a_date,netbanking,Noida
+O0002518,C00185,2023-06-28T05:57:36,delivered,1,###BAD###,Kolkata
+###BAD###,NULL,,returned,1,,Bengaluru
+@@@,C00851,2025-05-31T22:26:28,,9999-99-99,upi,Bengaluru
+ ,,2023-12-07T17:41:19,delivered, ,netbanking,32-13-2025
+O0002522,C00272,2025-02-04T00:28:46,32-13-2025,N/A,cod,Chennai
+O0002523,C00836,2023-01-06T13:47:31,shipped,1, ,Mumbai
+O0002524,C00174,2023-04-02T17:00:42,delivered,NULL,123abc,Bengaluru
+O0002525,9999-99-99,2023-04-06T05:11:49,delivered,2,upi, 
+not_a_date,not_a_date,2024-05-02T19:02:17,null,1,card,
+O0002527,@@@,2023-11-18T11:12:15,delivered,1,card,Bengaluru
+O0002528,###BAD###,2025-01-02T02:02:09,N/A,9999-99-99,upi,Pune
+null, ,2023-05-02T03:39:56,delivered,1,null,123abc
+null,C00337,2023-03-10T07:54:25,delivered, ,upi, 
+O0002531,123abc,NULL,delivered,1,netbanking,Hyderabad
+O0002532,N/A,123abc,delivered,@@@,card,Pune
+O0002533,###BAD###,NULL,shipped,9999-99-99,@@@,null
+O0002534,NULL,2023-11-28T18:03:28,,1,cod,Pune
+N/A,C00930,@@@,###BAD###,2,invalid,NULL
+O0002536,C00203,2023-06-04T15:29:19,NULL,123abc,upi,123abc
+O0002537,C00068,2023-01-31T12:11:38,cancelled,2,###BAD###,Delhi
+O0002538,C00580,2024-02-21T14:21:39,shipped,1,9999-99-99, 
+NULL,C00186,2025-03-21T14:04:44,delivered,not_a_date,cod,Pune
+,C00238,2025-03-31T04:27:54,shipped, ,nan,Pune
+O0002541,NULL,123abc,null,1,NULL,Mumbai
+9999-99-99,C00912,,,invalid,card,@@@
+null,@@@,NULL,delivered,2,nan,Pune
+O0002544,C00896, ,NULL,1,,not_a_date
+O0002545,C00363,2024-04-16T10:22:00,delivered,1,upi,Kolkata
+O0002546,C00738,nan,9999-99-99,1,netbanking,Mumbai
+,C00530,invalid,delivered,@@@,netbanking, 
+,9999-99-99,2023-09-17T11:44:47,delivered,nan,netbanking,Bengaluru
+O0002549,C00995,2023-07-11T16:34:15,9999-99-99,not_a_date,upi,###BAD###
+O0002550,C00718,2023-08-13T18:11:47,processing,nan,invalid,Chennai
+O0002551,C00791,2025-09-16T15:02:27,delivered,1,cod,###BAD###
+O0002552,C00985,2024-03-03T07:48:10,delivered,nan,cod,Pune
+O0002553,C00098,@@@,###BAD###,@@@,N/A,123abc
+###BAD###,C00282,32-13-2025,###BAD###,2,upi,@@@
+NULL,C00850,null,nan,invalid,cod,Bengaluru
+O0002556,32-13-2025,2023-12-19T00:47:32,delivered,3,cod,nan
+O0002557, ,2023-12-11T11:19:59, ,1, ,Pune
+ ,C00083,2025-03-13T05:35:10,N/A,N/A,upi,@@@
+O0002559,C00774,2023-08-06T17:11:22,delivered,nan,cod,123abc
+O0002560,C00776,2024-09-06T14:11:35,###BAD###,1,upi,Bengaluru
+O0002561,C00662, ,cancelled,2,###BAD###,Chennai
+###BAD###,N/A,2024-08-11T18:36:11,,2,card,9999-99-99
+O0002563,NULL, ,delivered,1,cod,Mumbai
+O0002564,not_a_date,2024-12-02T01:37:23,not_a_date,32-13-2025,netbanking,invalid
+32-13-2025,C00489,2024-08-06T20:02:01,delivered,1,123abc,NULL
+@@@,C00756,2023-06-22T18:14:15,32-13-2025,nan,netbanking,Bengaluru
+O0002567,C00138,2023-11-25T09:53:29,delivered,NULL,netbanking,32-13-2025
+NULL,invalid,2023-01-12T22:02:26,shipped,1,netbanking,null
+O0002569,C00498,2023-03-18T10:25:17,delivered,not_a_date,cod,NULL
+O0002570,C00486,2025-06-11T04:25:18,delivered,NULL,not_a_date,Mumbai
+@@@,123abc,2024-10-28T07:29:11,N/A,1,nan,Delhi
+not_a_date,C00456,2025-05-21T21:09:54,delivered,2,@@@,Kolkata
+O0002573,C00889,2024-02-10T13:07:00,not_a_date,nan,upi,not_a_date
+nan,null,@@@,processing,1,card,Hyderabad
+N/A,C00358,2024-07-19T09:07:58,9999-99-99,1,N/A,Bengaluru
+ ,###BAD###,nan,delivered,1,cod,N/A
+O0002577,C00916,2023-03-06T13:54:44, ,nan,,Chennai
+O0002578,C00185,null,returned,1,not_a_date, 
+O0002579,C00879,2024-11-27T03:32:35,123abc,###BAD###,NULL,123abc
+null,C00635,2024-01-22T05:19:44,delivered,1,NULL,Chennai
+O0002581,32-13-2025,2024-03-24T14:19:17,cancelled,1,N/A,Noida
+not_a_date,123abc,2024-03-24T08:22:27,not_a_date,,netbanking,Hyderabad
+###BAD###,C00587,###BAD###,shipped,1,netbanking,Pune
+O0002584,32-13-2025, ,,1,nan,NULL
+null,32-13-2025,123abc,delivered,1,,Chennai
+O0002586,C00065,2023-01-25T00:38:21,,1,123abc,Pune
+O0002587,@@@,2024-07-02T05:05:25,delivered,not_a_date,netbanking,Pune
+O0002588,C00799,2023-02-02T01:37:49,delivered,1,,Chennai
+O0002589,C00689,2025-05-25T01:19:31,123abc,1,cod,###BAD###
+O0002590,C00301,2024-03-30T14:32:58,delivered,null,upi,null
+, ,2023-04-15T12:46:24,invalid,32-13-2025,not_a_date,Pune
+O0002592,,N/A, ,nan,not_a_date,Hyderabad
+invalid, ,N/A,@@@,1,card,Pune
+9999-99-99,C00675,123abc,delivered,1,123abc,Mumbai
+O0002595,C00153,2025-07-16T15:59:44,delivered,@@@,card,Mumbai
+invalid, ,2024-09-22T10:02:44,delivered,2,cod,123abc
+O0002597,@@@,2024-04-28T11:26:48,processing,1,card,###BAD###
+O0002598,,,NULL,1, ,Kolkata
+O0002599,NULL,###BAD###,delivered,1,N/A,123abc
+32-13-2025,C00838,2025-04-08T15:44:50,null,null,card,@@@
+O0002601,C00188,NULL,processing,null,upi,Delhi
+O0002602,C00630,123abc,delivered,,cod,Pune
+O0002603,C00224,2025-10-25T10:43:38,returned,2,card,NULL
+O0002604,###BAD###,2024-02-25T18:26:13,NULL,1,not_a_date,Noida
+32-13-2025,C00410,, ,32-13-2025,upi,Mumbai
+O0002606,C00865,,returned,1,cod,Mumbai
+not_a_date,C00269,2025-05-15T22:48:04,NULL,1,nan,Noida
+O0002608,32-13-2025,null,processing,1,@@@,Hyderabad
+O0002609,C00782,2023-11-30T18:59:43,processing,9999-99-99,card,9999-99-99
+O0002610,C00197,2023-12-30T16:53:39,null,,netbanking,nan
+O0002611,C00123,2023-11-12T13:44:20,shipped,invalid,netbanking,Kolkata
+9999-99-99,C00475,@@@,, ,cod,Chennai
+O0002613,C00626,2024-06-21T05:25:37,delivered,1,NULL,Kolkata
+O0002614,C00736,,delivered,not_a_date,,@@@
+O0002615,,2023-02-09T03:18:22,cancelled,N/A,N/A,Noida
+O0002616,not_a_date,null,invalid,9999-99-99,cod,NULL
+###BAD###,@@@,2025-01-23T08:38:33,delivered,1,upi,nan
+O0002618,C00575,2024-07-23T21:50:15, ,1,netbanking,not_a_date
+9999-99-99,C00478,nan,processing,NULL,card,###BAD###
+O0002620,32-13-2025,123abc,delivered,1,card,Pune
+O0002621,@@@,2023-04-17T03:24:41,processing,2,netbanking, 
+not_a_date,32-13-2025,2023-01-04T06:28:49,###BAD###,2,cod,Mumbai
+123abc,C00960,2023-11-16T13:40:19,9999-99-99,1,card,Kolkata
+O0002624,C00032,@@@,@@@,2,card,null
+O0002625,###BAD###,2025-04-03T04:33:10,delivered,1,null,nan
+O0002626,C00667,2024-08-29T09:53:33,invalid,3,card,Mumbai
+not_a_date,C00469,nan,delivered,N/A,upi,Bengaluru
+O0002628,C00657,2025-08-14T20:17:05,delivered,###BAD###,nan,Hyderabad
+123abc,C00960,2023-08-19T23:38:56,processing,null,card,not_a_date
+O0002630,@@@,2025-08-25T12:25:08,32-13-2025,1,card,Bengaluru
+9999-99-99,N/A,2023-02-04T07:39:07,delivered,1,netbanking,Hyderabad
+9999-99-99,N/A,2024-06-25T08:17:13,delivered, ,cod,nan
+O0002633,C00658,2024-06-02T10:33:43, ,null,cod,not_a_date
+nan,123abc,,nan,,9999-99-99,32-13-2025
+ ,@@@,2025-02-04T06:26:38,, ,card,123abc
+O0002636,C00980,2024-04-01T14:23:15,delivered,null,upi,invalid
+ ,C00415,2023-05-01T07:39:24,delivered,invalid,cod,Mumbai
+O0002638,C00136,2024-08-24T07:24:20,delivered,2,###BAD###,Mumbai
+O0002639,C00361,2024-12-27T07:44:48,9999-99-99,NULL,card,Noida
+ ,C00809,not_a_date,shipped,2,cod,Chennai
+O0002641,C00861,2023-10-28T03:22:55,,1,invalid,Noida
+O0002642,C00255,2025-01-26T08:45:25,NULL,nan,123abc,NULL
+NULL,C00237,2025-05-26T01:24:25,NULL,2,123abc,###BAD###
+null,###BAD###,2023-05-31T04:23:37,delivered,1,32-13-2025, 
+@@@,C00139,2023-04-14T08:11:38,123abc,###BAD###,not_a_date,Bengaluru
+,C00985,2025-04-21T18:39:08,@@@,###BAD###,cod,nan
+O0002647, ,2025-07-18T18:37:26,@@@,3,invalid,Hyderabad
+O0002648,null,@@@,,NULL,123abc,Kolkata
+null,,9999-99-99,delivered,1,cod,123abc
+O0002650,C00626,32-13-2025,N/A,1,32-13-2025,Delhi
+O0002651,C00253,123abc,delivered,###BAD###,,Kolkata
+9999-99-99,C00098,32-13-2025,delivered,1,null,Bengaluru
+N/A,9999-99-99,2025-04-04T00:01:00,processing,,upi,Chennai
+null,N/A,2025-08-13T12:09:53,###BAD###, ,card,Chennai
+O0002655,C00759,2024-04-09T01:55:18, ,2,card,Kolkata
+O0002656,C00308,2023-08-31T00:13:33,returned,1,cod,Pune
+O0002657,C00156,2025-08-20T04:02:37,32-13-2025,2,9999-99-99,Pune
+O0002658,NULL,2025-02-24T09:10:47,cancelled,2,netbanking,Chennai
+O0002659,@@@,2023-01-24T10:39:45,N/A,NULL,invalid,null
+O0002660,nan,32-13-2025,processing,1,@@@,Hyderabad
+,32-13-2025,invalid,9999-99-99,32-13-2025,cod,Bengaluru
+32-13-2025,32-13-2025,invalid,delivered,invalid,netbanking, 
+O0002663,C00088, ,delivered,1,card,not_a_date
+O0002664,C00631,2025-04-16T13:06:59,delivered,nan,@@@,32-13-2025
+O0002665,C00157,123abc,cancelled,1,32-13-2025,Noida
+O0002666,C00264,2023-09-04T22:10:20,9999-99-99,NULL,card,32-13-2025
+###BAD###,C00494,2024-10-08T12:06:00,delivered,not_a_date,cod,Noida
+32-13-2025,C00202,2023-12-14T02:31:22,nan,1,cod,Delhi
+O0002669,C00776,not_a_date,delivered,nan,card,9999-99-99
+O0002670,NULL,N/A,delivered,1,upi,Bengaluru
+null,C00830,2024-08-24T09:17:54,not_a_date,nan,invalid,Chennai
+O0002672,not_a_date,2025-06-02T00:28:47,null,NULL,cod,Bengaluru
+O0002673,C00794,,,NULL,card,Noida
+nan,C00424,2024-10-20T02:49:48,32-13-2025,9999-99-99,cod, 
+O0002675,not_a_date,2025-01-01T02:30:44,9999-99-99,32-13-2025,netbanking,@@@
+O0002676,NULL,@@@,null,N/A,@@@,Delhi
+O0002677,32-13-2025,2024-12-26T16:00:22,,1,card,Delhi
+O0002678,C00329,2025-07-14T08:17:45,returned,NULL,cod,Pune
+O0002679,N/A,###BAD###,delivered,1,cod,Mumbai
+###BAD###,,2024-08-06T00:37:15,processing,123abc,nan,###BAD###
+O0002681, , ,shipped,1,null,NULL
+###BAD###,not_a_date,invalid,not_a_date,invalid,cod,###BAD###
+O0002683,C00788,,delivered,null,upi,Hyderabad
+32-13-2025,NULL, ,delivered,1,cod,Mumbai
+O0002685,C00156,@@@,delivered,1,card,Hyderabad
+N/A,C00290,invalid,null,9999-99-99,netbanking,Pune
+O0002687,nan,@@@,processing,1,###BAD###,Chennai
+,9999-99-99,2023-02-12T16:58:32,null,invalid,cod,nan
+O0002689,C00044,2025-11-01T23:38:35,32-13-2025,1,card,Bengaluru
+9999-99-99,C00043,null,delivered, ,upi,Kolkata
+O0002691,C00081,2023-07-08T06:43:54,processing,1,cod,Hyderabad
+O0002692,not_a_date,N/A,,1,card,Pune
+O0002693,C00167,2025-03-28T07:11:42,delivered,null,cod,Mumbai
+O0002694,C00303,2025-07-20T21:43:10,invalid,1,nan,
+O0002695,C00616,123abc,32-13-2025,NULL,9999-99-99,Pune
+O0002696,@@@,2024-07-24T09:30:46,###BAD###,1,card,9999-99-99
+null,9999-99-99,NULL,delivered,9999-99-99,NULL,Delhi
+NULL,C00843,N/A,delivered,1,cod,Hyderabad
+O0002699,invalid,@@@,N/A,2,cod,Mumbai
+O0002700,C00373,@@@,delivered, ,upi,Mumbai
+O0002701,123abc,NULL,processing,###BAD###,card,Kolkata
+O0002702,C00929,2025-03-06T16:25:03,NULL,3,card,Hyderabad
+###BAD###,C00243,2023-03-27T12:25:15,N/A,1,32-13-2025,Pune
+O0002704,C00046,123abc,9999-99-99,NULL,NULL,null
+O0002705,###BAD###,2023-01-17T19:34:37,NULL,2,###BAD###,Mumbai
+O0002706,N/A,N/A,delivered,2,card,Bengaluru
+9999-99-99,N/A,2023-10-05T00:38:16,delivered,1,netbanking,Noida
+O0002708,C00776,NULL,delivered, ,netbanking,Delhi
+N/A,nan,not_a_date,delivered,1,cod,Mumbai
+invalid,null,2025-08-07T11:58:52,123abc,1,32-13-2025,Pune
+O0002711, ,,delivered,2,upi,Chennai
+N/A,C00711,2024-08-07T10:14:32,,@@@,card,Delhi
+ ,C00736,9999-99-99, ,N/A,upi,nan
+O0002714,C00781,###BAD###,@@@,32-13-2025,upi,123abc
+not_a_date,C00127,2025-10-07T19:31:03,delivered,1, ,
+nan,C00013,nan,delivered,1, ,Chennai
+O0002717,C00555,2025-05-16T00:28:00,delivered,1,invalid,not_a_date
+O0002718,C00924,2025-04-11T00:08:12,N/A,3,,Pune
+123abc,C00517,invalid,shipped,2,card,NULL
+O0002720, ,@@@,123abc,1,cod,@@@
+O0002721,32-13-2025,2023-07-12T10:27:03,null,###BAD###,cod,@@@
+32-13-2025,C00383,N/A,delivered,2,not_a_date,Pune
+123abc,C00315,2025-06-24T18:16:03,not_a_date,2,upi,123abc
+9999-99-99,C00219,###BAD###,delivered,1,@@@,Mumbai
+O0002725,C00327,2025-07-31T03:36:59,delivered,N/A,cod,Hyderabad
+O0002726,123abc,,delivered,null,upi,Hyderabad
+O0002727,123abc,2023-09-10T17:15:12,N/A,1,9999-99-99,Chennai
+9999-99-99,C00643,2025-07-31T12:35:00,N/A,9999-99-99,nan,Mumbai
+O0002729,C00791,null,delivered,1,cod,Delhi
+O0002730,C00556,2024-06-27T07:54:00,returned,not_a_date,card,Bengaluru
+O0002731,C00168,2023-02-22T19:23:27, ,2,netbanking,Kolkata
+O0002732, ,2023-10-22T22:45:38,delivered,1,netbanking,Bengaluru
+NULL,C00216,2025-04-09T09:16:02,@@@, ,123abc,Pune
+O0002734,C00246,2023-12-02T12:59:51,processing,3,cod,not_a_date
+32-13-2025, ,123abc,32-13-2025,9999-99-99,netbanking,Bengaluru
+32-13-2025,C00230,9999-99-99,delivered,2,null,Mumbai
+O0002737,C00590,9999-99-99,delivered,3,N/A,Kolkata
+9999-99-99,C00780,32-13-2025,delivered,1,upi,Noida
+O0002739,C00676,2023-05-25T19:37:33,delivered,null,@@@,Noida
+O0002740,32-13-2025,2024-10-19T02:21:53,123abc,null,upi,Bengaluru
+not_a_date,C00919,invalid,N/A,###BAD###,cod,Delhi
+O0002742,C00207,2024-03-28T03:01:00,invalid,1,nan,Chennai
+###BAD###, ,2024-03-13T21:09:11,not_a_date,@@@,cod,
+32-13-2025,C00936,@@@,null,@@@,netbanking,32-13-2025
+@@@,not_a_date,2025-11-02T22:02:25,@@@,1, ,invalid
+O0002746,C00029, ,@@@,2,netbanking,Hyderabad
+O0002747,N/A,,###BAD###,not_a_date,upi,Bengaluru
+O0002748,NULL,2024-08-12T02:46:52,delivered,NULL,cod,###BAD###
+O0002749,NULL,,123abc,2,cod,Noida
+,C00801,N/A,32-13-2025, ,netbanking,@@@
+O0002751,null,2023-01-05T13:53:10,9999-99-99,1,card,Kolkata
+ ,not_a_date,2025-04-09T06:51:32, ,1,upi,Hyderabad
+N/A,123abc,32-13-2025,delivered,1,cod,Chennai
+N/A,C00323,2025-09-21T20:37:13,delivered,123abc,netbanking, 
+N/A,C00767,2024-07-22T19:50:04,delivered,2,not_a_date,123abc
+O0002756,C00604,###BAD###, ,1,###BAD###,NULL
+O0002757,123abc,2025-05-03T13:18:13,delivered,1,netbanking,Chennai
+O0002758,32-13-2025,2025-02-19T03:08:06,delivered,2,card,9999-99-99
+N/A,C00338,2024-08-13T17:59:21,delivered,32-13-2025,,@@@
+O0002760,123abc,2023-05-30T05:43:28,delivered,1,nan,Bengaluru
+O0002761,C00932,2024-01-31T18:33:45,processing,1,cod,###BAD###
+O0002762,123abc,2023-11-27T10:25:45,delivered,1,invalid,Delhi
+O0002763,C00868,@@@,NULL, ,N/A,Noida
+O0002764,C00539,32-13-2025,not_a_date,1,upi,Delhi
+N/A,C00398,2023-04-12T12:44:04,shipped,1,N/A,123abc
+32-13-2025,C00590, ,delivered,123abc,upi,Hyderabad
+not_a_date,32-13-2025,nan,delivered,1,32-13-2025,Hyderabad
+O0002768,32-13-2025,2024-05-09T00:54:39,null, ,cod,
+9999-99-99,C00207,nan,nan,invalid,netbanking,Hyderabad
+@@@,C00086,not_a_date,null,@@@,upi, 
+null,nan,2024-10-14T23:28:43,delivered,1,upi,Pune
+ ,C00512,2025-03-27T10:20:48,cancelled,@@@,cod,Pune
+O0002773,not_a_date,2023-12-19T08:30:27,delivered,2,card,Mumbai
+O0002774,C00396,2025-07-03T10:33:50,9999-99-99,1,netbanking,Chennai
+O0002775,C00700,2023-04-28T11:04:26,delivered,1,NULL,Pune
+O0002776,null,2023-11-12T05:57:16,processing,1,upi,Delhi
+O0002777,C00789,2025-08-25T09:00:09,returned, ,netbanking,
+O0002778,NULL,2025-04-12T17:27:01,123abc,1,not_a_date,Pune
+O0002779,C00841,32-13-2025,delivered,32-13-2025,netbanking,Hyderabad
+O0002780,C00199,2023-04-04T19:19:51,@@@,not_a_date,netbanking,Kolkata
+123abc,invalid,2025-04-22T01:11:02,nan,1,upi,Mumbai
+123abc,C00554,2024-04-02T00:38:49,processing,NULL, ,Kolkata
+,C00276,2023-01-25T18:49:27,###BAD###,3,cod,Noida
+O0002784,C00889,2025-09-24T04:53:17,32-13-2025,2,netbanking,Chennai
+nan,C00113,not_a_date,delivered,2,123abc,Chennai
+null,NULL,N/A,9999-99-99,@@@,cod,@@@
+9999-99-99,@@@,2023-01-30T18:20:31,delivered,3,netbanking,Chennai
+null,C00694,2023-02-08T10:37:53,N/A,1,card,Bengaluru
+not_a_date,C00674,2025-06-04T00:10:45,,3,upi,@@@
+,C00667,2023-04-01T07:05:22,not_a_date,3,@@@,Pune
+N/A,invalid,nan,@@@,,invalid,###BAD###
+O0002792,C00158,###BAD###,123abc,3,cod,null
+O0002793,not_a_date,32-13-2025,delivered,1,card,null
+O0002794,32-13-2025,2025-05-21T23:17:58,delivered,1,32-13-2025,not_a_date
+O0002795,C00004,NULL,9999-99-99,not_a_date,upi,Hyderabad
+,123abc,invalid,delivered,9999-99-99,netbanking,not_a_date
+O0002797,C00995,,delivered,9999-99-99,cod,nan
+32-13-2025,N/A,2025-07-29T13:53:30,NULL,9999-99-99,null,N/A
+123abc,C00870,nan,delivered,3,netbanking,
+NULL,C00673,2023-06-27T11:05:51,NULL,NULL,card,Noida
+O0002801,C00554,@@@,delivered,2,cod,32-13-2025
+O0002802,null,null,null,2,card,Hyderabad
+O0002803,NULL,###BAD###,N/A,2,not_a_date,Noida
+O0002804,,2025-07-11T19:32:37,null, ,netbanking,NULL
+NULL,C00234,nan,delivered,1,cod,N/A
+9999-99-99,C00844,2024-07-12T22:34:40, ,3,@@@, 
+O0002807,NULL,2025-08-12T14:37:20,@@@,2,9999-99-99,123abc
+null,C00431,@@@,delivered,9999-99-99,###BAD###, 
+O0002809,C00864,2025-07-15T23:13:29,N/A,1,upi,nan
+O0002810,C00329,2025-10-08T19:03:35,9999-99-99,null,upi,Hyderabad
+O0002811,123abc,NULL,not_a_date,1,cod,Hyderabad
+O0002812,C00211,2023-02-16T04:01:43,delivered,1,card,N/A
+NULL,C00244,2025-03-28T21:06:11,9999-99-99,not_a_date,card,not_a_date
+null,nan,2023-06-30T17:56:51,delivered,null,netbanking,Hyderabad
+,C00868,N/A,returned, ,32-13-2025,Noida
+9999-99-99,C00008,2025-04-02T12:45:48,processing,,card,Delhi
+###BAD###,C00049,2025-07-20T18:08:14,nan,1,not_a_date,Bengaluru
+123abc,,invalid,delivered,###BAD###,null,invalid
+O0002819,C00623,2025-07-19T01:15:45,delivered,1,9999-99-99,Noida
+null,C00336,NULL,processing,nan,netbanking,invalid
+123abc,C00347,2024-12-26T22:28:00,returned, ,invalid,32-13-2025
+O0002822,###BAD###,2023-07-27T05:53:51,delivered,1,###BAD###,9999-99-99
+O0002823,C00331,2024-11-05T10:40:02,delivered,1,not_a_date,Noida
+ ,null,2023-03-09T11:08:41,delivered,,123abc,###BAD###
+O0002825,invalid,nan,###BAD###,1,upi,Pune
+O0002826,NULL,2024-03-04T03:04:19,delivered,invalid,@@@,Mumbai
+O0002827,C00668,2023-07-29T04:59:14,shipped,2, ,9999-99-99
+N/A,C00204,2025-03-31T17:28:07,delivered,1,cod,123abc
+O0002829,NULL,2023-03-18T18:40:28,processing,1, ,N/A
+O0002830,C00551,2023-04-20T04:14:40,shipped,1,upi,Pune
+O0002831,C00437,,delivered,1,upi,invalid
+O0002832,null,2024-04-19T13:46:54,delivered,,null,Mumbai
+32-13-2025, ,123abc,delivered,1,32-13-2025,@@@
+O0002834,,2024-03-02T03:22:37,processing,1,@@@,
+O0002835,C00724,2023-11-25T19:58:45,delivered,1,cod,Kolkata
+null,C00107,invalid,delivered,NULL,card,invalid
+@@@,C00579,2023-07-01T10:35:23,123abc,3,@@@,Bengaluru
+O0002838,@@@,2024-04-09T07:11:19,delivered,@@@,upi,Delhi
+NULL,,@@@,delivered,2,cod,Hyderabad
+9999-99-99,C00025,2025-08-13T06:19:18,NULL,null,cod,Chennai
+invalid,null,2023-12-28T23:07:22,9999-99-99,not_a_date,upi,Chennai
+N/A,C00666,@@@,delivered,2,,9999-99-99
+O0002843, ,2025-06-24T00:21:00,9999-99-99,2,@@@,null
+O0002844,@@@,123abc,delivered,3,123abc,not_a_date
+not_a_date,C00234, , ,invalid,,Chennai
+32-13-2025,C00837,2024-02-21T22:31:51,not_a_date,1,N/A,@@@
+O0002847,N/A,2023-09-14T17:25:18,delivered,2,netbanking,Kolkata
+@@@,@@@,###BAD###,delivered,1,not_a_date,Hyderabad
+O0002849,not_a_date,null,delivered,not_a_date,not_a_date,Noida
+O0002850,not_a_date,2023-09-10T19:47:24,shipped,1, ,
+9999-99-99,invalid,2023-06-09T00:08:20,123abc,1,,Chennai
+O0002852,nan,2023-03-07T04:50:54,invalid,1,NULL,Kolkata
+NULL,C00276,NULL,delivered,N/A,cod,Kolkata
+null,,9999-99-99,123abc,@@@,32-13-2025,nan
+ ,nan,2025-07-15T19:04:20,delivered,1,@@@,9999-99-99
+O0002856,C00834,2025-04-06T03:17:18,invalid, ,netbanking,N/A
+O0002857,nan,2024-12-18T02:29:19,invalid,###BAD###,upi,Hyderabad
+,C00903,2024-09-21T04:55:51,delivered,1,card,NULL
+N/A, ,nan,,1, ,Delhi
+invalid,N/A,123abc,32-13-2025,1, ,Pune
+32-13-2025,null,2023-11-20T20:11:31,123abc,2,cod,Chennai
+null,C00832,N/A,,1,,Mumbai
+ ,C00997,32-13-2025,delivered,3,32-13-2025,N/A
+@@@,C00799,2024-08-13T21:16:56,delivered,1,###BAD###,Bengaluru
+O0002865,9999-99-99,###BAD###,NULL,1,netbanking,Kolkata
+O0002866,C00068,2024-06-01T11:17:24,,1,card,invalid
+O0002867,C00704,N/A,delivered,1,upi,Delhi
+O0002868,C00118,2024-06-17T22:50:37,delivered,2,cod,Pune
+O0002869,C00219,invalid,@@@,,NULL,Pune
+O0002870,not_a_date,nan,delivered,nan,card,Kolkata
+O0002871,C00054,null,delivered,2,@@@,Kolkata
+O0002872,,2024-10-01T06:37:05,delivered,2,card,Chennai
+O0002873,C00235,nan,@@@,invalid,card,###BAD###
+NULL,C00498,N/A,NULL,1,nan,Pune
+O0002875,C00434,invalid,delivered,2,card,N/A
+nan,C00658,NULL, ,123abc,N/A,Kolkata
+O0002877,C00947,null,delivered,1,nan,Mumbai
+O0002878,C00414,2023-03-10T01:11:12,delivered,1,cod,invalid
+O0002879,N/A,9999-99-99,NULL,9999-99-99,netbanking,N/A
+O0002880,123abc,32-13-2025,delivered,123abc, ,Hyderabad
+O0002881,C00492,2023-03-17T03:20:04,,1,netbanking,9999-99-99
+9999-99-99,C00098,not_a_date,delivered,2,@@@,Bengaluru
+not_a_date,C00139,2023-10-07T08:02:02,shipped,1,netbanking,Bengaluru
+N/A,32-13-2025,32-13-2025,delivered,@@@,card,Delhi
+O0002885,NULL,N/A,32-13-2025,@@@,upi,###BAD###
+O0002886,C00229,123abc,delivered,2,invalid,NULL
+O0002887,C00979,2023-08-28T06:10:15,not_a_date,1,###BAD###,Pune
+O0002888,C00853,2025-04-23T21:18:21,,1,upi,Bengaluru
+O0002889,,2025-03-29T09:49:51,,123abc,cod,Hyderabad
+,C00813,2023-01-11T05:16:37,###BAD###,2,invalid,Kolkata
+invalid,123abc,2023-12-23T23:03:46,###BAD###,1,upi,Kolkata
+O0002892,C00448,2025-07-18T20:42:30,delivered,@@@,netbanking,
+9999-99-99,nan,not_a_date,processing,2,upi,Hyderabad
+O0002894, ,N/A,shipped,1,cod,N/A
+not_a_date,C00834,###BAD###,delivered,1,cod, 
+O0002896,C00379,2024-05-19T20:32:03,###BAD###,2,###BAD###,N/A
+O0002897,null,2023-08-04T08:30:50,###BAD###,1,netbanking,Kolkata
+###BAD###,C00415,2025-01-29T05:18:56,delivered,1,nan,Hyderabad
+O0002899,C00445,2024-10-12T21:14:21,delivered,not_a_date,cod,Bengaluru
+O0002900, ,not_a_date,###BAD###,1,invalid,Noida
+9999-99-99,@@@,2023-11-05T09:06:21,delivered,N/A,null,Noida
+O0002902,C00885,9999-99-99,123abc,2,nan,@@@
+O0002903,C00278,9999-99-99,123abc,NULL,cod,32-13-2025
+O0002904,C00685, ,delivered,1,invalid,Chennai
+O0002905,null,9999-99-99,123abc,1,card,Hyderabad
+not_a_date,C00099,32-13-2025,delivered,1,cod,Kolkata
+O0002907,C00712,invalid,null,3,32-13-2025,Noida
+O0002908,C00134,@@@,delivered,1,card,invalid
+O0002909,C00281,nan,delivered,###BAD###,netbanking, 
+O0002910,C00750,2024-07-17T18:13:07,delivered,1,card,Chennai
+9999-99-99,C00408,2024-02-07T18:49:19,cancelled,1,@@@,9999-99-99
+,C00189,NULL,delivered,1,NULL,not_a_date
+NULL,C00863,2024-08-30T11:48:25,,2,invalid,Delhi
+N/A,C00472,2023-10-12T23:59:37,processing,3,upi,invalid
+O0002915,C00221,123abc,processing,null,card,NULL
+O0002916,C00186,2025-04-27T22:58:24,delivered,1,null,123abc
+O0002917,C00636,invalid,not_a_date,2, ,Kolkata
+not_a_date,C00337,nan,, ,cod,9999-99-99
+9999-99-99,nan,###BAD###,N/A,1,,Chennai
+O0002920,C00749,,delivered,1,upi,Kolkata
+N/A,C00488,NULL,delivered,not_a_date,NULL,###BAD###
+O0002922,123abc,2023-04-04T18:34:51,delivered,2,card,Mumbai
+O0002923,C00978,9999-99-99,delivered,2,card,Chennai
+O0002924,###BAD###,2023-07-06T03:25:00,shipped,1,null,null
+O0002925,C00049,2024-09-30T20:57:59,delivered,1,null,Bengaluru
+123abc,C00543,2025-05-04T13:59:07,delivered,nan,card,Delhi
+O0002927,C00898,not_a_date,delivered,2,netbanking,Chennai
+O0002928,C00514,2024-11-05T09:35:16,processing,,card,Kolkata
+O0002929,C00327,123abc,null,,@@@,Noida
+N/A,C00858,2023-07-24T06:58:34,NULL,not_a_date,nan,Pune
+O0002931,C00807,2025-09-11T03:54:44, ,1,cod,Delhi
+O0002932,C00209,nan,delivered,1,card,nan
+O0002933,C00311,9999-99-99,9999-99-99,1,card,
+O0002934,NULL,2023-09-02T04:53:34,nan,invalid,invalid,NULL
+O0002935,C00140,123abc,nan,2,,Hyderabad
+O0002936,C00488,2025-01-24T15:24:18,processing,###BAD###, ,Delhi
+O0002937,null,2023-06-13T01:58:40,delivered,2,N/A, 
+@@@,C00126,invalid,delivered,1,invalid,N/A
+O0002939,C00899,2023-04-09T02:45:15,delivered,3,upi,Kolkata
+123abc,C00340,2023-04-16T13:38:42,delivered,,null,Hyderabad
+O0002941, ,2025-04-12T17:16:52,9999-99-99,nan,netbanking,Pune
+O0002942,C00180,2025-10-14T23:19:57,nan,1,netbanking,Pune
+O0002943,null,###BAD###,processing,1,cod,null
+O0002944,C00534,2025-01-05T13:24:38, ,2,netbanking,not_a_date
+O0002945,C00032,9999-99-99,delivered,2,123abc,Hyderabad
+O0002946,nan,9999-99-99,delivered,9999-99-99,upi,Chennai
+32-13-2025,32-13-2025,2023-10-26T05:28:40,not_a_date,9999-99-99,cod,Bengaluru
+123abc,not_a_date,2025-04-07T04:48:41,delivered,1,upi,Mumbai
+O0002949,C00266,not_a_date, ,1,card,nan
+O0002950,C00880,2024-07-16T03:53:14,delivered,2,cod,Hyderabad
+@@@,null,2024-01-04T08:02:50,delivered,2,,invalid
+ ,C00898,2023-01-11T00:40:52,delivered,@@@,card,null
+ ,C00996,2023-07-25T15:08:34,32-13-2025,2,32-13-2025,Hyderabad
+O0002954,C00173,2024-01-29T16:46:07,delivered,N/A,netbanking,32-13-2025
+O0002955,not_a_date,nan,null,not_a_date,netbanking,###BAD###
+O0002956, ,2024-07-22T15:20:55,delivered,1,netbanking,Pune
+O0002957,C00621,2024-08-31T01:00:17,delivered,2,upi,Noida
+O0002958,C00620,not_a_date,32-13-2025,2,card,Kolkata
+O0002959,NULL,2023-03-02T10:12:20,,1,cod,123abc
+9999-99-99,C00169,2023-09-26T00:50:59,null,invalid,card,Pune
+O0002961, ,null,cancelled,,netbanking,NULL
+O0002962,null,N/A,nan,1,upi,Pune
+NULL,invalid,2024-09-09T02:39:21,processing,1,netbanking,Delhi
+O0002964,###BAD###,not_a_date,delivered,3,cod,Chennai
+O0002965,C00751,2023-09-21T17:02:11,delivered,2,invalid,Mumbai
+O0002966,null, ,NULL,2,card,Kolkata
+O0002967,NULL,2023-08-25T21:09:06,delivered,2,cod,
+9999-99-99,C00954,2024-05-05T23:25:38,delivered,1,upi,Pune
+O0002969,invalid,2024-10-23T11:58:31,cancelled,@@@,upi,123abc
+O0002970,C00558,2024-07-23T05:36:57,9999-99-99,1,,N/A
+O0002971, ,2023-04-11T22:19:22,processing,1,cod,Mumbai
+O0002972,C00387,invalid,N/A,1,cod,Kolkata
+O0002973,C00240,2025-07-15T08:23:28,null,2,card,Hyderabad
+O0002974,not_a_date,2023-10-22T14:26:05,@@@, ,cod,Delhi
+O0002975,null,2023-04-30T04:22:14,null,1,upi,nan
+O0002976,C00491,123abc,delivered,1,cod,not_a_date
+not_a_date,C00276,2024-09-09T14:49:53,9999-99-99,2,invalid,Pune
+O0002978,C00822,2023-01-19T17:18:43,delivered,1,netbanking,Chennai
+O0002979,C00179,2024-03-11T09:32:00,cancelled,2,upi,NULL
+O0002980,C00466,2023-09-16T09:07:46,null,3,netbanking,Hyderabad
+O0002981,C00615,2023-08-10T10:34:21,123abc,1,upi,Mumbai
+O0002982,C00394,2023-12-23T15:36:51,delivered,1,netbanking,Chennai
+32-13-2025,C00169,invalid,shipped,9999-99-99,netbanking,Kolkata
+O0002984,C00673,@@@,9999-99-99,2,upi,Pune
+O0002985,C00186,2024-03-31T02:20:40,delivered,1,netbanking,N/A
+O0002986, ,2023-04-05T08:01:58,returned,3,cod,Hyderabad
+O0002987,C00189,2023-07-05T14:10:06,delivered,1,netbanking,not_a_date
+O0002988,C00850,9999-99-99,delivered,###BAD###,netbanking,N/A
+O0002989,@@@,2024-05-08T18:11:57,delivered,2,netbanking,Noida
+32-13-2025,C00880,2023-01-11T12:14:08,null,2,invalid,Kolkata
+###BAD###,nan,2024-04-17T18:10:32, ,1,upi,Mumbai
+###BAD###,C00190,2023-11-06T01:26:06,123abc,2,NULL,NULL
+invalid,32-13-2025,2024-05-05T20:15:13,N/A,1,netbanking,Noida
+O0002994,C00619,NULL,null,invalid,card,invalid
+O0002995,nan,2024-11-30T13:06:24,delivered,1,upi,null
+O0002996,,2024-07-29T22:31:04,delivered,2,null,not_a_date
+O0002997,@@@,2024-09-25T00:46:28,delivered,NULL,9999-99-99,Kolkata
+N/A,123abc,2024-08-08T11:46:51,N/A,nan,netbanking,null
+O0002999,C00085,2025-02-27T20:40:29,###BAD###,1,card,Chennai
+O0003000,C00340,2025-02-10T09:28:46,nan,2,netbanking,@@@
+O0002089,C00835,invalid,not_a_date,2,upi,
+O0001445,C00457,invalid,,2,9999-99-99,123abc
+O0000028,9999-99-99,2024-01-05T17:25:32,delivered,NULL,nan,Noida
+O0001052,###BAD###, ,delivered,1,card,not_a_date
+O0000219,C00114,2025-02-23T11:29:39,delivered,1,upi,invalid
+###BAD###,,###BAD###,###BAD###,invalid,not_a_date,###BAD###
+invalid,invalid,invalid,not_a_date,not_a_date,not_a_date,
+invalid,,,,,###BAD###,
+,,not_a_date,###BAD###,,###BAD###,###BAD###
+invalid,,###BAD###,not_a_date,invalid,###BAD###,not_a_date

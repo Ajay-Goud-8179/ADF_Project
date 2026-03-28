@@ -1,0 +1,31 @@
+category_id,category_name
+CAT001,Category_1
+CAT002,123abc
+CAT003,nan
+9999-99-99,Category_4
+not_a_date,Category_5
+###BAD###,not_a_date
+CAT007,Category_7
+CAT008,Category_8
+null,nan
+CAT010,not_a_date
+CAT011,Category_11
+123abc,@@@
+CAT013,Category_13
+CAT014,Category_14
+@@@,123abc
+###BAD###,Category_16
+ ,Category_17
+CAT018,nan
+CAT019,Category_19
+CAT020,null
+CAT018,nan
+123abc,@@@
+CAT003,nan
+ ,Category_17
+not_a_date,Category_5
+invalid,not_a_date
+not_a_date,###BAD###
+,not_a_date
+,not_a_date
+not_a_date,invalid
